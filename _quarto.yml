@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "FRA2261-A-H26 - Dramaturgie d'Ancien Régime"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: intro.qmd
+      - href: corneille.qmd
+      - href: moliere.qmd
+      - href: racine.qmd
+      - href: bernard.qmd
+      - href: villedieu.qmd
+      - href: bibliographie.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+

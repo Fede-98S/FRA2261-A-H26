@@ -1,0 +1,92 @@
+---
+title: "Introduction"
+---
+
+# Cadre politique
+
+Le 13 avril 1598 est la date marquant le début du nouveau siècle, avec la promulgation de l’édit de Nantes. Henri IV, à travers ce document, donne la liberté de culte au protestant, s’appliquant pourtant seulement en dehors de Paris. Cette situation de paix mène à l’affirmation de la classe bourgeoise et des fonctionnaires. En 1600 le roi épouse en secondes noces Marie de Médicis qui, après la mort du roi en 1610, devient la régente. Pourtant, les protestants se révoltent à nouveau et il prend le pouvoir, mais, grâce au cardinal Richelieu, la monarchie est restaurée en 1624. C’est ainsi qui s’impose des règlements serrants, et qui valorisent et protègent la monarchie.
+
+La guerre de Trente Ans (1618-1648) met à l’épreuve les caisses de la France et le peuple est à genou. Se terminant en 1640 avec la paix de Westphalie, l’Europe commence à se dessiner. En même temps, le roi et le cardinal meurent respectivement en 1642-1643, mais à nouveau, il faut une régence, cette fois-ci par la mère Anne d’Autriche avec l’aide du Premier ministre Mazarin. À la fin de la guerre, il commence une nouvelle guerre, dans ce cas civil, la Fronde. Successivement voyant le mouvement de la Fronde parlementaire avant et des princes après. En 1659, une deuxième paix est signée, celle des Pyrénées, qui donne l’Artois et la Roussillon à la France.
+
+Après les guerres internationales, ainsi que celle interne, et suite à la mort de Mazarin en 1661, le roi Louis XIV prend sur soi tout le pouvoir comme seul gouverneur, on parle d’affirmation de la monarchie absolue. Colbert devient premier ministre en 1655, mais il est plus un contrôleur des autres ministres, simples gestionnaires, outre à être intendant des finances. Pour résoudre le problème des guerres de religion, Louis XIV soumet les protestants et réduit l’autorité papale. Louis XIV, vers les années 80 du siècle, s’impose également comme autorité spirituelle de l’Église de France. La forte répression des protestants mène à l’abolition de l’édit de Nantes en 1685. Cela suit un mouvement d’enracinement de plus en plus majeur, après la mort de la reine Marie-Thérèse et peu après de Colbert aussi, le roi épouse Madame de Maintenon, dont la rigueur de sa foi chrétienne mène le roi à une telle abolition. La fin du siècle est marquée par les guerres et la famine.
+
+À côté des politiques relevant de la sécurité interne et d’expansion, il s’engage aussi dans la vie artistique et intellectuelle. En effet, Louis XIV comprend le potentiel des arts comme véhicule d’idéologies. Pour cette raison, son engagement relève du mécénat à travers l’attribution des pensions et des subventions. Parmi les différents arts, le théâtre est le véhicule idéal pour deux raisons: l’accessibilité de cet art ne demande pas d’alphabétisation; le théâtre réunit tous les autres arts dans un même endroit (la peinture du décor, la parole les machine, la musique et la danse). C’est pour cette raison que le **16 avril 1641** est édicté l’ordonnance royale pour la réhabilitation de la profession du comédien.
+
+<iframe src="https://obtic.huma-num.fr/obvil-web/corpus/haine-theatre/louis-xiii_declaration_1641" title="description_of_embedded_content" style="width:100%; height:400px;">
+</iframe>
+<figcaption>Louis XIII, Déclaration du Roy Louis XIII, au sujet des comédiens, du 16 avril, Paris, Impr. de Sevestre, 1641. <a href="https://obtic.huma-num.fr/obvil-web/corpus/haine-theatre/louis-xiii_declaration_1641">Disponible en ligne.</a></figcaption>
+
+Dans l’ordonnance, nous lisons la promotion de l’honnêteté morale, pour personne offensée.
+
+> de représenter aucunes actions malhonnêtes, ni d’user d’aucunes paroles lascives ou à double entente qui puisse blesser l’honnêteté publique [...] En cas que lesdits comédiens règlent tellement les actions du théâtre qu’elles soient du tout exemptes d’impuretés, nous voulons que leur exercice ne leur puisse être imputé à blâme, ni préjudice de leur réputation dans le commerce public.
+
+Cette moralité des comédiens, en réalité, est une forme de respect pour le public, tendanciellement de strates de la société partant de la bourgeoisie. Stratus auxquels parfois appartiennent aussi les comédiens ou les auteurs, voir Molière tapissier royal ou la Champmeslé, fille d’un receveur d’impôts, et le comédien Floridor, qui est un noble (distinction noblesse de robe et noblesse d’épée). Parfois, même le roi prenait parti dans les pièces, par exemple interprétant des personnages mythologiques dans des petites pièces ou dans des ballets. C’est sûr qu’ainsi faisant, la réhabilitation d’une telle profession est assurée.
+
+Si on revient sur le cadre de la politique religieuse, il faut noter que, si le roi participe aux arts de la scène, elles font preuve d’une tolérance officielle. Cependant, bien que le roi prend parti à ces spectacles, les membres du clergé prônent la défense du théâtre, des fortes condamnations viennent des jansénistes et les dévots. Cette forte opposition demeure contradictoire lorsqu’on regarde à l’histoire du théâtre, notamment au Moyen Âge, quand les mises en scène dont nous sont parvenues plus d’informations sont justement les miracles et les mystères, deux formes de sacres représentations qui se jouaient dedans l’Église. Puis, petit à petit, la représentation s’est déplacée sur le parvis, et, dès là, il y a une division et une évolution du théâtre. Il faut considérer le fait qu’évidemment, le théâtre de forme populaire, que se soit en ville ou à la campagne à toujours existé.
+
+Le théâtre a de fortes racines dans la ritualisé, à ce sujet intéressant sont les études anthropologiques et explorant justement cette dimension[^1].
+
+# Troupes et théâtres
+
+Les troupes théâtrales professionnelles sont composées de 12 à 20 comédiens, souvent issus de la même famille (voir Béjart). Parmi les composantes d'une troupe, il y a le chef de troupe, qui a un rôle de direction. Le numéro des troupes en France au XVII<sup>e</sup> siècle est de 200 troupes de provinces, qui étaient des troupes itinérantes, et quatre troupes à Paris. Ces dernières étaient directement subventionnées par le roi et y travaille également les auteurs, dont le rôle sera mieux discuté plus tard.
+
+La première troupe parisienne est celle installée à l'Hôtel de Bourgogne, existant depuis 1629. Situé au quartier des Halles, dans ce théâtre, s'y joue surtout les tragédies.
+
+En 1634 s'installe le théâtre du Marais, où on y voit représenté avant des comédies et tragédies, puis il se spécialise dans les pièces à machines, donc des pièces prévalentement à sujet mythologique.
+
+La troupe du Palais-Royale de Molière débute au Petit-Bourbon en 1658, en 1661, elle se déplace au Palais-Royale, pour arriver au Théâtre Guénégaud après la mort de Molière en 1673.
+
+La dernière troupe est celle des Comédiens-Italiens, installé au Petit-Bourbon depuis 1653, tout comme la troupe de Molière en 1661, elle se déplace au Palais-Royal pour ensuite arriver en 1680 à l'Hotel de Bourgogne. Les comédiens italiens jouent à l'improvisée, Commedia dell'arte [^2]. 
+
+---
+
+## Aspect économique
+
+Il faut savoir que pour que le théâtre fonctionne bien, ses dépenses annuelles, estimées sur l'année 1670, est de 15000 livres. En sachant que 1 livre équivaut à 2-3$, les dépenses remontent à 30000$ et 45000$. Il faut considérer que le roi contribue avec des pensions et subventions qui varient selon la préférence du roi.
+
+| Théatre | Montant Livres | Montant Dollars |
+|-----------------------|-------------------|------------------|
+| Palais Royale | 15000 | 30/45000 |
+| Hotel de Bourgogne | 12000 | 24/36000 |
+| Theatre du Marais | 6000 | 12/18000 |
+| Comédiens-Italiens | 6000 | 12/18000 |
+
+
+Donc, nous pouvons constater que seule la troupe du Palais Royal reçoit des subventions telles qu'elle seule est en mesure de payer tous les frais de fonctionnement, ou presque. Il faut se rappeler que, tout au long du siècle, la politique financière a subi une grosse crise avec une forte inflation. 
+
+| Ancien Régime | Rapport en livres | Euro | Dollars |
+|---------------|-------------------|------|---------|
+| 1 Ecus/Louis | 3 | 67.85 | 110.04 |
+| 1 Livre | 1 | 22.62 | 36.69 |
+| 1 Sol | 0.05 | 1.13 | 1.83 |
+| 1 Denier(s) | - | 0.09 | 0.15 |
+
+[Convertisseur Livre Ancien Régime](https://convertisseur-monnaie-ancienne.fr/?Y=1680&E=0&L=6000&S=0&D=0)
+
+---
+
+Le Théâtre du Palais-Royal est en vrai né comme Palais-Cardinal et appartenait au cardinal Richelieu, donc il s'agit d'un théâtre privé. En 1642, il prend le nom de Palais-Royal, tout en restant un théâtre privé et en devenant public qu'à partir de 1650. En 1670 ce théâtre peut ôter mille spectateurs, si bien serrés, repartis en: 600 au parterre, 500 dans les loges et 100 dans l'amphithéâtre. L'Hotel de Bourgogne et le théâtre du Marais ont une même structure, mais, de dimensions réduites, peuvent ôter juste quelques centaines de spectateurs. Cela est dû au fait que ces salles sont des anciens jeux de paume[^3].
+
+# La scène
+
+La scène de théâtre, normalement, est peu large et peu profonde, elle présente un décor en perspective à l'arrière-scène et l'espace de jeu à l'avant-scène reste limité. Les caractéristiques physiques du théâtre imposent des contraintes sur l'acteur et sur sa manière de jouer. En effet, le jeu est frontal et statique, et la manière de parler est déclamatoire, il s'agit d'un art codifié de la voix et de geste peu nombreux et expressif, on jeu notamment avec les bras (lever, baisser et indiquer), le visage, la mimique et en général la posture. 
+
+Même l'écriture dramatique se fait en se basant sur ces contraintes, donc il y a une esthétique du monologue et de la tirade. Ces longues répliques sont particulièrement adaptées pour les airs d'opéra. La présence des monologues est particulièrement imposante dans la tragédie. En effet, la comédie joue un appart, ayant beaucoup de gestuelle, de mouvement, que ce soit d'un seul comédien ou dans l'interaction dans le microcosme de la représentation.
+
+# Déclin du théâtre
+
+La production théatrale entre 1630 et 1680 est considéré comme faisant partie de l'age d'or du théatre. Après 1680 plusieurs facteurs marquent le déclin de cette art. 
+
+- La période de la fin du règne avec une période de récession et de stagnation.
+- l'institution de la Comédie-Française en 1680 les théâtres sont centralisés (agglomération de l'Hotel de Bourgogne, du Marais et la troupe de Molière) et il n'existe plus de concurrence des troupes françaises (ou peut-être ce serait mieux de dire francophones).
+- 1672, institutions de l'Académie royale de musique et de danse par le Florentin Gianbattista Lulli (Jean-Baptiste Lully).
+- Au Comédiens-Italiens, dès 1684, restent le théâtre de l'improvisation et les nouvelles créations; cependant, en 1697, ils sont chassés de Paris après avoir joué _La Fausse Prude_, une satire contre Mme de Maintenon.
+- Cela est issu de la politique d'intolérance religieuse, faute des dévotions croissantes et de l'influence de Mme de Maintenon sur le roi. 
+- En 1684 Bousset attaque Molière avec _Maxime et réflexions sur la comédie_, car il ridiculise les mauvaises mœurs, mais sans les corriger.
+- Un tel acharnement politique contre le théâtre est mise en place, en 1701, la commission de censure dont le directeur est le lieutenant de police. En cette année, on donne au censeur le droit de regarder au manuscrit de la représentation et, en 1709, le droit à la lectrice du censeur est nécessaire que avant l'impression.    
+
+[^1]: Le théâtre a de fortes racines dans la ritualisé, à ce sujet intéressant sont les études anthropologiques et explorant justement cette dimension.
+
+[^2]: La Commedia dell'arte est un genre théâtral italien du XVIe siècle qui met en scène des personnages stéréotypés, appelés masque: les amants, Colombina, Pulcinella, Brighella. Le jeu de l'improvisation repose quand même sur un canevas.
+
+[^3]: Le jeu de paume est l'ancêtre du tennis. Ce sport a évolué dans sa pratique, dans un premier temps, on utilise une main gantée pour frapper la balle, puis on commence à utiliser une raquette. Le terme tennis dérive de l'action initiale de la partie, quand on lance la balle et on dit "tenez!".

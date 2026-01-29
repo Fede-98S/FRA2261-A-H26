@@ -1,0 +1,43 @@
+---
+title: ""
+---
+
+# Description
+
+Dans le champ des études théâtrales, le terme « dramaturgie » désigne (1) l’ensemble des écrits dramatiques d’une personne, d’une époque, d’un courant, d’une aire géographique, etc.; (2) l’art de composer une œuvre dramatique; (3) la pensée du passage du texte à la scène. Le cours FRA 2261 « Dramaturgie d’Ancien Régime » porte sur tous ces aspects mais principalement sur les deux derniers et plus précisément sur leur interaction. 
+
+Fondé sur le rapport historique entre le texte et la scène, ce cours vise à faire découvrir et comprendre les pièces de théâtre du XVIIe siècle sous l’angle de leurs exigences et enjeux performatifs. Nous articulerons notre réflexion autour de trois grands axes : la fonction sociale (politique, critique, morale) du théâtre en France au XVIIe siècle, ses dispositifs (scénographie, rapport scène-salle), son oralité (déclamation). Des aspects en apparence plus « littéraires » (ou du moins traditionnellement enseignés comme tels), comme la versification et la règle des trois unités, de même que les modalités d’édition des textes, seront eux aussi envisagés et analysés dans cette perspective.  Au fil de la session, les étudiant.es seront ainsi amenés à repérer et à comprendre les principaux fondements dramaturgiques de la poétique théâtrale du XVIIe siècle. Ils.elles seront du même coup amené.es à réfléchir aux défis que ces textes posent à la mise en scène actuelle. Une sortie pourra aussi être organisée en fonction des spectacles à l’affiche à Montréal. 
+
+# Calendrier
+
+| Date | Activité |
+|-----------------------|----------------------------------|
+| 15 janvier-18 février | _L’Illusion comique_, _Horace_, _Le Bourgeois gentilhomme_ |
+| **26 Février** | **Examen de mi-session** |
+| 5 mars | semaine de lecture  |
+| 19 mars-2 avril | _Le Misanthrope_, _Le Favori_, _Phèdre_ |
+| 9 avril | Cours + conférence de Pierre Lyraud sur _Brutus_ (à confirmer) |
+| 16 avril | Dernier cours |
+| 23 avril | REMISE DU TRAVAIL FINAL |
+
+# Lectures
+
+BERNARD, Catherine, [_Brutus_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/BERNARD_BRUTUS.xml), 1691. 
+
+CORNEILLE, Pierre, [_L’Illusion comique_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_ILLUSIONCOMIQUE.xml), 1639.
+
+CORNEILLE, Pierre, [_Horace_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_HORACE.xml), 1641. 
+
+MOLIÈRE, [_Le Misanthrope_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_MISANTHROPE.xml), 1666. 
+
+MOLIÈRE, [_Le Bourgeois gentilhomme_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_BOURGEOISGENTILHOMME.xml), 1670.  
+
+RACINE, Jean, [_Phèdre et Hippolyte_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/RACINE_PHEDRE77.xml), 1677. 
+
+VILLEDIEU, Marie-Catherine-Hortense de, [_Le favori_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/DESJARDINS_FAVORI.xml), 1666. 
+
+# Évaluation
+
+- [ ] 1 examen de mi-session : 40% (à rédiger en classe, 26 février)
+
+- [ ] 1 travail de fin de session : 60% (à remettre en avril) 

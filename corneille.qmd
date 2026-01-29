@@ -1,0 +1,567 @@
+---
+title: "Corneille"
+---
+
+# _L'Illusion comique : le thème du théâtre_
+
+<iframe src="_site/presentations/corneille.html" title="description_of_embedded_content" style="width:80%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+L’imagination, en tant qu’illusion ou mirage, est un concept recourant à l’époque Baroque. Cela se basant sur les arts et sur la science, dans les termes d’étude de la vision et du développement dans les études concernant la prospective. Si, d’une part on retrace l’imaginaire dans la prose, dans la poésie et dans le texte théâtral, d’autre part, nous retrouvons également son développement aux croisements des arts susmentionnés. En effet, rien que dans les décors du théâtre, notamment dans celui développé sous Mazarin et formant le goût de la cour de France. La thématique de l’illusion a une racine profonde dans la morale et dans la religion, voire Montaigne et Pascal, reposant sur le lieu commun de la vanité et la duplicité de l’homme.
+
+Les premières décennies du XVII<sup>e</sup> siècle (jusqu’à 1635), voient un intérêt croissant vers les règles, il suffit de penser à l’institution de l’Académie Française fondée en 1635. Les valeurs de respect des apparences s’avèrent centrales, non seulement pour la vie sociale et politique, mais aussi dans le théâtre. Les influences avec le théâtre italien, montre un intérêt de plus en plus fort vers les règles, transmises par la poétique d’Aristote, traduit et analysé avant tout dans le contexte italien. Cette redécouverte théorique jeu un rôle fondamental pour toute la suite du siècle. Le premier à reprendre dans le contexte français cet auteur est Jean Chapelain sous suggestion de Mazarin, qui l’informe de toutes les innovations des Italiens. À partir de ce moment commence à s’imposer la première règle, celle des 24h.
+
+## Pierre Corneille (1606-1684)
+
+Pierre Corneille est né en 1606 à Rouen, région Normandie. Tout comme son père, il se forme au collège des jésuites et devient avocat. Sa première rencontre avec le théâtre a lieu dans sa ville maternelle, en entrant en contact avec les troupes ambulantes des provinces. C’est ainsi qu’il rencontre Montdory et Lenoir, ayant une troupe qui jouait en province et à Paris. Corneille confie à Montdory ses premières pièces : _Mélite_ (1629), _La Place royale ou l’Amoureux extravagant_ (1634) et _Médée_ (1634), dont les premières deux des comédies et la première tragédie. _Mélite_, jouée au cours de la saison 1629/1630, a un tel succès que Montdory établit une nouvelle troupe (pour plus d’information, voir l’examen de _Mélite_, 1660).
+
+La troupe itinérante jouait dans des jeux de paume du Marais, pour finalement s’installer en 1635 rue Vieille-du-Temple en constituant le deuxième théâtre fixe de Paris, le premier étant l’Hôtel de Bourgogne. Une fois installée, la troupe s’ouvre à de nouveaux comédiens, comme Jornain (dit Bellemore). Ce dernier est spécialiste du personnage stéréotypique du soldat fanfaron de la comédie antique (voir Miles gloriosus de Plauto), et passé dans le masque du Capitain de la Commedia dell’Arte, appelé souvent Matamore. C’est à partir de ce personnage que Montdory demande à Corneille une pièce comprenant ce nouveau personnage de la troupe, c’est la naissance de _L’Illusion comique_.
+
+Contrairement à sa contemporaine qui s’adonne plutôt aux genres récents, tels que la tragi-comédie ou la pastorale, il reprend la comédie. Il représente, tout en s’inspirant de la pastorale, des jeunes causant sur « les mystères, les surprises et les joies de l’amour ». Si la tragédie est considérée comme un genre qui se conforme à des règles strictes, la comédie ne montre pas de respect pour ces règles en créant des « exceptions ». Donc, Corneille ne semble pas partager complètement cette même doctrine qu’il reprendra au sein de ses discours.
+
+### Frise chronologique publications Corneille
+<!---
+
+https://codepen.io/anon/pen/KGaZjR
+
+<ul class="timeline">
+  <li>
+    <div>
+      <time datetime="1606">1606</time>
+      <p>Naissance Pierre Corneille</p>      
+    </div>
+  </li>
+  <li>
+    <div>
+      <time datetime="1615">1615</time>
+      <p>Entrée au collège des Jésuites</p>      
+    </div>
+  </li>
+  <li>
+    <div>
+      <time datetime="1624">1624</time>
+      <p>Licence ès lois, il est avocat. Dès 1628 au 1650 il conserve la double charce au siège des eaux et forets et à l'amirauté de France</p>      
+    </div>
+  </li>
+  <li>
+    <div>
+      <time datetime="1629">1629</time>
+      <p><i>Mélite</i> est joué au théâtre du Marais</p>      
+    </div>
+  </li>
+  <li>
+    <div>
+      <time datetime="2018-10-09">October 9, 2018</time>
+      <p>description event #5</p>      
+    </div>
+  </li>
+  <li>
+    <div>
+      <time datetime="2018-10-09">October 9, 2018</time>
+      <p>description event #6</p>      
+    </div>
+  </li>
+</ul>
+-->
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1606</div>
+      <div class="timeline-info">
+        <h4>Naissance</h4>
+        <p>Pierre Corneille est né à Rouen.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1615</div>
+      <div class="timeline-info">
+        <h4>Études</h4>
+        <p>Il commence ces études chez les jéduites.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1622-1624</div>
+      <div class="timeline-info">
+        <h4>Études de droits</h4>
+        <p>Formation en jurisprudence comme son père.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1624</div>
+      <div class="timeline-info">
+        <h4>Stage</h4>
+        <p>Stage au parlement de Rouen.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1628</div>
+      <div class="timeline-info">
+        <h4>Achat d'offices</h4>
+        <p>Son père lui achète deux offices d'avocat du roi, Eaux et Forêts et amirauté de France. Il les consèrvent jusqu'au 1650.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1629</div>
+      <div class="timeline-info">
+        <h4><i>Mélite</i></h4>
+        <p>Sa première pièce. Puis, <i>Clitandre</i>, <i>La Veuve</i>,<i>La Place Royale</i></p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1633</div>
+      <div class="timeline-info">
+        <h4>Société des cinq auteurs</h4>
+        <p>Detailed description or additional info here.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1634</div>
+      <div class="timeline-info">
+        <h4><i>Médée</i></h4>
+        <p>Première tragédie.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1635</div>
+      <div class="timeline-info">
+        <h4><i>L'Illusion comique</i></h4>
+        <p>Detailed description or additional info here.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1636</div>
+      <div class="timeline-info">
+        <h4><i>Le Cid</i></h4>
+        <p>Detailed description or additional info here.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+function toggleInfo(el) {
+  // Toggle clicked item
+  el.classList.toggle('active');
+}
+</script>
+```
+
+## _L'Illusion comique_
+
+### Introduction
+
+L’Illusion comique a été publiée en 1639, mais la date de publication ne correspond pas à la date de création et/ou de représentation de la comédie. En effet, selon des données qui ne sont pas textuelles, interne à la pièce, mais plutôt relevant de la constitution de la troupe et d’informations données par Corneille lui-même ou ses contemporaines, nous pouvons affirmer que cette pièce a été mise en scène entre l’été et l’automne 1635, donc, cinq ans avant sa publication. Comme il a été dit auparavant, la pièce naît suite à une commande par la troupe de Lenoir et Montdory. Probablement la vie de ce dernier, ou d’un comédien de succès quiconque, pourrait avoir inspiré le personnage de Clindor.
+
+La pièce présente depuis son titre la référence à son contexte historique, celui du baroque à travers l’un de ses topos, l’illusion. De plus, si, dans sa première édition Corneille nomme sa pièce L’Illusion comique: comédie, à partir du 1660 il utilisera juste L’Illusion.
+
+Au propos du genre dramatique d’appartenance, l’épître dédicatoire et l’examen de L’Illusion comique fournissent des éléments de lecture de la structure protéiforme de la pièce. En effet, la comédie que Corneille crée est considérée comme un “monstre” par lui-même (faute des changements de genre, de personnage et d’identité).
+
+> Voici un étrange monstre que je vous dédie. Le premier acte n'est qu'un prologue; les trois suivants font une comédie imparfaite, le dernier est une tragédie: et tout cela, cousu ensemble, fait une comédie.
+
+Épître
+
+> Le premier acte ne semble qu'un prologue; les trois suivants forment une pièce, que je ne sais comment nommer: le succès en est tragique; Adraste y est tué, et Clindor en péril de mort; mais le style et les personnages sont entièrement de la comédie. [...] Le lieu y est assez régulier, mais l'unité de jour n'y est pas observée. Le cinquième est une tragédie assez courte pour n'avoir pas la juste grandeur que demande Aristote et que j'ai tâché d'expliquer.
+
+Examen
+
+La pièce se présente donc comme une comédie polymorphe, que, mème évoluant de genre tout au long de la représentation, elle résulte fondamentalement comique. Le “prologue” reprend le genre pastorale à travers le personnage du magicien, qui, avec les forces de la nature, constitue une sorte d’obstacle pour les bergers et bergères. Lors des actes centrales, il y a l’intrigue des amours empêchées par l’autorité paternelle, autour de laquelle gravitent les amants, les valets et suivants (Isabelle, Clindor, Lise, Géronte), ainsi que les personnages typiques de la comédie ou de la Commedia dell’Arte, comme le nouveau personnage du Marais, Matamore. Le dernier acte est celui qui emprunte à la tragédie, quoi que, déjà dans la première scène du quatrième acte, il y a une tirade d’Isabelle, typiquement tragique.
+
+Si auparavant, Corneille se distingue du type de comique des Italiens, notamment dans l’examen de Mélite, dans L’Illusion comique il introduit le matamore ou le parasite, joué par Clindor. La comédie constitue une “invention bizarre et extravagante […] nouvelle” (épître), une “galanterie extravagante qui a tant d’irrégularités” (examen), chose qui ne lui a pas empêché d’avoir du succès chez le public, comme il est affirmé dans l’épître:
+
+> Son succès ne m'a point fait de honte sur le théâtre, et j'ose dire que la représentation de cette pièce capricieuse ne vous a point déplu
+
+et dans l’examen, où on souligne le fait que la pièce soit encore représentée et accueillie par le public après un traintrain d’ans depuis sa création.
+
+> il a surmonté l'injure des temps, et qu'il paraît encore sur nos théâtres, bien qu'il y ait plus de trente années qu'il est au monde, et qu'une si longue révolution en ait enseveli beaucoup sous la poussière, qui semblaient avoir plus de droit que lui de prétendre à une si heureuse durée.
+
+Cette comédie est une œuvre métathéâtrale, représentée à travers le procédé de la mise en abyme du théâtre. Cette dernière corresponde à un effet miroir, comme une sorte d'une poupée russe, en présentant une histoire ou structure enchâssant/englobante et histoire ou structure enchâssée/contenue dans la précédant, par ex. récit dans le récit.
+
+### Mise en abyme
+
+Comment la météathéâtralité et la mise en abyme sont-elles mises en place?
+
+Avant tout, il faut regarder à la mise en abyme, c’est-à-dire qu’au sein d’une pièce de théâtre, on retrouve une mise en scène de deuxième dégrée.
+
+> [I]nsertion, dans un texte, d’un autre texte qui présente avec le premier certaines analogies ou correspondances.
+
+Catherine Magnien-­Simonin, « Petit dictionnaire pour commenter
+L’Illusion comique », dans Pierre Corneille, L’illusion comique, Classiques Larousse, 1992.
+
+Cela renvoie à l’idée baroque du theatrum mundi, traduisible théâtre du monde ou le monde est théâtre. Notion que nous retrouvons dans As you like it de William Shakesepeare ou dans La vida es sueño de Pedro Calderón de la Barca. 
+
+« Le monde entier est un théâtre/ Et tous, hommes et femmes, n’en sont que les acteurs/ Et notre vie durant, nous jouons plusieurs rôles »
+
+Shakespeare, _Comme il vous plaira_ [_As you like it_], 1599.
+
+L’idée qui s’épanouisse à l’époque baroque est celle de la mise en question du réel, à travers une sorte de perpétuelle représentation, chacun jeu son rôle dans la société[^1]. Cette idée est sûrement un concept philosophique, mais aussi un fondement du théâtre baroque. C’est ainsi que la mise en abyme, le fait d’avoir du théâtre dans le théâtre, met en scène le rapport entre vérité et illusion.
+
+Depuis le début de la comédie, nous nous retrouvons face à ce double théâtre, Pridamant et Dorante se rapprochent à la grotte de Alcandre, grotte qui devienne à son tour une scène sur laquelle jouent les spectres. Pourtant, il faut faire une distinction entre le corps de la pièce, actes 2, 3 et 4, et le cinquième acte, parce que, si dans le premier groupe, la mise en scène qui se produit est l’illusion du passé de Clindor, au dernier acte, l’illusion produite correspond à son tour à une mise en scène, sans en être consciente jusqu’à la toute fin. En tant que spectateur, mais aussi en tant que lecteurs, nous ne pouvons pas percevoir qu’il y a un décalage dans la représentation des ombres, au moins en restant sur la lecture de la première édition. À partir, de l’édition du 1660, dans les didascalies des personnages, on retrouve le double nom, chose qui demeure insaisissable dans la mise en scène.
+
+L’illusion des trois actes centraux n’est pas du théâtre dans le théâtre. Comme il a été annoncé, il s’agit du spectacle de la vie de Clindor à Bordeaux, après son départ de la maison familiale. Ils restent présents des formes de mise en abyme et d’effet miroir, Géronte, le père d’Isabelle, est sévère et autoritaire, tout comme Pridamant. Bien que cela ne représente pas une pièce au deuxième dégrée, l’intrigue mise en scène est celui typique de la comédie. Bien que cela ne soit pas du véritable théâtre dans le théâtre, il y a certaines dynamiques et comportements parmi les personnages en les transformant en acteurs dans la vie réelle. En effet, Isabelle jeu le rôle de l’amoureuse avec Matamore (acte II, scène 4), ou bien Matamore jeu le vantard (II, 4), mais il se transpose en metteur en scène avec le stratagème du page et de la lettre de la reine d’Islande (II, 5).
+
+La notion baroque de théâtre du monde veut jouer sur le concept de condition humaine dans la société, suivant la théorie selon laquelle l’homme est tout le temps en train de jouer en rôle. 
+
+> Le théâtre prolonge la vie au point que tous s’y méprennent. Le théâtre a même révélé la vérité profonde de ces âmes, fait apparaître en Isabelle la fidélité, en Clindor l’inconstance. Le théâtre est indiscernable de la vie, plus vrai que la vie : il est magie créatrice.
+
+Georges Couton, _Corneille : Œuvres complètes_, Bibliothèque de la Pléiade, 1980.
+
+> [D]ans l’_Illusion_, nous avons été frappé essentiellement par cette métaphore de la vie de l’homme qui utilise le théâtre pour une démonstration poétique et bouleversante de la relativité des liens et des sentiments des protagonistes des scènes du monde où se joue l’aventure humaine; par ce reflet de miroirs qui réfléchit éternellement la vie, qui pousse les acteurs à s’aimer, à se trahir, à mourir “comme au théâtre”; par la glorification de nos contradictions et de nos incertitudes et du théâtre comme moyen de connaissance ultime de l’homme.
+
+Giorgio Strehler, préface à _L'Illusion comique_, Librairie générale française, 1987.
+
+> « Voici le monde converti en un jeu du paraître, et dévoilé comme tel [...] »
+
+Bernard Dort, _Pierre Corneille dramaturge_, L’Arche, 1957.
+
+> Le Spectateur est un homme aussi ignorant de la comédie humaine qui se déroule sous ses yeux que l’Acteur qui la représente; mais tandis que l’Acteur accède à la vérité par l’expérience de la mort, le Spectateur y parvient par la conscience de l’illusion dont il a été victime. Pridamant a cru son fils assassiné; mais ce n’était qu’un leurre [...]. Le destin de son fils lui paraissait incompréhensible parce qu’il ignorait que la vie n’est qu’une pièce de théâtre. Son fils a compris avant lui [...] que tout n’était que théâtre et que partant son destin était de faire du théâtre. Accédant à la vérité, Pridamant meurt à son ancienne vie. Il est désormais un homme qui sait. Il est parvenu à une réalité supérieure, celle du théâtre, et ne peut plus vivre que par et pour le théâtre.
+
+Georges Forestier, _Le théâtre dans le théâtre sur la scène française du XVII<sup>e</sup> siècle_, Droz, 1981.
+
+Le théâtre est donc une mise en abyme de la vie en tant que telle, nous jouons des rôles et la limite entre réalité et illusion est une ligne fine difficile à cerner.
+
+Le cinquième acte, d’autre part, représente une véritable mise en abyme avec du théâtre dans le théâtre, pourtant, le spectateur, ou le lecteur, découvre qu’il s’agit d’une mise en scène à la toute fin, quand à la cinquième scène explicite ce qui vient de se passer.
+
+> Ainsi tous les acteurs d'une troupe comique,\
+Leur poème récité, partagent leur pratique :\
+L'un tue, et l'autre meurt, l'autre vous fait pitié ;\
+Mais la scène préside à leur inimitié.&emsp; \(1620)\
+Leurs vers font leurs combats, leur mort suit leurs paroles,\
+Et, sans prendre intérêt en pas un de leurs rôles,\
+Le traître et le trahi, le mort et le vivant,\
+Se trouvent à la fin amis comme devant.\
+Votre fils et son train ont bien su, par leur fuite,&emsp; \(1625)\
+D'un père et d'un prévôt éviter la poursuite\
+Mais tombant dans les mains de la nécessité,\
+Ils ont pris le théâtre en cette extrémité.
+
+Alcandre, V, 5.
+
+### Métathéâtre
+
+Le passage terminal, après le dévoilement du statut actuel de Clindor, en tant que comédien, suscite chez Pridamant des hostilités. C’est ainsi que Alcandre réprimande Pridamant en l’instruisant à travers une tirade à sujet métathéâtrale.
+
+---
+
+Qu'est-ce que c'est le métathéâtre?
+
+> [T]héâtre dont la problématique est centrée sur le théâtre, qui “parle” donc de lui­‐même, s’“autoreprésente”.
+
+Patrice Pavis, Dictionnaire du théâtre, Dunod, 1996.
+
+Son étymologie dérive du grec méta : ce qui dépasse ou ce qui englobe, comme par ex. métanalyse = analyse des analyses; métalangage = langage qui sert à décrire le langage (linguistique).
+
+---
+
+Dans ce cas, il s’agit donc d’un discours autour de l’art théâtral comme elle est perçue aux années 30 du XVII<sup>e</sup>.
+
+> Cessez de vous en plaindre. à présent le théâtre&emsp; \(1645)\
+Est en un point si haut que chacun l'idolâtre,\
+Et ce que votre temps voyait avec mépris\
+Est aujourd'hui l'amour de tous les bons esprits,\
+L'entretien de Paris, le souhait des provinces,\
+Le divertissement le plus doux de nos princes,&emsp; \(1650)\
+Les délices du peuple, et le plaisir des grands :\
+Il tient le premier rang parmi leurs passe-temps ;\
+Et ceux dont nous voyons la sagesse profonde\
+Par ses illustres soins conserver tout le monde,\
+Trouvent dans les douceurs d'un spectacle si beau&emsp; \(1655)\
+De quoi se délasser d'un si pesant fardeau.\
+Même notre grand roi, ce foudre de la guerre,\
+Dont le nom se fait craindre aux deux bouts de la terre,\
+Le front ceint de lauriers, daigne bien quelquefois\
+Prêter l'oeil et l'oreille au théâtre français :&emsp; \(1660)\
+C'est là que le Parnasse étale ses merveilles ;\
+Les plus rares esprits lui consacrent leurs veilles ;\
+Et tous ceux qu'Apollon voit d'un meilleur regard\
+De leurs doctes travaux lui donnent quelque part.\
+D'ailleurs, si par les biens on prise les personnes,&emsp; \(1665)\
+Le théâtre est un fief dont les rentes sont bonnes ;\
+Et votre fils rencontre en un métier si doux\
+Plus d'accommodement qu'il n'eût trouvé chez vous.\
+Défaites-vous enfin de cette erreur commune,\
+Et ne vous plaignez plus de sa bonne fortune.&emsp; \(1670)
+
+En effet, nous lisons que cet art est désormais central et elle représente l’art de prédilection par toutes les strates de la société, dès les plus bas, jusqu’au roi.
+
+Comme il a été déjà abordé, la pièce est une autoreprésentation de la troupe du Marais, dont la troupe de Clindor en fait de miroir. Dite autrement, la structure enchâssant du théâtre du Marais est en relation avec la structure enchâssée de la mise en scène présente au dernier act. Par analogie, Alcandre est le double de Corneille lui-même, alors que Pridamant est le public de la salle du Marais.
+
+Dans cette perspective, sont intéressants de relire les passages suivants. Dans lesquels, il nous est fourni une description du cadre de la pièce, au premier dégrée, celui de la grotte obscure. Ainsi que l’introduction au jeu théâtral à travers l’évocation des « spectres ».
+
+> Ce mage, qui d'un mot renverse la nature,&emsp; \(1)\
+N'a choisi pour palais que cette **grotte obscure**.\
+La nuit qu'il entretient sur cet affreux séjour,\
+N'ouvrant son voile épais qu'aux rayons d'un faux jour,\
+De leur éclat douteux n'admet en ces lieux sombres&emsp; \(5)\
+Que ce qu'en peut souffrir le commerce des ombres.\
+N'avancez pas : son art au pied de ce rocher\
+A mis de quoi punir qui s'en ose approcher ;\
+Et cette large bouche est un mur invisible,\
+Où l'air en sa faveur devient inaccessible,&emsp; \(10)\
+Et lui fait un rempart, dont les funestes bords\
+Sur un peu de poussière étalent mille morts.\
+
+Dorante (Acte I, Scène I, v. 1-12)
+
+> Je vais de ses amours&emsp; \(147)\
+Et de tous ses hasards vous faire le discours.\
+Toutefois, si votre âme était assez hardie,\
+Sous une illusion vous pourriez voir sa vie,&emsp; \(150)\
+Et tous ses accidents devant vous exprimés\
+Par **des spectres** pareils à des **corps animés** :\
+Il ne leur manquera **ni geste ni parole**.
+
+Alcandre (I, 2, v. 147-153)
+
+> les **spectres** parlants qu'il faut vous faire voir
+
+(I, 3, v. 212)
+
+Ces éléments fournis jouent sur l’ambivalence entre récit et représentation, l’illusion et la réalité. La ligne entre cadre réel et illusionniste dans la pièce est à plusieurs reprises mises en question par Alcandre. Celui-ci intime Pridamant à ne pas sortir de la grotte pendant les représentations des illusions, en étant véritablement une question de vie ou de mort.
+
+> Quoi qui s'offre à nos yeux, n'en ayez point d'effroi ;&emsp; \(215)\
+De ma grotte surtout ne sortez qu'après moi :\
+Sinon, vous êtes mort. Voyez déjà paraître\
+Sous deux fantômes vains votre fils et son maître.
+
+(II, 1, v. 215-220)
+
+> Mais puisqu'il faut passer à des effets plus beaux,\
+Rentrons pour évoquer des fantômes nouveaux.
+
+(IV, 10, v. 1327-1328)
+
+Ces deux passages, si d’une part donnent des règles à Pridamant à respecter lors de la vision des “spectres”, en même temps, fournissent la règle pour les spectateurs du théâtre, qui doivent rester en silence et regarder une représentation jusqu’à la fin sans sortir. Cela rentre dans le cadre prescriptif du comment il faut atteindre un spectacle théâtral.
+
+Les deux dimensions externes, celle de Alcandre et Pridamant, et celle interne des illusions, se trouvent dans un dialogue continuel, à travers des interruptions du cadre externe, avec les réactions de Pridamant face aux événements autour de la vie de son fils. À nouveau, on a un effet miroir, Pridamant explicite les émotions éprouvées par le public lui-même.  
+
+> La théâtralisation du théâtre dans l’Illusion comique est rendue possible par la présence sur la scène des acteurs­‐personnages (Géronte, Adraste), des acteurs­‐comédiens (Lise, Clindor et Isabelle à l’acte V), du spectateur (Pridamant) et du dramaturge (Alcandre). Aussi, chaque fois que le public réel aura, dans l’ombre de la représentation, oublié sa propre existence pour suivre celle de Clindor, Corneille viendra lui tendre le miroir d’Alcandre et de Pridamant. Il lui rappelle ainsi l’essentiel : ses personnages, d’abord, ont un créateur, responsable de l’action dans la grotte aux spectres parlants qu’est la salle de spectacle; les spectateurs ensuite, à l’image de Pridamant, sont spectateurs d’autrui dans le théâtre des comédiens comme dans le théâtre du monde.
+
+Catherine Magnien­‐Simonin, « Structure et signification de L’Illusion
+comique », dans Pierre Corneille, _L’illusion comique_, Classiques Larousse, 1992.
+
+### Baroque
+
+Comme nous avons à plusieurs reprises annoncé, L’Illusion comique relève du théâtre typiquement baroque, notamment pour ce qui concerne la mise en abyme et l’idée du theatrum mundi. Pourtant, il y a plusieurs éléments caractéristiques de ce contexte littéraire. Le goût pour le réel et l’illusion, l’alternance de plusieurs genres, mais aussi le goût pour l’excès dans une sorte d’exubérance, comme dans l’exemple de Matamore:
+
+> Oui, mais les feux qu'il jette en sortant de prison&emsp; \(747)\
+Auraient en un moment embrasé la maison,\
+Dévoré tout à l'heure ardoises et gouttières,\
+Faîtes, lattes, chevrons, montants, courbes, filières,&emsp; \(750)\
+Entretoises, sommiers, colonnes, soliveaux,\
+Pannes, soles, appuis, jambages, traveteaux,\
+Portes, grilles, verrous, serrures, tuiles, pierre,\
+Plomb, fer, plâtre, ciment, peinture, marbre, verre,\
+Caves, puits, cours, perrons, salles, chambres, greniers,&emsp; \(755)\
+Offices, cabinets, terrasses, escaliers.\
+Juge un peu quel désordre aux yeux de ma charmeuse ;\
+Ces feux étoufferaient son ardeur amoureuse.\
+Va lui parler pour moi, toi qui n'es pas vaillant :\
+ Tu puniras à moins un valet insolent&emsp; \(760)
+
+(III, 4, v. 747-760)
+
+D’une certaine manière, la variation linguistique aussi pourrait être interprétée comme effet de réalisme, mais, en même temps un effet comique, comme toujours à la même scène, Matamore juste avant utilise l’injure “Cadédiou !” venant du Gascon. Cette pièce s’inscrit parfaitement dans son cadre historico-culturel.
+
+---
+
+#### Quelques définition
+
+<iframe src="https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f" title="description_of_embedded_content" style="width:80%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+Si on veut retracer des éléments dans une perpective féministe, présentant le woman empowerment, ce passage nous montre comment Isabelle refuse Adraste, avant en esseyant d'etre directe et délicate, mais dès qu'il commence ces hostilitées elle s'impose. 
+
+
+**Théâtre dans le théâtre**
+
+Le théâtre dans le théâtre consiste à « enchâsser une pièce ou des fragments de pièce dans une autre ».
+
+Georges Forestier, _Le théâtre dans le théâtre sur la scène française du XVII<sup>e</sup> siècle_, Droz, 1981.
+
+> [T]echnique dramatique qui consiste à inclure dans une pièce de théâtre un spectacle auquel assistent en spectateurs un ou plusieurs personnages de la pièce servant de cadre. Ce procédé implique donc une continuité dans l’action assurée par le regard des spectateurs intérieurs et un changement de niveau par rapport à l’action première. 
+
+Catherine Magnien­‐Simonin, « Petit dictionnaire pour commenter
+L’Illusion comique », dans Pierre Corneille, _L’illusion comique_, Classiques Larousse, 1992.
+
+« Cette pièce à trois profondeurs, qui, à l’intérieur d’une évocation magique, insère une tragédie dans une comédie [...] »
+
+Georges Couton, _Corneille : Œuvres complètes_, Bibliothèque de la Pléiade, 1980.
+
+---
+
+# _Horace: le thème du pouvoir royal_
+
+## Introduction aux éditions
+
+_Horace_ est une œuvre qui se prête bien à la compréhension de l’esthétique tragique cornélienne et du rôle du théâtre en fonction du pouvoir monarchique, et, en particulier, de l’absolutisme (pour le rappel historique, voir <a href="intro.html">l'Introduction</a>).
+
+Pour commencer, nous allons regarder à l’édition 1641. En étudiant le livre, non seulement dans sa dimension textuelle, nous pouvons tout de suite comprendre l’énorme succès que la pièce a obtenu. En effet, nous pouvons distinguer facilement trois diverses éditions: 
+
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280249s/f11.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content">
+</iframe>
+<figcaption>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arts du spectacle, RESERVE 8-RF-1940. <a href="https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f">Accès en ligne</a>.</figcaption>
+
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280244q/f11.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content">
+</iframe>
+<figcaption>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arts du spectacle, RESERVE 8-RF-1941. <a href="https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f">Accès en ligne</a>.</figcaption> 
+
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1510050j/f3.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content">
+</iframe>
+<figcaption>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://www.museodelprado.es/coleccion/obra-de-arte/las-meninas/9fdc7800-9ade-48b0-ab8b-edee94ea877f">Accès en ligne</a>.</figcaption> 
+
+Tout de suite, nous pouvons constater que les trois frontispices sont différents, mais cela ne représente pas la seule différence. En effet, si on regarde aux métadonnées, en particulière à la description matérielle du format, nous lisons qu’il s’agit respectivement d’un in-12°, in-8° et in-4°, dans l’ordre de présentations de l’édition la plus petite à la plus grande.
+
+En examinant les frontispices, nous trouvons tout d’abord une illustration plus simple mettant en scène deux jeunes garçons, Romulus et Remus, brandissant un drapeau orné du titre de la pièce. Ce drapeau porte également l’inscription « Nec Ferme Res Antiqua Alia Est Nobilior », qui signifie « Rien n’est plus noble qu’un héritage ancien ». On y voit également des armoiries situées dans la partie inférieure, comprenant un bouclier avec des informations sur la maison d’édition et l’année de publication. La deuxième édition nous paraît tout de suite une édition plus pauvre, sans trop de décorations. La dernière est la plus riche et la plus parlante. La première chose que nous voyons est que l’illustration est insérée dans un cadre renvoyant aux rideaux du théâtre. Sur la « scène », on voit à droite les Romains, qui sont reconnaissables par la grandeur de leur tente royale et leurs insignes militaires, et, à gauche, la tente du peuple d’Alba Longa. Au cœur de l’action, nous apercevons Horace en train de mettre à mort le premier des Curiaces. Nous l’identifions grâce à la présence de deux corps gisant sur le sol, qui se révèlent être ses frères. De plus, nous distinguons deux autres soldats qui s’avancent, les deux autres Curiaces. La même phrase que l’on pouvait lire dans la première édition est maintenant visible sur un drapeau accroché au-dessus de la scène, avec pour point central le titre de la pièce. En regardant les éditions, nous pouvons constater que la pièce a obtenu un tel succès qu’elle a dû être réimprimée plusieurs fois, et que les réimpressions sont devenues plus riches, comme démontrer par le détail et le soin du frontispice du dernier tirage. La distinction de plusieurs versions témoigne d’un public de lecture différent, ayant des possibilités économiques différentes, et la version plus petite, que nous pourrions définir une édition de poche, pourrait être considérée comme à usage de la troupe.
+
+## La hiérarchie, miroir de la société
+
+En parlant de hiérarchie matérielle des éditions, nous passons à une autre hiérarchisation, celle présentée par la liste des personnages:
+
+- TULLE, roi de Rome.
+- Le vieil HORACE, chevalier romain.
+- HORACE, son fils.
+- CURIACE, gentilhomme d'Albe, amant de Camille.
+- VALÈRE, chevalier romain, amoureux de Camille.
+- SABINE, femme d'Horace, et soeur de Curiace.
+- CAMILLE, amante de Curiace, et soeur d'Horace.
+- JULIE, dame romaine, confidence de Sabine et de Camille.
+- FLAVIAN, soldat de l'armée d'Albe.
+- PROCULE, soldat de l'armée de Rome.
+
+On comprend tout de suite qu’il s’agit d’une tragédie par la présence annoncée en première du roi de Rome, Tulle. Tous les autres personnages ont un statut social élevé, à l’exception de la confidente de Sabine et Camille, qui occupe le dernier rang, ainsi que de deux soldats de moindre importance. Nous constatons aussi que le rôle féminin passe toujours en deuxième position par rapport au masculin.
+
+La lecture que nous nous proposons de faire est celle de la promotion de la monarchie absolue. Dès les années trente du XVII<sup>e</sup> siècle, nous avons un rôle de plus en plus central du théâtre à l’affirmation politique de la gloire monarchique. En 1640, quand Corneille écrit et met en scène Horace, il se trouve encore sous le règne de Louis XIII, durant lequel le cardinal de Richelieu avait déjà engagé la politique vers la constitution d’une monarchie absolue. La centralité du roi est présentée par le positionnement de Tulle en première position, tout en étant un personnage secondaire de la pièce, nous le rencontrons seulement à la fin de pièce (V, 2-3), en particulier:
+
+> <b>LE VIEIL HORACE, à Horace</b>\
+Horace, ne crois pas que le peuple stupide&emsp; \(1711)\
+Soit le maître absolu d'un renom bien solide :\
+Sa voix tumultueuse assez souvent fait bruit ;\
+Mais un moment l'élève, un moment le détruit ;\
+Et ce qu'il contribue à notre renommée&emsp; \(1715)\
+Toujours en moins de rien se dissipe en fumée.\
+**C'est aux rois, c'est aux grands, c'est aux esprits bien faits,**\
+**À voir la vertu pleine en ses moindres effets ;**\
+**C'est d'eux seuls qu'on reçoit la véritable gloire ;**\
+**Eux seuls des vrais héros assurent la mémoire.**&emsp; \(1720)\
+Vis toujours en Horace, et toujours auprès d'eux\
+Ton nom demeurera grand, illustre, fameux,\
+Bien que l'occasion, moins haute ou moins brillante,\
+D'un vulgaire ignorant trompe l'injuste attente.\
+Ne hais donc plus la vie, et du moins vis pour moi,&emsp; \(1725)\
+**Et pour servir encore ton pays et ton roi.**\
+Sire, j'en ai trop dit ; mais l'affaire vous touche ;\
+Et Rome toute entière a parlé par ma bouche.\
+<b>VALÈRE</b>.\
+Sire, permettez-moi...\
+<b>TULLE.</b>\
+Valère, c'est assez :\
+Vos discours par les leurs ne sont pas effacés ;&emsp; \(1730)\
+J'en garde en mon esprit les forces plus pressantes,\
+Et toutes vos raisons me sont encore présentes.\
+**Cette énorme action faite presque à nos yeux**\
+**Outrage la nature, et blesse jusqu'aux dieux.**\
+Un premier mouvement qui produit un tel crime&emsp; \(1735)\
+Ne saurait lui servir d'excuse légitime :\
+Les moins sévères lois en ce point sont d'accord ;\
+Et si nous les suivons, il est digne de mort.\
+Si d'ailleurs nous voulons regarder le coupable,\
+**Ce crime, quoique grand, énorme, inexcusable,**&emsp; \(1740)\
+**Vient de la même épée et part du même bras**\
+Qui me fait aujourd'hui maître de deux états.\
+Deux sceptres en ma main, Albe à Rome asservie,\
+Parlent bien hautement en faveur de sa vie :\
+Sans lui j'obéirais où je donne la loi,&emsp; \(1745)\
+Et je serais sujet où je suis deux fois roi.\
+Assez de bons sujets dans toutes les provinces\
+Par des voeux impuissants s'acquittent vers leurs princes ;\
+Tous les peuvent aimer, mais tous ne peuvent pas\
+Par d'illustres effets assurer leurs états ;&emsp; \(1750)\
+Et l'art et le pouvoir d'affermir des couronnes\
+Sont des dons que le ciel fait à peu de personnes.\
+De pareils serviteurs sont les forces des rois,\
+Et de pareils aussi sont au-dessus des lois.\
+Qu'elles se taisent donc ; que Rome dissimule&emsp; \(1755)\
+Ce que dès sa naissance elle vit en Romule :\
+Elle peut bien souffrir en son libérateur\
+Ce qu'elle a bien souffert en son premier auteur.\
+**Vis donc, Horace, vis, guerrier trop magnanime :**\
+**Ta vertu met ta gloire au-dessus de ton crime ;**&emsp; \(1760)\
+Sa chaleur généreuse a produit ton forfait ;\
+D'une cause si belle il faut souffrir l'effet.\
+**Vis pour servir l'état ; vis, mais aime Valère :**\
+**Qu'il ne reste entre vous ni haine ni colère ;**\
+Et soit qu'il ait suivi l'amour ou le devoir,&emsp; \(1765)\
+Sans aucun sentiment résous-toi de le voir.
+
+Le discours du Vieil Horace (v. 1711-1728) prend position et montre comment une personne aristocrate, il est issu de la chevalerie romaine, est consciente de la supériorité du roi par rapport au peuple. Donc, l’aristocratie doit être au service du souverain et c’est seulement de cette servilité qu’ils peuvent songer à atteindre leur gloire. La hiérarchisation ainsi que le rapport servile entre peuple et souverain renvoient à la structure féodale.
+
+Dans la deuxième partie de la citation, le roi Tulle prend la parole lui-même au sujet du fratricide. Son discours, qui met de l’avant la suprématie du souverain sur les lois naturelles et même divines, amène finalement à lui pardonner d’avoir commis un fratricide. Cela est possible grâce au fait qu’Horace reste loyal envers le roi et continu de le servir. C’est ainsi que les aristocrates doivent tout apprendre du Vieil Horace, et poursuivre humblement la volonté indiscutable de la monarchie absolue, d’ailleurs mise en valeur, et ses propres passions et intérêts doivent être repoussés. Horace et Valère deviennent donc des exempla, à suivre ou à ne pas suivre pour être de bons aristocrates et pouvoir espérer la gloire.
+
+Pourtant, la monarchie absolue, ici présentée, n’est pas si absolue que ça, comme il nous est illustré à la deuxième scène de ce même acte. Dans ce passage, on observe le souverain s’avancer vers l’ancien Horace dans le but de le remercier et d’apaiser sa douleur, une action qui paraît incroyable, selon les propres mots du vieil Horace, exprimés dès le début de la scène (V, 2, v. 1441-1443). Auquel Tulle lui répond que c’est un honneur de le rencontrer, bien que ce soit un événement rare. L’extraordinaire de cette rencontre demeure pourtant invraisemblable (V, 2, v. 1443-1448).
+
+> <b>LE VIEIL HORACE.</b>\
+Ah ! Sire, un tel honneur a trop d'excès pour moi ;&emsp; \(1441)\
+Ce n'est point en ce lieu que je dois voir mon roi :\
+Permettez qu'à genoux...\
+<b>TULLE.</b>\
+Non, levez-vous, mon père :\
+Je fais ce qu'en ma place un bon prince doit faire.\
+Un si rare service et si fort important&emsp; \(1445)\
+Veut l'honneur le plus rare et le plus éclatant.\
+Vous en aviez déjà sa parole pour gage ;\
+Je ne l'ai pas voulu différer davantage.
+
+Mais le renversement n’est pas seulement provoqué par cette révérence, mais également par un esprit de compassion et d’amour que le roi déclare pour le Vieil Horace (V, 2, v. 1465-1468).
+
+> Si vous pouvez trouver dans ma compassion&emsp; \(1465)\
+Quelque soulagement pour votre affliction,\
+Ainsi que votre mal sachez qu'elle est extrême,\
+Et que je vous en plains autant que je vous aime.
+
+Paradoxalement, Valère pèche par arrogance en donnant une leçon au roi (V, 2, v. 1469-1474) :
+
+> Sire, puisque le ciel entre les mains des rois\
+Dépose sa justice et la force des lois,&emsp; \(1470)\\
+Et que l'état demande aux princes légitimes\
+Des prix pour les vertus, des peines pour les crimes,\
+**Souffrez qu'un bon sujet vous fasse souvenir**\
+**Que vous plaignez beaucoup ce qu'il vous faut punir ;**\
+Souffrez...&emsp; \(1475)
+
+En effet, nous lisons que Valère s’impose en tant que « bon sujet », qui peut donc instruire le roi lui-même qu’il ne faut pas agir ainsi. Il adopte une position plus élevée que celle du monarque et s’oppose à Horace, qui est maintenant perçu comme l’antagoniste, un personnage malveillant qui agit de manière inappropriée.
+
+> <b>LE VIEIL HORACE.</b>\
+Quoi ? Qu'on envoie un vainqueur au supplice ?&emsp; \(1475)\
+<b>TULLE.</b>\
+Permettez qu'il achève, et je ferai justice :\
+J'aime à la rendre à tous, à toute heure, en tout lieu.\
+**C'est par elle qu'un roi se fait un demi-dieu ;**\
+Et c'est dont je vous plains, qu'après un tel service\
+On puisse contre lui me demander justice.&emsp; \(1480)\
+
+
+
+L’interruption soudaine du Vieil Horace remplie d’indignation, il est inconcevable de juger un individu aussi admirable qu’Horace. Tulle poursuit son discours, sollicitant l’autorisation auprès du Vieil Horace. Il met en évidence le statut divin d’un roi, qui, en tant que « demi-dieu », détient le pouvoir de décision ultime. On rebondit ici sur le fait que la monarchie est de droit divin. La scène continue avec une longue tirade de Valère, suite de laquelle Tulle donne tout juste la parole à Horace pour lui donner la possibilité de se défendre, « Défendez-vous, Horace » (V, 2, v. 1535).
+
+L’avant-dernière scène du dernier acte de la pièce s’ouvre avec la tirade de Sabine qui demande au roi d’épargner Horace et de mettre au supplice elle (V, 3, 1595-1630). La réponse qui suit est du Vieil Horace, qui s’impose avec la tirade la plus longue de la scène, et à travers laquelle il interagit avec tous les personnages présents sur scène, respectivement: Sabine, le roi, Valère, à nouveau le roi et finalement Horace. S’exprimer équivaut à une réaction attendue et nécessite l’autorisation de la part de la personne concernée : « Sire, c’est donc à moi de répondre à Valère. » (V, 3, v. 1631). La tirade constitue un véritable morceau de bravoure, dont l’éloquence parvient à remporter l’adhésion du roi.
+
+Le fin mot de l’histoire, on a dit que ça reste au roi, mais cela n’est pas tout à fait vrai. Il faut parler d’édition, parce que, dans les éditions jusqu’au 1657, la troisième scène se terminait au vers 1766 avec la sortie de tous les personnages, laissant la scène à la scène conclusive avec Julie. À partir de l’édition de 1660, la troisième scène devient la dernière scène de la pièce. Par conséquent, Julie est renvoyée, et le roi ajoute 16 vers à son discours. Cette modification arrive juste avant l’ascension au trône de Louis XIV (1661) et donc le roi termine la scène pour réaffirmer à nouveau son pouvoir. À la différence de la tirade du roi qui reprend sur soi tout pouvoir, la scène de Julie mettait l’accent sur l’oracle, donc sur un plan spirituel, on se remet à la religion. L’attention du public est réorientée sur le malheur de Camille et non pas sur la justice royale.
+
+Au moment des premières représentations d’Horace, et de sa première édition, la promotion de la monarchie absolue n’est pas encore centrale, mais on reste plutôt sur l’importance de l’aristocratie. Quelques années plus tard, la Fronde (1648-1653) met en place une guerre civile, dont, à la base, il y a une révolte, un défi, contre l’autorité royale. Dans ce cadre, nous pourrons lire la pièce cornélienne comme une sorte de prémonition se charge d’un avertissement à la fois pour l’aristocratie et pour le pouvoir royal. L’investissement de Corneille dans ce cadre politique est démontré également par le fait que l’auteur continue à retravailler et à rééditer sa pièce jusqu’au 1682. Au fur et à mesure il essaie de retravailler la pièce pour s’adapter au cadre politique en vigueur et pour exalter au mieux la monarchie absolue pour que le message final soit l’obéissance au roi et à la raison d’État. Finalement, nous pourrions voir le travail minutieux de Corneille à l’instar de la fidélité et obéissance de Horace au pouvoir royal. 
+
+[^1]: Seul moment où il est permis de transgresser ces règles sociales est lors du Carnaval, ou des célébrations carnavalesques. Pendant cette période, les rôles sont inversés : le Carnaval possède une grande importance anthropologique, remontant à l’Antiquité, comme en témoignent les bacchanales ou les Saturnales. Ces évènements marquent des points de basculement sociétal. Cependant, certains individus persistent à vivre volontairement dans un entre-deux flou, tels que les artistes de cirque et les comédiens.
