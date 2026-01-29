@@ -7,7 +7,7 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    css: ["style.css"]
+    css: style_pres.css
     scrollable: true
     theme: default
 ---
