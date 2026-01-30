@@ -1,5 +1,5 @@
 project:
-  output-dir: _site/_slides
+  output-dir: ../docs/slides
   render:
     - pres_intro.qmd
     - pres_corneille.qmd
