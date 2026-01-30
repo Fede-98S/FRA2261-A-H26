@@ -1,0 +1,264 @@
+---
+title: "Pierre Corneille"
+subtitle: "_Horace_"
+data: 29 - 01 - 2026
+format:
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+# _Horace_: le thème du pouvoir royal
+
+## Plan
+
+<br/>
+<br/>
+<br/>
+
++ Introduction aux éditions
+  
++ La hiérarchie, miroir de la société
+
+# _Horace_
+
+# Introduction aux éditions
+
+## Introduction aux éditions
+
+| | | |
+|---|---|---|
+| <iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280249s/f11.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content" style="height:550px;"></iframe> | <iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280244q/f11.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content" style="height:550px;"></iframe> | <iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1510050j/f3.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content" style="height:550px;"></iframe> |
+
+## Introduction aux éditions
+
+<div><div style="width: 50%; float:left;">
+<p>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1280249s/f11.item.r=Horace%20Pierre%20Corneille">Accès en ligne</a>.
+<ul>
+<li>Format: in-12°</li>
+<li>Décoration moyenne</li>
+</ul>
+</p></div><div style="width: 50%; float:right;">
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280249s/f11.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content" style="display: inline; height:550px; width: 450px;"></iframe></div></div>
+
+## Introduction aux éditions
+<div><div style="width: 50%; float:left;">
+<p>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1280244q/f11.item.r=Horace%20Pierre%20Corneille">Accès en ligne</a>.
+<ul>
+<li>Format: in-8°</li>
+<li>Décoration pauvre</li>
+</ul>
+</p>
+</div>
+<div style="width: 50%; float:right;">
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280244q/f11.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content" style="display: inline; height:550px; width: 450px;">
+</iframe></div></div>
+
+## Introduction aux éditions
+
+<div><div style="width: 50%; float:left;">
+<p>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://gallica.bnf.fr/ark:/12148/bpt6k1510050j/f3.item.r=Horace%20Pierre%20Corneille">Accès en ligne</a>.
+<ul>
+<li>Format: in-4°</li>
+<li>Décoration riche</li>
+</ul>
+</p>
+</div>
+<div style="width: 50%; float:right;">
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1510050j/f3.item.r=Horace%20Pierre%20Corneille" title="description_of_embedded_content" style="display: inline; height:550px; width: 450px;"></iframe></div></div>
+
+## Introduction aux éditions
+
+<br/>
+<br/>
+La tragédie reprend les classiques de l'Antiquité.
+
+« Nec Ferme Res Antiqua Alia Est Nobilior » = « Rien n’est plus noble qu’un héritage ancien »
+
+# La hiérarchie, miroir de la société
+
+## La hiérarchie, miroir de la société
+
+- TULLE, roi de Rome.
+- Le vieil HORACE, chevalier romain.
+- HORACE, son fils.
+- CURIACE, gentilhomme d'Albe, amant de Camille.
+- VALÈRE, chevalier romain, amoureux de Camille.
+- SABINE, femme d'Horace, et soeur de Curiace.
+- CAMILLE, amante de Curiace, et soeur d'Horace.
+- JULIE, dame romaine, confidence de Sabine et de Camille.
+- FLAVIAN, soldat de l'armée d'Albe.
+- PROCULE, soldat de l'armée de Rome.
+
+## La hiérarchie, miroir de la société
+
+> <b>LE VIEIL HORACE, à Horace</b>\
+Horace, ne crois pas que le peuple stupide&emsp; \(1711)\
+Soit le maître absolu d'un renom bien solide :\
+Sa voix tumultueuse assez souvent fait bruit ;\
+Mais un moment l'élève, un moment le détruit ;\
+Et ce qu'il contribue à notre renommée&emsp; \(1715)\
+Toujours en moins de rien se dissipe en fumée.\
+**C'est aux rois, c'est aux grands, c'est aux esprits bien faits,**\
+**À voir la vertu pleine en ses moindres effets ;**\
+**C'est d'eux seuls qu'on reçoit la véritable gloire ;**\
+**Eux seuls des vrais héros assurent la mémoire.**&emsp; \(1720)\
+Vis toujours en Horace, et toujours auprès d'eux\
+Ton nom demeurera grand, illustre, fameux,\
+Bien que l'occasion, moins haute ou moins brillante,\
+D'un vulgaire ignorant trompe l'injuste attente.\
+Ne hais donc plus la vie, et du moins vis pour moi,&emsp; \(1725)\
+**Et pour servir encore ton pays et ton roi.**\
+Sire, j'en ai trop dit ; mais l'affaire vous touche ;\
+Et Rome toute entière a parlé par ma bouche.\
+<b>VALÈRE</b>.\
+Sire, permettez-moi...\
+<b>TULLE.</b>\
+Valère, c'est assez :\
+Vos discours par les leurs ne sont pas effacés ;&emsp; \(1730)\
+J'en garde en mon esprit les forces plus pressantes,\
+Et toutes vos raisons me sont encore présentes.\
+**Cette énorme action faite presque à nos yeux**\
+**Outrage la nature, et blesse jusqu'aux dieux.**\
+Un premier mouvement qui produit un tel crime&emsp; \(1735)\
+Ne saurait lui servir d'excuse légitime :\
+Les moins sévères lois en ce point sont d'accord ;\
+Et si nous les suivons, il est digne de mort.\
+Si d'ailleurs nous voulons regarder le coupable,\
+**Ce crime, quoique grand, énorme, inexcusable,**&emsp; \(1740)\
+**Vient de la même épée et part du même bras**\
+Qui me fait aujourd'hui maître de deux états.\
+Deux sceptres en ma main, Albe à Rome asservie,\
+Parlent bien hautement en faveur de sa vie :\
+Sans lui j'obéirais où je donne la loi,&emsp; \(1745)\
+Et je serais sujet où je suis deux fois roi.\
+Assez de bons sujets dans toutes les provinces\
+Par des voeux impuissants s'acquittent vers leurs princes ;\
+Tous les peuvent aimer, mais tous ne peuvent pas\
+Par d'illustres effets assurer leurs états ;&emsp; \(1750)\
+Et l'art et le pouvoir d'affermir des couronnes\
+Sont des dons que le ciel fait à peu de personnes.\
+De pareils serviteurs sont les forces des rois,\
+Et de pareils aussi sont au-dessus des lois.\
+Qu'elles se taisent donc ; que Rome dissimule&emsp; \(1755)\
+Ce que dès sa naissance elle vit en Romule :\
+Elle peut bien souffrir en son libérateur\
+Ce qu'elle a bien souffert en son premier auteur.\
+**Vis donc, Horace, vis, guerrier trop magnanime :**\
+**Ta vertu met ta gloire au-dessus de ton crime ;**&emsp; \(1760)\
+Sa chaleur généreuse a produit ton forfait ;\
+D'une cause si belle il faut souffrir l'effet.\
+**Vis pour servir l'état ; vis, mais aime Valère :**\
+**Qu'il ne reste entre vous ni haine ni colère ;**\
+Et soit qu'il ait suivi l'amour ou le devoir,&emsp; \(1765)\
+Sans aucun sentiment résous-toi de le voir.
+
+(V, 3, v. 1711-1766)
+
+## La hiérarchie, miroir de la société
+
+Monarchie absolue?
+
+> <b>LE VIEIL HORACE.</b>\
+Ah ! Sire, un tel honneur a trop d'excès pour moi ;&emsp; \(1441)\
+Ce n'est point en ce lieu que je dois voir mon roi :\
+Permettez qu'à genoux...\
+<b>TULLE.</b>\
+Non, levez-vous, mon père :\
+Je fais ce qu'en ma place un bon prince doit faire.\
+Un si rare service et si fort important&emsp; \(1445)\
+Veut l'honneur le plus rare et le plus éclatant.\
+Vous en aviez déjà sa parole pour gage ;\
+Je ne l'ai pas voulu différer davantage.
+
+(V, 2, v. 1441-1448)
+
+## La hiérarchie, miroir de la société
+
+Monarchie absolue? Compassion
+
+> Si vous pouvez trouver dans ma compassion&emsp; \(1465)\
+Quelque soulagement pour votre affliction,\
+Ainsi que votre mal sachez qu'elle est extrême,\
+Et que je vous en plains autant que je vous aime.
+
+(V, 2, v. 1465-1468)
+
+## La hiérarchie, miroir de la société
+
+Valère et son arrogance
+
+> Sire, puisque le ciel entre les mains des rois\
+Dépose sa justice et la force des lois,&emsp; \(1470)\\
+Et que l'état demande aux princes légitimes\
+Des prix pour les vertus, des peines pour les crimes,\
+**Souffrez qu'un bon sujet vous fasse souvenir**\
+**Que vous plaignez beaucoup ce qu'il vous faut punir ;**\
+Souffrez...&emsp; \(1475)
+
+(V, 2, v. 1469-1474)
+
+## La hiérarchie, miroir de la société
+
+Indignation et imposition royale
+
+> <b>LE VIEIL HORACE.</b>\
+Quoi ? Qu'on envoie un vainqueur au supplice ?&emsp; \(1475)\
+<b>TULLE.</b>\
+Permettez qu'il achève, et je ferai justice :\
+J'aime à la rendre à tous, à toute heure, en tout lieu.\
+**C'est par elle qu'un roi se fait un demi-dieu ;**\
+Et c'est dont je vous plains, qu'après un tel service\
+On puisse contre lui me demander justice.&emsp; \(1480)\
+
+(V, 2, v. 1475-1480)
+
+## La hiérarchie, miroir de la société
+
+<br/>
+<br/>
+La défense d'Horace
+
+« Défendez-vous, Horace » (V, 2, v. 1535)
+<br/>
+<br/>
+Sabine veut sauver Horace et préfère subir le supplice à sa place. (V, 3, 1595-1630)
+<br/>
+<br/>
+Défense d'Horace contre Valère de la part du Vieil Horace.
+
+« Sire, c’est donc à moi de répondre à Valère. » (V, 3, v. 1631)
+
+## La hiérarchie, miroir de la société
+
+<br/>
+<br/>
+
+Finales alternatives. 
+<br/>
+<br/>
+<table>
+  <tr>
+    <th>Avant l'édition 1657</th>
+    <th>Dès l'édition 1657 </th>
+  </tr>
+  <tr>
+    <td>
+    <ul>
+<li>Conclusion scène III au vers v. 1766</li>
+<li>Une dernière scène avec Julie</li>
+</ul>
+</td>
+ <td>
+    <ul>
+<li>À la III scène, ajout de 16 vers</li>
+<li>Suppression de la dernière scène de Julie</li>
+</ul>
+</td>
+  </tr>
+</table>

@@ -1,0 +1,12 @@
+project:
+  output-dir: _site/_slides
+  render:
+    - pres_intro.qmd
+    - pres_corneille.qmd
+    - pres_horace.qmd 
+
+format: 
+  revealjs: 
+    footer: FRA2261-A-H26
+    theme: ["slides.scss"]
+    slide-number: true

@@ -2,6 +2,8 @@
 title: "Introduction"
 ---
 
+<iframe src="../slides/pres_intro.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
+
 # Cadre politique
 
 Le 13 avril 1598 est la date marquant le début du nouveau siècle, avec la promulgation de l’édit de Nantes. Henri IV, à travers ce document, donne la liberté de culte au protestant, s’appliquant pourtant seulement en dehors de Paris. Cette situation de paix mène à l’affirmation de la classe bourgeoise et des fonctionnaires. En 1600 le roi épouse en secondes noces Marie de Médicis qui, après la mort du roi en 1610, devient la régente. Pourtant, les protestants se révoltent à nouveau et il prend le pouvoir, mais, grâce au cardinal Richelieu, la monarchie est restaurée en 1624. C’est ainsi qui s’impose des règlements serrants, et qui valorisent et protègent la monarchie.
