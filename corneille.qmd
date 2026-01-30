@@ -406,7 +406,7 @@ Georges Couton, _Corneille : Œuvres complètes_, Bibliothèque de la Pléiade, 
 
 # _Horace: le thème du pouvoir royal_
 
-<iframe src="../slides/pres_horace.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
+<iframe src="../../slides/pres_horace.html" title="description_of_embedded_content" style="width:100%; height:400px;"></iframe>
 
 ## Introduction aux éditions
 
