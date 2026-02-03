@@ -69,7 +69,7 @@ ffkjslfkm
       <div class="timeline-date">1633</div>
       <div class="timeline-info">
         <h4>Société des cinq auteurs</h4>
-        <p>Société donne une pension à Corneille et lui offre une place dans l'association «Société des cinq auteurs&nbsp;»</p>
+        <p>Société donne une pension à Corneille et lui offre une place dans l'association «&nbsp;Société des cinq auteurs&nbsp;»</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
@@ -213,52 +213,70 @@ function toggleInfo(el) {
 ```
 
 
-# _Le Bougeois gentilhomme: critique sociale en comédie-ballet_
+# _Le Bougeois gentilhomme&nbsp;: critique sociale en comédie-ballet_
 
 ## Introduction
 
 La pièce _Le Bourgeois gentilhomme_ a été écrite en 1670 et publiée l’année suivante. Cette pièce a un tout autre style, avec des éléments de vivacité, humour, bouffonnerie et critique sociale. À travers cette œuvre, nous allons explorer un nouveau genre théâtral du XVII<sup>e</sup> siècle, qui, selon la critique, est né et mort avec Molière.
 
-_Qu’est-ce que c’est la comédie-ballet?_
+_Qu’est-ce que c’est la comédie-ballet&nbsp;?_
+
+---
+
+#### Comédie-ballet
+
+>Angl.&nbsp;: ballet comedy, comic ballet&nbsp;; All.&nbsp;: Balettkomödie&nbsp;; Esp.&nbsp;: comedia ballet. 
+>
+>Comédie qui fait intervenir les ballets au cours de l’action de la pièce ou comme intermèdes autonomes entre les scènes ou les actes (cf. Molière et Lully).
+>
+>On tend à concevoir le ballet comme l’élément second, sinon secondaire, comme un intermède décoratif, le texte de la comédie restant primordial. Mais certains ballets contiennent quelques éléments dramatiques dialogués et joués. Le dramaturge choisit parfois, comme Molière dans Les Fâcheux, de lier le ballet à l’intrigue&nbsp;: «&nbsp;Pour ne point rompre aussi le fil de la pièce par ces manières d’intermède, on s’avisa de les coudre au sujet du mieux que l’on put, et de ne faire qu’une seule chose du ballet et de la comédie&nbsp;» (Avertissement).
+>
+>La comédie-ballet est d’ordinaire bâtie sur une succession d’entrées de ballet, passages dansés qui forment une série ininterrompue de scènes successives, selon le principe de la pièce à tiroir.
+>
+>Mc Gowan, 1978. 
+
+<span style="float:right; text-align:right;">Patrice Pavis, «&nbsp;Comédie-ballet&nbsp;», dans _Dictionnaire de théâtre_, 2019, [en ligne](https://shs.cairn.info/dictionnaire-du-theatre--9782200623340-page-79).</span><br/>
+
+---
 
 On peut définir de manière générale une comédie mêlée de musique et de danse. Molière en écrit un dizain en collaborant avec Jean-Baptiste Lully (Giovanni Battista Lulli) jusqu’au 1672, quand Lully se détache de cette collaboration pour se donner à l’institution de l’Académie du ballet et de musique. Après, Molière commence à collaborer avec Marc-Antoine Charpentier, avec lequel ils ont retravaillé les comédies-ballets précédentes, tout en créant des nouvelles.
 
-La pièce est issue d’une triple collaboration, en effet, pour le volet ballet l’auteur et le compositeur collaborent avec Pierre Beauchamp. Cela a été créé sous commande de Louis XIV et pour célébrer l’alliance militaire et économique entre France et empire Ottoman[^1]. _Le Bourgeois gentilhomme_ représente une sorte de revanche, presque une riposte, de la part de Louis XIV envers la réaction du diplomate Soleman Aga, envoyé par le sultan. Pour l’occasion, le roi a prévu des fastes pour impressionner le diplomate, qui a réagi avec du dédain. La commande faite à Molière consiste à mettre en scène une « turquerie », c’est-à-dire une pièce où figurent des personnages turcs afin de se moquer de leurs coutumes.
+La pièce est issue d’une triple collaboration, en effet, pour le volet ballet l’auteur et le compositeur collaborent avec Pierre Beauchamp. Cela a été créé sous commande de Louis XIV et pour célébrer l’alliance militaire et économique entre France et empire Ottoman[^1]. _Le Bourgeois gentilhomme_ représente une sorte de revanche, presque une riposte, de la part de Louis XIV envers la réaction du diplomate Soleman Aga, envoyé par le sultan. Pour l’occasion, le roi a prévu des fastes pour impressionner le diplomate, qui a réagi avec du dédain. La commande faite à Molière consiste à mettre en scène une «&nbsp;turquerie&nbsp;», c’est-à-dire une pièce où figurent des personnages turcs afin de se moquer de leurs coutumes.
 
 ## La comédie-ballet comme critique sociale
 
-_Est-ce que la pièce répond à la demande de son commanditaire?_
+_Est-ce que la pièce répond à la demande de son commanditaire&nbsp;?_
 
-En réalité non, parce que, à travers la mise en scène de gens déguisés en faux Turcs, le public rit de Monsieur Jourdain, le bourgeois qui voudrait atteindre une position sociale plus élevée. Tout au long de la pièce, au centre de l’attention, il y a toujours M Jourdain et on se moque de la manière dont il essaie d’élever sa condition:
+En réalité non, parce que, à travers la mise en scène de gens déguisés en faux Turcs, le public rit de Monsieur Jourdain, le bourgeois qui voudrait atteindre une position sociale plus élevée. Tout au long de la pièce, au centre de l’attention, il y a toujours M Jourdain et on se moque de la manière dont il essaie d’élever sa condition&nbsp;:
 
 - formation aux manières des gens de qualité à travers les différents maîtres (Acte I)
 - tentative de séduction d'une marquise, tout en trompant sa femme
 - mariage de sa fille avec un gentilhomme et après avec le fils du Grand Turc
 
-Molière crée le personnage du Mamamouchi, un mot qui pourrait provenir de l’arabe _مستهتر_ [mustahtir], signifiant « propre à rien », tel qu’indiqué dans la note de bas de page 175, située à la page 288:
+Molière crée le personnage du Mamamouchi, un mot qui pourrait provenir de l’arabe _مستهتر_ [mustahtir], signifiant «&nbsp;propre à rien&nbsp;», tel qu’indiqué dans la note de bas de page 175, située à la page 288&nbsp;:
 
-> 1. Mamamouchi: le mot est inventé par Molière, peut-être d'après l'arabe « ma menou schi », qui signifie « non chose bonne », et donc « propre à rien ».
+> 1. Mamamouchi&nbsp;: le mot est inventé par Molière, peut-être d'après l'arabe «&nbsp;ma menou schi&nbsp;», qui signifie «&nbsp;non chose bonne&nbsp;», et donc «&nbsp;propre à rien&nbsp;».
 
-Toutefois, je vous propose une seconde hypothèse quant à l’origine étymologique du terme moliéresque, qui trouve ses racines dans l’arabe [_مملوك_ [mamlūk]](https://www.treccani.it/vocabolario/mammalucco/) ou son pluriel _مماليك_ (mamālīk), signifiant « esclave acheté ». Cette déformation pourrait provenir du mot français « Mamelouk » ou du terme italien « Mammalucco ». Cette théorie repose sur plusieurs facteurs, déjà, le fait de travailler avec un italien, tel Jean-Baptiste Lully, pourrait avoir simplifié ce passage; en deuxième, si nous lisons les passages en pseudoturc[^2], plutôt que de dissimuler l’arabe, nous avons une dissimulation de la langue italienne. Cela suffisait pour créer un effet de distance, tout dans la proximité. Dans ce dernier cas, la notion d’esclave pourrait renvoyer à une critique sociale plus large de soumission à sa classe d’appartenance et, plus en général, la soumission au roi. D’autre part, la première interprétation renvoie plutôt au sens de ne pas être bon à faire n’importe quoi, en instaurant une antinomie gérée par les mêmes termes du titre « bourgeois »[^3] et « gentilhomme » ne peuvent pas aller ensemble. En effet, l’appartenance à la bourgeoisie est une question de naissance et non pas d’éducation ni d’argent. 
+Toutefois, je vous propose une seconde hypothèse quant à l’origine étymologique du terme moliéresque, qui trouve ses racines dans l’arabe [_مملوك_ [mamlūk]](https://www.treccani.it/vocabolario/mammalucco/) ou son pluriel _مماليك_ (mamālīk), signifiant «&nbsp;esclave acheté&nbsp;». Cette déformation pourrait provenir du mot français «&nbsp;Mamelouk&nbsp;» ou du terme italien «&nbsp;Mammalucco&nbsp;». Cette théorie repose sur plusieurs facteurs, déjà, le fait de travailler avec un italien, tel Jean-Baptiste Lully, pourrait avoir simplifié ce passage&nbsp;; en deuxième, si nous lisons les passages en pseudoturc[^2], plutôt que de dissimuler l’arabe, nous avons une dissimulation de la langue italienne. Cela suffisait pour créer un effet de distance, tout dans la proximité. Dans ce dernier cas, la notion d’esclave pourrait renvoyer à une critique sociale plus large de soumission à sa classe d’appartenance et, plus en général, la soumission au roi. D’autre part, la première interprétation renvoie plutôt au sens de ne pas être bon à faire n’importe quoi, en instaurant une antinomie gérée par les mêmes termes du titre «&nbsp;bourgeois&nbsp;»[^3] et «&nbsp;gentilhomme&nbsp;» ne peuvent pas aller ensemble. En effet, l’appartenance à la bourgeoisie est une question de naissance et non pas d’éducation ni d’argent. 
 
 Pour rappel, à l’époque, on a deux types de noblesse, celle d’épée et celle de robe. La première dérive d’une tradition familiale remontant au Moyen Âge, la deuxième est une noblesse récente, attribuée par le roi ou à travers l’acquisition de charges. Les bourgeois appartiennent à la seconde catégorie de nobles, qui est imbue des privilèges attribués, sans pour autant maîtriser les codes de la noblesse (d’épée). La mise en scène d’un personnage comme M Jourdain ridiculise les bourgeois, tout en étant ridiculisé par les autres nobles et bourgeois eux-mêmes. L’antagonisme de classe, ainsi que la ténacité de Monsieur Jourdain, est clairement mis en lumière lorsque Cléonte propose de demander la main de Lucile, la fille de Madame et de Monsieur Jourdain (III, 12).
 
 La pièce s’en prend également à Dorente, qui est l’objet de critiques de la part des membres de la noblesse. En effet, si M Jourdain essaie d’acquérir à travers l’argent une position meilleure, ce même argent marque la noblesse d’épée, qui pourtant est en train de se ruiner. Dorante est effectivement désargenté, en demandant constamment de l’argent à M Jourdain, finalement, il change de personne exploitée, grâce au mariage lui proposé par Dorimène elle-même, donc en le prenant en charge. D’une part, on a un bourgeois qui veut devenir gentilhomme, et, d’autre part, on a un gentilhomme qui n’a plus rien d’honnête.
 
 > <b>DORIMÈNE.</b>\
-J'ai vu là des apprêts magnifiques, et ce sont des choses, Dorante, que je ne puis plus souffrir. Oui, je veux enfin vous empêcher vos profusions : et pour rompre le cours à toutes les dépenses que je vous vois faire pour moi, j'ai résolu de me marier promptement avec vous. C'en est le vrai secret, et toutes ces choses finissent avec le mariage.\
+J'ai vu là des apprêts magnifiques, et ce sont des choses, Dorante, que je ne puis plus souffrir. Oui, je veux enfin vous empêcher vos profusions&nbsp;: et pour rompre le cours à toutes les dépenses que je vous vois faire pour moi, j'ai résolu de me marier promptement avec vous. C'en est le vrai secret, et toutes ces choses finissent avec le mariage.\
 <b>DORANTE.</b>\
-Ah ! Madame, est-il possible que vous ayez pu prendre pour moi une si douce résolution ?\
+Ah&nbsp;! Madame, est-il possible que vous ayez pu prendre pour moi une si douce résolution&nbsp;?\
 <b>DORIMÈNE.</b>\
-Ce n'est que pour vous empêcher de vous ruiner ; et sans cela je vois bien qu'avant qu'il fût peu, vous n'auriez pas un sou.\
+Ce n'est que pour vous empêcher de vous ruiner&nbsp;; et sans cela je vois bien qu'avant qu'il fût peu, vous n'auriez pas un sou.\
 
-(V, 2, p.102)
+<span style="float:right; text-align:right;">V, 2, p.102</span><br/>
 
 Revenons au contexte de la pièce, elle n’a pas été créée et mise en scène pour le Théâtre du Palais-Royal, mais pour des fêtes se déroulant au château de Chambord, le public est donc composé par Louis XIV, la cour et l’aristocratie. Cette même aristocratie voit sur scène un aristocrate menteur et profiteur, pour cette raison, la légende veut que, lors de sa première représentation le 14 octobre, la réception ait été très froide, même sana applaudissements.
 
 Selon certains critiques, le roi Louis XIV lui-même serait au centre de ces critiques, en particulier pour ses erreurs diplomatiques avec l’Empire Ottoman, ainsi que l’absolutisme et la folie de grandeur. Dans cette perspective Hodson (2010) nous illustrent le parallélisme entre la volonté de M Jourdain à apprendre la musique et le ballet, et Louis XIV et ses passions pour les arts. Le diamant qu’il a offert à Dorimène renverrait aux multiples diamants dont Louis XIV s’était revêtu pour accueillir l’ambassadeur turc. De plus, la cérémonie d’intronisation de M Jourdain au titre de Mamamouchim serait la parodie du couronnement royal lui-même, la couronne correspond au turban. Dans cet épisode, les bastonnades reçues par M Jourdaine représenteraient l’humiliation subie par Louis XIV par les Turcs.
 
-Cette théorie est renforcée par la légende, selon laquelle lors de la première, même Louis XIV n’aurait pas applaudi, mais il s’est ravisé à la deuxième mise en scène le 19 octobre, quand il aurait dit à Molière: « Je suis tout à fait content de votre comédie, voilà le vrai comique et la bonne et utile plaisanterie ». L’œuvre continue à être représentée à la cour et à partir du novembre 1670 également au Palais-Royal.
+Cette théorie est renforcée par la légende, selon laquelle lors de la première, même Louis XIV n’aurait pas applaudi, mais il s’est ravisé à la deuxième mise en scène le 19 octobre, quand il aurait dit à Molière&nbsp;: «&nbsp;Je suis tout à fait content de votre comédie, voilà le vrai comique et la bonne et utile plaisanterie&nbsp;». L’œuvre continue à être représentée à la cour et à partir du novembre 1670 également au Palais-Royal.
 
 Cela nous permet de constater que, bien qu’au service de la monarchie, les arts ne sont pas empêchés de mener face au public des discours critiques sur celle-ci.
 
@@ -270,25 +288,25 @@ _Le Bourgeois gentilhomme_ se prête bien à l’analyse selon une notion que no
 
 :::{.column}
 
-> Quatre Danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à danser leur commande : et cette danse fait le premier intermède.
+> Quatre Danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à danser leur commande&nbsp;: et cette danse fait le premier intermède.
 
-(I, 2)
-
-:::
-
-:::{.column}
-
-> Quatre Garçons tailleurs entrent, dont deux lui arrachent le haut-de-chausses de ses exercices, et deux autres la camisole, puis ils lui mettent son habit neuf ; et Monsieur Jourdain se promène entre eux, et leur montre son habit, pour voir s'il est bien. Le tout à la cadence de toute la symphonie.
-
-(II, 5)
+<span style="float:right; text-align:right;">(I, 2)</span><br/>
 
 :::
 
 :::{.column}
 
-> Six cuisiniers, qui ont préparé le festin, dansent ensemble, et font le troisième intermède ; après quoi ils apportent une table couverte de plusieurs mets.
+> Quatre Garçons tailleurs entrent, dont deux lui arrachent le haut-de-chausses de ses exercices, et deux autres la camisole, puis ils lui mettent son habit neuf&nbsp;; et Monsieur Jourdain se promène entre eux, et leur montre son habit, pour voir s'il est bien. Le tout à la cadence de toute la symphonie.
 
-(III, 16)
+<span style="float:right; text-align:right;">(II, 5)</span><br/>
+
+:::
+
+:::{.column}
+
+> Six cuisiniers, qui ont préparé le festin, dansent ensemble, et font le troisième intermède&nbsp;; après quoi ils apportent une table couverte de plusieurs mets.
+
+<span style="float:right; text-align:right;">(III, 16)</span><br/>
 
 :::
 
@@ -297,18 +315,18 @@ _Le Bourgeois gentilhomme_ se prête bien à l’analyse selon une notion que no
 Les intermèdes situés à la fin des trois premiers actes sont, au niveau de la didascalie, plus courte et isolée, alors que dans le quatrième acte, les didascalies sont alternées avec le dialogue (par la suite, citation seule des didascalies). C’est proprement la mascarade qui fait avancer le dialogue. 
 
 > Le Mufti, quatre Dervis, six Turcs dansants, six Turcs musiciens, et autres joueurs d'instruments à la turque, sont les acteurs de cette cérémonie.\
-Le Mufti invoque Mahomet avec les douze Turcs et les quatre Dervis ; après on lui amène le Bourgeois vêtu à la turque, sans turban et sans sabre, auquel il chante ces paroles.
+Le Mufti invoque Mahomet avec les douze Turcs et les quatre Dervis&nbsp;; après on lui amène le Bourgeois vêtu à la turque, sans turban et sans sabre, auquel il chante ces paroles.
 
 > La cérémonie turque pour ennoblir le Bourgeois, se fait en danse et en musique, et compose le quatrième intermède.
 
 > Le Mufti demande en même langue aux Turcs assistants, de quelle religion est le Bourgeois, et ils l'assurent qu'il est mahométan. Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent.
 
-> Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles :
+> Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles&nbsp;:
 
 > Les Turcs répondent les mêmes vers.\
 Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.
 
-> Les Turcs répètent tout ce qu'a dit le Mufti pour donner le turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants ; après son invocation, il donne au Bourgeois l'épée, et chante ces paroles.
+> Les Turcs répètent tout ce qu'a dit le Mufti pour donner le turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants&nbsp;; après son invocation, il donne au Bourgeois l'épée, et chante ces paroles.
 
 > Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d'entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre.\
 Le Mufti commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.
@@ -319,9 +337,9 @@ Le Mufti, après l'avoir fait bâtonner, lui dit en chantant.
 > Les Turcs répètent les mêmes vers.\
 Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turquesque.
 
-(IV, 5)
+<span style="float:right; text-align:right;">(IV, 5)</span><br/>
 
-_ Quoi du ballet des nations? A-t-il un rapport avec le reste de la pièce?_ 
+_Quoi du ballet des nations&nbsp;? A-t-il un rapport avec le reste de la pièce&nbsp;?_ 
 
 Bien que ce ballet final semble ne présenter pas de rapport avec le reste de la pièce, il est annoncé tout au long de la pièce, comme divertissement pour Dorimène de la part de Dorante. Par conséquent, nous pouvons bien constater que le lien avec l’intrigue est évident, et que le ballet ne constitue pas une unité à part entière.
 
@@ -330,32 +348,32 @@ Dans les entractes entre chaque acte, on trouve également des instants qui rel�
 > <b>LES MUSICIENS et LA MUSICIENNE prennent des verres, chantent deux chansons à boire, et sont soutenus de toute la symphonie.</b>\
 <b>PREMIÈRE CHANSON À BOIRE.</b>\
 Un petit doigt, Philis, pour commencer le tour.&emsp; \(51)\
-Ah ! Qu'un verre en vos mains a d'agréables charmes !\
+Ah&nbsp;! Qu'un verre en vos mains a d'agréables charmes&nbsp;!\
 Vous et le vin, vous vous prêtez des armes,\
-Et je sens pour tous deux redoubler mon amour :\
+Et je sens pour tous deux redoubler mon amour&nbsp;:\
 Entre lui, vous et moi, jurons, jurons ma belle,&emsp; \(55)\
 Une ardeur éternelle.\
 Qu'en mouillant votre bouche il en reçoit d'attraits,\
-Et que l'on voit par lui votre bouche embellie !\
-Ah ! L'un de l'autre ils me donnent envie,\
-Et de vous et de lui je m'enivre à longs traits :&emsp; \(60)\
+Et que l'on voit par lui votre bouche embellie&nbsp;!\
+Ah&nbsp;! L'un de l'autre ils me donnent envie,\
+Et de vous et de lui je m'enivre à longs traits&nbsp;:&emsp; \(60)\
 Entre lui, vous et moi, jurons, jurons, ma belle,\
 Une ardeur éternelle.\
 <b>SECONDE CHANSON À BOIRE.</b>\
 Buvons, chers amis, buvons,\
-Le temps qui fuit nous y convie ;\
+Le temps qui fuit nous y convie&nbsp;;\
 Profitons de la vie&emsp; \(65)\
-Autant que nous pouvons :\
+Autant que nous pouvons&nbsp;:\
 Quand on a passé l'onde noire,\
-Adieu le bon vin, nos amours ;\
+Adieu le bon vin, nos amours&nbsp;;\
 Dépêchons-nous de boire,\
 On ne boit pas toujours.&emsp; \(70)\
 Laissons raisonner les sots\
-Sur le vrai bonheur de la vie ;\
+Sur le vrai bonheur de la vie&nbsp;;\
 Notre philosophie\
-Le met parmi les pots :\
+Le met parmi les pots&nbsp;:\
 Les biens, le savoir, et la gloire,&emsp; \(75)\
-N'ôtent point les soucis fâcheux ;\
+N'ôtent point les soucis fâcheux&nbsp;;\
 Et ce n'est qu'à bien boire\
 Que l'on peut être heureux.\
 Sus sus du vin, partout versez, garçons versez,\
@@ -369,7 +387,7 @@ Finalement, nous avons une troisième forme de théâtre dans le théâtre, celu
 
 ## Clôture de la pièce
 
-La pièce se conclut en six temps avec le Ballet des Nations. Au début de la pièce, nous apercevons divers personnages, tels qu’un Gascon, un Suisse, des membres de la noblesse, « du bel air », un « vieux bourgeois » et une « vieille bourgeoise », ainsi que des spectateurs. Les deux classes sociales critiquées tout au long de la pièce sont ici représentées, en train de nous entasser dans la salle, cherchant une place et cherchant à obtenir un livret du ballet, dans ce cas, nous retrouvons une véritable mise en abyme du public du théâtre.
+La pièce se conclut en six temps avec le Ballet des Nations. Au début de la pièce, nous apercevons divers personnages, tels qu’un Gascon, un Suisse, des membres de la noblesse, «&nbsp;du bel air&nbsp;», un «&nbsp;vieux bourgeois&nbsp;» et une «&nbsp;vieille bourgeoise&nbsp;», ainsi que des spectateurs. Les deux classes sociales critiquées tout au long de la pièce sont ici représentées, en train de nous entasser dans la salle, cherchant une place et cherchant à obtenir un livret du ballet, dans ce cas, nous retrouvons une véritable mise en abyme du public du théâtre.
 
 ## Question de mise en scène
 
@@ -377,7 +395,7 @@ Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même 
 
 À titre d’exemple nous reprenons le concept de meta, pour reprendre le dialogue métalinguistique, lorsque M Jourdian demande au maître de philosophie de lui apprendre l’orthographe (II, 4).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U"></iframe>
 
 ---
 
@@ -385,7 +403,11 @@ Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même 
 
 Voici la mise en scène du _Malade imaginaire_ selon une reconstitution menée par les chercheurs et étudiants de différentes disciplines. La représentation est le résultat d’une série de recherche, non seulement sur le texte, sur sa prononciation, mais également sur le décor, les costumes, les objets scéniques, ainsi que tout mouvement du jeu théâtral.
 
-<iframe width="644" height="362.25" src="https://www.youtube.com/embed/h4-5CZpMK2M?si=XYNedKs9M-3A5PGi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="644" height="362.25" src="https://www.youtube.com/watch?v=h4-5CZpMK2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{< video https://www.youtube.com/watch?v=h4-5CZpMK2M
+    start="116"
+>}}
 
 [^1]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
 
