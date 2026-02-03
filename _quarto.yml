@@ -13,7 +13,7 @@ website:
         text: Home
       - href: intro.qmd
       - href: corneille.qmd
-      #- href: moliere.qmd
+      - href: moliere.qmd
       #- href: racine.qmd
       #- href: bernard.qmd
       #- href: villedieu.qmd
