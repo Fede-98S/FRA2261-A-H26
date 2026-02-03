@@ -9,9 +9,35 @@ p{
 }
 
 h1{
-    font-size: 2rem;
+    font-size: 25pt;
     font-family: Arial, Helvetica, sans-serif;
     text-align: justify;
+}
+
+h2{
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+#notes-de-bas-de-page{
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+h3{
+    font-size: 18pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: bold;
+}
+
+h4{
+    font-size: 17pt;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: bold;
 }
 
 em{
@@ -55,6 +81,11 @@ figcaption {
   margin-right: 20%;
 }
 
+hr{
+  border: 3px solid;
+  border-radius: 5px;
+}
+
 /* css styles */
 *, ::after, ::before {
   box-sizing: border-box;
@@ -64,20 +95,23 @@ figcaption {
 .timeline-fixed {
   width: 100%;
   height: 350px;
-  overflow: hidden;
+  overflow-x: auto;
+  overflow-y: hidden;
   padding: 20px 0;
   font-family: Arial, sans-serif;
 }
 
 .timeline {
-  display: flex;
-  justify-content: space-between;
+  display: inline-flex;
+  justify-content: flex-start;
   height: 100px;
   align-items: flex-start;
   padding: 0 20px;
   position: relative;
   margin-bottom: 20px;
+  min-width: max-content;
 }
+
 
 .timeline::before {
   content: '';
@@ -92,12 +126,12 @@ figcaption {
 
 .timeline-item {
   position: relative;
-  flex: 1;
-  min-width: 0;
+  min-width: 50px;
   text-align: center;
   cursor: pointer;
-  max-width: 25%;
+  margin-right: 50px; /* Adjust as needed for dot spacing */
 }
+
 
 .timeline-dot {
   width: 16px;
@@ -118,25 +152,41 @@ figcaption {
 }
 
 .timeline-info {
-  display: none;
-  background: white;
-  padding: 15px;
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-  border: 1px solid #e0e0e0;
-  margin-top: 10px;
-  text-align: left;
-  position: relative;
-  z-index: 3;
-  height: 250px;
   width: 200px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%) translateY(10px);
+  top: 60px; /* Position below the dot and date */
+  transition: all 0.3s ease;
+  opacity: 0;
+  pointer-events: none;
+  z-index: 3;
+}
+
+.timeline-info p {
+  word-wrap: break-word; /* or overflow-wrap: break-word; */
+  overflow: hidden;
 }
 
 .timeline-item.active .timeline-info {
-  display: block;
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
 }
 
 .timeline-item.active .timeline-dot {
   background: #4facfe;
   border-color: white;
+}
+
+/* For the first item, align info box to the right */
+.timeline-item:first-child .timeline-info {
+  left: 50%;
+  transform: translateX(0);
+}
+
+/* For the last item, align info box to the left */
+.timeline-item:last-child .timeline-info {
+  left: auto;
+  right: 50%;
+  transform: translateX(50%);
 }

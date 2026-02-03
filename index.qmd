@@ -4,18 +4,26 @@ title: "Home"
 
 # Description
 
-Dans le champ des études théâtrales, le terme « dramaturgie » désigne (1) l’ensemble des écrits dramatiques d’une personne, d’une époque, d’un courant, d’une aire géographique, etc.; (2) l’art de composer une œuvre dramatique; (3) la pensée du passage du texte à la scène. Le cours FRA 2261 « Dramaturgie d’Ancien Régime » porte sur tous ces aspects mais principalement sur les deux derniers et plus précisément sur leur interaction. 
+Dans le champ des études théâtrales, le terme «&nbsp;dramaturgie&nbsp;» désigne (1) l’ensemble des écrits dramatiques d’une personne, d’une époque, d’un courant, d’une aire géographique, etc.&nbsp;; (2) l’art de composer une œuvre dramatique&nbsp;; (3) la pensée du passage du texte à la scène. Le cours FRA 2261 «&nbsp;Dramaturgie d’Ancien Régime&nbsp;» porte sur tous ces aspects mais principalement sur les deux derniers et plus précisément sur leur interaction. 
 
-Fondé sur le rapport historique entre le texte et la scène, ce cours vise à faire découvrir et comprendre les pièces de théâtre du XVIIe siècle sous l’angle de leurs exigences et enjeux performatifs. Nous articulerons notre réflexion autour de trois grands axes : la fonction sociale (politique, critique, morale) du théâtre en France au XVIIe siècle, ses dispositifs (scénographie, rapport scène-salle), son oralité (déclamation). Des aspects en apparence plus « littéraires » (ou du moins traditionnellement enseignés comme tels), comme la versification et la règle des trois unités, de même que les modalités d’édition des textes, seront eux aussi envisagés et analysés dans cette perspective.  Au fil de la session, les étudiant.es seront ainsi amenés à repérer et à comprendre les principaux fondements dramaturgiques de la poétique théâtrale du XVIIe siècle. Ils.elles seront du même coup amené.es à réfléchir aux défis que ces textes posent à la mise en scène actuelle. Une sortie pourra aussi être organisée en fonction des spectacles à l’affiche à Montréal. 
+Fondé sur le rapport historique entre le texte et la scène, ce cours vise à faire découvrir et comprendre les pièces de théâtre du XVII<sup>e</sup> siècle sous l’angle de leurs exigences et enjeux performatifs. Nous articulerons notre réflexion autour de trois grands axes&nbsp;: la fonction sociale (politique, critique, morale) du théâtre en France au XVIIe siècle, ses dispositifs (scénographie, rapport scène-salle), son oralité (déclamation). Des aspects en apparence plus «&nbsp;littéraires&nbsp;» (ou du moins traditionnellement enseignés comme tels), comme la versification et la règle des trois unités, de même que les modalités d’édition des textes, seront eux aussi envisagés et analysés dans cette perspective.  Au fil de la session, les étudiant.es seront ainsi amenés à repérer et à comprendre les principaux fondements dramaturgiques de la poétique théâtrale du XVII<sup>e</sup> siècle. Ils.elles seront du même coup amené.es à réfléchir aux défis que ces textes posent à la mise en scène actuelle. Une sortie pourra aussi être organisée en fonction des spectacles à l’affiche à Montréal. 
 
 # Calendrier
 
 | Date | Activité |
 |-----------------------|----------------------------------|
-| 15 janvier-18 février | _L’Illusion comique_, _Horace_, _Le Bourgeois gentilhomme_ |
+| 15 janvier | Présentation du cours par Dominic Marion |
+| 22 janvier | Contexte et _L’Illusion comique_ |
+| 29 janvier | _Horace_ |
+| 5 février | _Le Bourgeois gentilhomme_ |
+| 12 février | Séance à la Bibliothèque des livres rares et collections spéciales |
+| 19 février | Le jeu dramatique |
 | **26 Février** | **Examen de mi-session** |
 | 5 mars | semaine de lecture  |
-| 19 mars-2 avril | _Le Misanthrope_, _Le Favori_, _Phèdre_ |
+| 12 mars | _Le Misanthrope_ |
+| 19 mars | _Le Favori_ |
+| 26 mars | _Phèdre et Hippolyte_ |
+| 2 avril | Les Italiens |
 | 9 avril | Cours + conférence de Pierre Lyraud sur _Brutus_ (à confirmer) |
 | 16 avril | Dernier cours |
 | 23 avril | REMISE DU TRAVAIL FINAL |
@@ -38,6 +46,6 @@ VILLEDIEU, Marie-Catherine-Hortense de, [_Le favori_](https://theatre-classique.
 
 # Évaluation
 
-- [ ] 1 examen de mi-session : 40% (à rédiger en classe, 26 février)
+- [ ] 1 examen de mi-session&nbsp;: 40% (à rédiger en classe, 26 février)
 
-- [ ] 1 travail de fin de session : 60% (à remettre en avril) 
+- [ ] 1 travail de fin de session&nbsp;: 60% (à remettre en avril) 

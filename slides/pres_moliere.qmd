@@ -1,0 +1,216 @@
+---
+title: "Molière"
+subtitle: "_Le Bourgeois gentilhomme_"
+data: 05 - 02 - 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+# Molière
+
+## Plan
+
+- Molière
+- _Le Bourgeois gentilhomme_
+  + Introduction
+  + La comédie-ballet comme critique sociale
+  + Théâtre dans le théâtre
+  + Clôture de la pièce
+  + Pour approfondir
+
+# Molière
+
+## Molière
+
+Molière, Jean-Baptiste Poquelin
+
+- Paris 1622 1673
+- farce
+- comédie
+  + comédie héroïque
+  + comédie galante
+  + comédie | pastorale (dans ballets)
+  + comédie-balet et tragédie-ballet (_Psyché_)
+
+Troupe de l'Illustre Théâtre
+
+# _Le Bourgeois gentilhomme_
+
+# Introduction
+
+## Introduction
+
+<br/>
+<br/>
+
+- Première le 14 octobre 1670
+- chateau de Chambord
+- comédie-ballet
+- mise en scène d'une « turquerie »
+
+
+## Introduction
+
+<br/>
+<br/>
+_Qu’est-ce que c’est la comédie-ballet?_
+
+- Collaboration avec Jean-Baptiste Lully (Giovanni Battista Lulli) jusqu’au 1672
+- Lully et l'institution de l'Académie royale de musique en 1672, après la Révolution Académie d'Opéra
+- Marc-Antoine Charpentier
+
+# La comédie-ballet comme critique sociale
+
+## La comédie-ballet comme critique sociale
+
+<br/>
+<br/>
+<br/>
+<br/>
+_Est-ce que la pièce répond à la demande de son commanditaire?_
+
+## La comédie-ballet comme critique sociale
+
+- formation aux manières des gens de qualité à travers les différents maîtres (Acte I)
+- tentative de séduction d'une marquise, tout en trompant sa femme
+- mariage de sa fille avec un gentilhomme et après avec le fils du Grand Turc
+
+## La comédie-ballet comme critique sociale
+
+<br/>
+<br/>
+Mamamouchi
+<br/>
+
+De l’arabe _مستهتر_ [mustahtir] = « propre à rien » (n. 175, p. 288):
+
+> (1.) Mamamouchi: le mot est inventé par Molière, peut-être d'après l'arabe « ma menou schi », qui signifie « non chose bonne », et donc « propre à rien ».
+
+- au sens de ne pas être bon à faire n’importe quoi, antinomie « bourgeois » et « gentilhomme »
+- bourgeoisie question de naissance et non pas d’éducation ni d’argent
+
+## La comédie-ballet comme critique sociale
+
+<br/>
+<br/>
+Mamamouchi
+<br/>
+
+[_مملوك_ [mamlūk]](https://www.treccani.it/vocabolario/mammalucco/), pl. _مماليك_ (mamālīk) = « esclave acheté »
+
+- en fr. « Mamelouk » ou en it.« Mammalucco »
+- critique sociale de soumission des classes sociales
+
+## La comédie-ballet comme critique sociale
+
+Critique non seulement la bourgeoisie, Dorante en tant que noble
+
+> <b>DORIMÈNE.</b>\
+J'ai vu là des apprêts magnifiques, et ce sont des choses, Dorante, que je ne puis plus souffrir. Oui, je veux enfin vous empêcher vos profusions : et pour rompre le cours à toutes les dépenses que je vous vois faire pour moi, j'ai résolu de me marier promptement avec vous. C'en est le vrai secret, et toutes ces choses finissent avec le mariage.\
+<b>DORANTE.</b>\
+Ah ! Madame, est-il possible que vous ayez pu prendre pour moi une si douce résolution ?\
+<b>DORIMÈNE.</b>\
+Ce n'est que pour vous empêcher de vous ruiner ; et sans cela je vois bien qu'avant qu'il fût peu, vous n'auriez pas un sou.\
+
+<span style="float:right; margin-right:10%;">(V, 2, p.102)</span>
+
+## La comédie-ballet comme critique sociale
+
+Daren Hodson, « A Would-Be Turk: Louis XIV in Le Bourgeois gentilhomme », _Seventeenth-Century French Studies_, vol. 32, nᵒ 1, Routledge, juillet 2010, p. 90‑101, en ligne, <doi: 10.1179/026510610X12713438444792>.
+
+Critique de l'ensemble de la société, y compris Louis XIV et ses erreurs diplomatiques avec l'Empire ottoman.
+
+- apprentissage la musique et le ballet
+- diamant
+- cérémonie d’intronisation
+- bastonnades
+
+# Théâtre dans le théâtre
+
+## Théâtre dans le théâtre
+
+> Quatre Danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à danser leur commande : et cette danse fait le premier intermède.
+
+<span style="float:right; margin-right:10%;">(I, 2)</span><br/>
+
+> Quatre Garçons tailleurs entrent, dont deux lui arrachent le haut-de-chausses de ses exercices, et deux autres la camisole, puis ils lui mettent son habit neuf ; et Monsieur Jourdain se promène entre eux, et leur montre son habit, pour voir s'il est bien. Le tout à la cadence de toute la symphonie.
+
+<span style="float:right; margin-right:10%;">(II, 5)</span><br/>
+
+> Six cuisiniers, qui ont préparé le festin, dansent ensemble, et font le troisième intermède ; après quoi ils apportent une table couverte de plusieurs mets.
+
+<span style="float:right;margin-right:10%;">(III, 16)</span>
+
+## Théâtre dans le théâtre
+
+> Le Mufti, quatre Dervis, six Turcs dansants, six Turcs musiciens, et autres joueurs d'instruments à la turque, sont les acteurs de cette cérémonie.\
+Le Mufti invoque Mahomet avec les douze Turcs et les quatre Dervis ; après on lui amène le Bourgeois vêtu à la turque, sans turban et sans sabre, auquel il chante ces paroles.
+
+> La cérémonie turque pour ennoblir le Bourgeois, se fait en danse et en musique, et compose le quatrième intermède.
+
+> Le Mufti demande en même langue aux Turcs assistants, de quelle religion est le Bourgeois, et ils l'assurent qu'il est mahométan. Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent.
+
+> Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles :
+
+> Les Turcs répondent les mêmes vers.\
+Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.
+
+> Les Turcs répètent tout ce qu'a dit le Mufti pour donner le turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants ; après son invocation, il donne au Bourgeois l'épée, et chante ces paroles.
+
+> Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d'entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre.\
+Le Mufti commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.
+
+> Les Turcs répètent les mêmes vers, et lui donnent plusieurs coups de bâton en cadence.\
+Le Mufti, après l'avoir fait bâtonner, lui dit en chantant.
+
+> Les Turcs répètent les mêmes vers.\
+Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turquesque.
+
+<span style="float:right;">(IV, 5)</span>
+
+## Théâtre dans le théâtre
+
+> <b>LES MUSICIENS et LA MUSICIENNE prennent des verres, chantent deux chansons à boire, et sont soutenus de toute la symphonie.</b>\
+<b>PREMIÈRE CHANSON À BOIRE.</b>\
+Un petit doigt, Philis, pour commencer le tour.&emsp; \(51)\
+Ah ! Qu'un verre en vos mains a d'agréables charmes !\
+Vous et le vin, vous vous prêtez des armes,\
+Et je sens pour tous deux redoubler mon amour :\
+Entre lui, vous et moi, jurons, jurons ma belle,&emsp; \(55)\
+Une ardeur éternelle.\
+Qu'en mouillant votre bouche il en reçoit d'attraits,\
+Et que l'on voit par lui votre bouche embellie !\
+Ah ! L'un de l'autre ils me donnent envie,\
+Et de vous et de lui je m'enivre à longs traits :&emsp; \(60)\
+Entre lui, vous et moi, jurons, jurons, ma belle,\
+Une ardeur éternelle.\
+<b>SECONDE CHANSON À BOIRE.</b>\
+Buvons, chers amis, buvons,\
+Le temps qui fuit nous y convie ;\
+Profitons de la vie&emsp; \(65)\
+Autant que nous pouvons :\
+Quand on a passé l'onde noire,\
+Adieu le bon vin, nos amours ;\
+Dépêchons-nous de boire,\
+On ne boit pas toujours.&emsp; \(70)\
+Laissons raisonner les sots\
+Sur le vrai bonheur de la vie ;\
+Notre philosophie\
+Le met parmi les pots :\
+Les biens, le savoir, et la gloire,&emsp; \(75)\
+N'ôtent point les soucis fâcheux ;\
+Et ce n'est qu'à bien boire\
+Que l'on peut être heureux.\
+Sus sus du vin, partout versez, garçons versez,\
+Versez, versez toujours, tant qu'on vous dise assez.&emsp; \(80)\
+
+## Théâtre dans le théâtre
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,394 @@
+---
+title: "Molière"
+---
+
+# Molière
+
+ffkjslfkm
+
+<iframe src="slides/pres_moliere.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_moliere.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+### Frise chronologique publications Corneille[^1]
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1606</div>
+      <div class="timeline-info">
+        <h4>Naissance</h4>
+        <p>Pierre Corneille est né à Rouen.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1615</div>
+      <div class="timeline-info">
+        <h4>Études</h4>
+        <p>Il commence ces études chez les jésuites.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1622-1624</div>
+      <div class="timeline-info">
+        <h4>Études de droits</h4>
+        <p>Formation en jurisprudence comme son père.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1624</div>
+      <div class="timeline-info">
+        <h4>Stage</h4>
+        <p>Stage au parlement de Rouen.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1628</div>
+      <div class="timeline-info">
+        <h4>Achat d'offices</h4>
+        <p>Son père lui achète deux offices d'avocat du roi, Eaux et Forêts et amirauté de France. Il les consèrvent jusqu'au 1650.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1629</div>
+      <div class="timeline-info">
+        <h4><i>Mélite</i></h4>
+        <p>Sa première pièce. Puis, <i>Clitandre</i>, <i>La Veuve</i>,<i>La Place Royale</i></p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1633</div>
+      <div class="timeline-info">
+        <h4>Société des cinq auteurs</h4>
+        <p>Société donne une pension à Corneille et lui offre une place dans l'association «Société des cinq auteurs&nbsp;»</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1634</div>
+      <div class="timeline-info">
+        <h4><i>Médée</i></h4>
+        <p>Première tragédie.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1635</div>
+      <div class="timeline-info">
+        <h4><i>L'Illusion comique</i></h4>
+        <p>Première mises en scène et publication en 1639.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1637</div>
+      <div class="timeline-info">
+        <h4><i>Le Cid</i></h4>
+        <p>Gloire, mais aussi contestation, «&nbsp;querelle&nbsp;».</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1638-1640</div>
+      <div class="timeline-info">     
+        <h4></h4> 
+        <p>Période de «&nbsp;silence&nbsp;» pour soucis familiaux et financiers.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1640</div>
+      <div class="timeline-info">      
+        <h4><i>Horace</i></h4>
+        <p>Mise en scène de cette tragédie et mariage avec Marie de Lampérière.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1642</div>
+      <div class="timeline-info">      
+        <h4><i>Cinna</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1643</div>
+      <div class="timeline-info">      
+        <h4><i>Polyeucte</i></h4>
+        <p>Mort de Richelieu et passage sous la protection de Mazarin.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1644-1645</div>
+      <div class="timeline-info">      
+        <h4><i>Le Menteur</i>, <i>Rodogune</i></h4>        
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1647</div>
+      <div class="timeline-info">      
+        <h4>Élection à l'Académie française</h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1651</div>
+      <div class="timeline-info">      
+        <h4><i>Pertharite</i></h4>
+        <p>Demi-échec qui l'éloigne du théâtre.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1652-1658</div>
+      <div class="timeline-info">   
+        <h4></h4>   
+        <p>Il se tourne vers la religion et se dédie à l'écriture théorique comme&nbsp;: <i>Discours sur l'art dramatique</i></p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1659</div>
+      <div class="timeline-info">      
+        <h4><i>Œdipe</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1662</div>
+      <div class="timeline-info"> 
+        <h4></h4>     
+        <p>Il s'installe à Paris avec son frère Thomas.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1666-1670-1674</div>
+      <div class="timeline-info">      
+        <h4><i>Attila</i>, <i>Tite et Bérénice</i>, <i>Suréna</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1674-1684</div>
+      <div class="timeline-info">    
+        <h4></h4>  
+        <p>Apaisement par difficultés financières</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1684</div>
+      <div class="timeline-info">   
+        <h4>Mort</h4>   
+        <p>Mort à Paris</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+function toggleInfo(el) {
+  // Close all open info boxes
+  document.querySelectorAll('.timeline-item.active').forEach(item => {
+    item.classList.remove('active');
+  });
+  // Toggle clicked item
+  el.classList.add('active');
+}
+
+</script>
+```
+
+
+# _Le Bougeois gentilhomme: critique sociale en comédie-ballet_
+
+## Introduction
+
+La pièce _Le Bourgeois gentilhomme_ a été écrite en 1670 et publiée l’année suivante. Cette pièce a un tout autre style, avec des éléments de vivacité, humour, bouffonnerie et critique sociale. À travers cette œuvre, nous allons explorer un nouveau genre théâtral du XVII<sup>e</sup> siècle, qui, selon la critique, est né et mort avec Molière.
+
+_Qu’est-ce que c’est la comédie-ballet?_
+
+On peut définir de manière générale une comédie mêlée de musique et de danse. Molière en écrit un dizain en collaborant avec Jean-Baptiste Lully (Giovanni Battista Lulli) jusqu’au 1672, quand Lully se détache de cette collaboration pour se donner à l’institution de l’Académie du ballet et de musique. Après, Molière commence à collaborer avec Marc-Antoine Charpentier, avec lequel ils ont retravaillé les comédies-ballets précédentes, tout en créant des nouvelles.
+
+La pièce est issue d’une triple collaboration, en effet, pour le volet ballet l’auteur et le compositeur collaborent avec Pierre Beauchamp. Cela a été créé sous commande de Louis XIV et pour célébrer l’alliance militaire et économique entre France et empire Ottoman[^1]. _Le Bourgeois gentilhomme_ représente une sorte de revanche, presque une riposte, de la part de Louis XIV envers la réaction du diplomate Soleman Aga, envoyé par le sultan. Pour l’occasion, le roi a prévu des fastes pour impressionner le diplomate, qui a réagi avec du dédain. La commande faite à Molière consiste à mettre en scène une « turquerie », c’est-à-dire une pièce où figurent des personnages turcs afin de se moquer de leurs coutumes.
+
+## La comédie-ballet comme critique sociale
+
+_Est-ce que la pièce répond à la demande de son commanditaire?_
+
+En réalité non, parce que, à travers la mise en scène de gens déguisés en faux Turcs, le public rit de Monsieur Jourdain, le bourgeois qui voudrait atteindre une position sociale plus élevée. Tout au long de la pièce, au centre de l’attention, il y a toujours M Jourdain et on se moque de la manière dont il essaie d’élever sa condition:
+
+- formation aux manières des gens de qualité à travers les différents maîtres (Acte I)
+- tentative de séduction d'une marquise, tout en trompant sa femme
+- mariage de sa fille avec un gentilhomme et après avec le fils du Grand Turc
+
+Molière crée le personnage du Mamamouchi, un mot qui pourrait provenir de l’arabe _مستهتر_ [mustahtir], signifiant « propre à rien », tel qu’indiqué dans la note de bas de page 175, située à la page 288:
+
+> 1. Mamamouchi: le mot est inventé par Molière, peut-être d'après l'arabe « ma menou schi », qui signifie « non chose bonne », et donc « propre à rien ».
+
+Toutefois, je vous propose une seconde hypothèse quant à l’origine étymologique du terme moliéresque, qui trouve ses racines dans l’arabe [_مملوك_ [mamlūk]](https://www.treccani.it/vocabolario/mammalucco/) ou son pluriel _مماليك_ (mamālīk), signifiant « esclave acheté ». Cette déformation pourrait provenir du mot français « Mamelouk » ou du terme italien « Mammalucco ». Cette théorie repose sur plusieurs facteurs, déjà, le fait de travailler avec un italien, tel Jean-Baptiste Lully, pourrait avoir simplifié ce passage; en deuxième, si nous lisons les passages en pseudoturc[^2], plutôt que de dissimuler l’arabe, nous avons une dissimulation de la langue italienne. Cela suffisait pour créer un effet de distance, tout dans la proximité. Dans ce dernier cas, la notion d’esclave pourrait renvoyer à une critique sociale plus large de soumission à sa classe d’appartenance et, plus en général, la soumission au roi. D’autre part, la première interprétation renvoie plutôt au sens de ne pas être bon à faire n’importe quoi, en instaurant une antinomie gérée par les mêmes termes du titre « bourgeois »[^3] et « gentilhomme » ne peuvent pas aller ensemble. En effet, l’appartenance à la bourgeoisie est une question de naissance et non pas d’éducation ni d’argent. 
+
+Pour rappel, à l’époque, on a deux types de noblesse, celle d’épée et celle de robe. La première dérive d’une tradition familiale remontant au Moyen Âge, la deuxième est une noblesse récente, attribuée par le roi ou à travers l’acquisition de charges. Les bourgeois appartiennent à la seconde catégorie de nobles, qui est imbue des privilèges attribués, sans pour autant maîtriser les codes de la noblesse (d’épée). La mise en scène d’un personnage comme M Jourdain ridiculise les bourgeois, tout en étant ridiculisé par les autres nobles et bourgeois eux-mêmes. L’antagonisme de classe, ainsi que la ténacité de Monsieur Jourdain, est clairement mis en lumière lorsque Cléonte propose de demander la main de Lucile, la fille de Madame et de Monsieur Jourdain (III, 12).
+
+La pièce s’en prend également à Dorente, qui est l’objet de critiques de la part des membres de la noblesse. En effet, si M Jourdain essaie d’acquérir à travers l’argent une position meilleure, ce même argent marque la noblesse d’épée, qui pourtant est en train de se ruiner. Dorante est effectivement désargenté, en demandant constamment de l’argent à M Jourdain, finalement, il change de personne exploitée, grâce au mariage lui proposé par Dorimène elle-même, donc en le prenant en charge. D’une part, on a un bourgeois qui veut devenir gentilhomme, et, d’autre part, on a un gentilhomme qui n’a plus rien d’honnête.
+
+> <b>DORIMÈNE.</b>\
+J'ai vu là des apprêts magnifiques, et ce sont des choses, Dorante, que je ne puis plus souffrir. Oui, je veux enfin vous empêcher vos profusions : et pour rompre le cours à toutes les dépenses que je vous vois faire pour moi, j'ai résolu de me marier promptement avec vous. C'en est le vrai secret, et toutes ces choses finissent avec le mariage.\
+<b>DORANTE.</b>\
+Ah ! Madame, est-il possible que vous ayez pu prendre pour moi une si douce résolution ?\
+<b>DORIMÈNE.</b>\
+Ce n'est que pour vous empêcher de vous ruiner ; et sans cela je vois bien qu'avant qu'il fût peu, vous n'auriez pas un sou.\
+
+(V, 2, p.102)
+
+Revenons au contexte de la pièce, elle n’a pas été créée et mise en scène pour le Théâtre du Palais-Royal, mais pour des fêtes se déroulant au château de Chambord, le public est donc composé par Louis XIV, la cour et l’aristocratie. Cette même aristocratie voit sur scène un aristocrate menteur et profiteur, pour cette raison, la légende veut que, lors de sa première représentation le 14 octobre, la réception ait été très froide, même sana applaudissements.
+
+Selon certains critiques, le roi Louis XIV lui-même serait au centre de ces critiques, en particulier pour ses erreurs diplomatiques avec l’Empire Ottoman, ainsi que l’absolutisme et la folie de grandeur. Dans cette perspective Hodson (2010) nous illustrent le parallélisme entre la volonté de M Jourdain à apprendre la musique et le ballet, et Louis XIV et ses passions pour les arts. Le diamant qu’il a offert à Dorimène renverrait aux multiples diamants dont Louis XIV s’était revêtu pour accueillir l’ambassadeur turc. De plus, la cérémonie d’intronisation de M Jourdain au titre de Mamamouchim serait la parodie du couronnement royal lui-même, la couronne correspond au turban. Dans cet épisode, les bastonnades reçues par M Jourdaine représenteraient l’humiliation subie par Louis XIV par les Turcs.
+
+Cette théorie est renforcée par la légende, selon laquelle lors de la première, même Louis XIV n’aurait pas applaudi, mais il s’est ravisé à la deuxième mise en scène le 19 octobre, quand il aurait dit à Molière: « Je suis tout à fait content de votre comédie, voilà le vrai comique et la bonne et utile plaisanterie ». L’œuvre continue à être représentée à la cour et à partir du novembre 1670 également au Palais-Royal.
+
+Cela nous permet de constater que, bien qu’au service de la monarchie, les arts ne sont pas empêchés de mener face au public des discours critiques sur celle-ci.
+
+## Théâtre dans le théâtre
+
+_Le Bourgeois gentilhomme_ se prête bien à l’analyse selon une notion que nous avons déjà rencontrée, celle de la mise en abyme. En effet, les intermèdes à la fin des actes, relève du théâtre dans le théâtre, tout en ne pas ayant le cadre explicite de spectateurs face à un spectacle, comme c’était le cas dans _L'Illusion comique_.
+
+::::{.columns}
+
+:::{.column}
+
+> Quatre Danseurs exécutent tous les mouvements différents, et toutes les sortes de pas que le Maître à danser leur commande : et cette danse fait le premier intermède.
+
+(I, 2)
+
+:::
+
+:::{.column}
+
+> Quatre Garçons tailleurs entrent, dont deux lui arrachent le haut-de-chausses de ses exercices, et deux autres la camisole, puis ils lui mettent son habit neuf ; et Monsieur Jourdain se promène entre eux, et leur montre son habit, pour voir s'il est bien. Le tout à la cadence de toute la symphonie.
+
+(II, 5)
+
+:::
+
+:::{.column}
+
+> Six cuisiniers, qui ont préparé le festin, dansent ensemble, et font le troisième intermède ; après quoi ils apportent une table couverte de plusieurs mets.
+
+(III, 16)
+
+:::
+
+::::
+
+Les intermèdes situés à la fin des trois premiers actes sont, au niveau de la didascalie, plus courte et isolée, alors que dans le quatrième acte, les didascalies sont alternées avec le dialogue (par la suite, citation seule des didascalies). C’est proprement la mascarade qui fait avancer le dialogue. 
+
+> Le Mufti, quatre Dervis, six Turcs dansants, six Turcs musiciens, et autres joueurs d'instruments à la turque, sont les acteurs de cette cérémonie.\
+Le Mufti invoque Mahomet avec les douze Turcs et les quatre Dervis ; après on lui amène le Bourgeois vêtu à la turque, sans turban et sans sabre, auquel il chante ces paroles.
+
+> La cérémonie turque pour ennoblir le Bourgeois, se fait en danse et en musique, et compose le quatrième intermède.
+
+> Le Mufti demande en même langue aux Turcs assistants, de quelle religion est le Bourgeois, et ils l'assurent qu'il est mahométan. Le Mufti invoque Mahomet en langue franque, et chante les paroles qui suivent.
+
+> Le Mufti demande aux Turcs si le Bourgeois sera ferme dans la religion mahométane, et leur chante ces paroles :
+
+> Les Turcs répondent les mêmes vers.\
+Le Mufti propose de donner le turban au Bourgeois, et chante les paroles qui suivent.
+
+> Les Turcs répètent tout ce qu'a dit le Mufti pour donner le turban au Bourgeois. Le Mufti et les Dervis se coiffent avec des turbans de cérémonies, et l'on présente au Mufti l'Alcoran, qui fait une seconde invocation avec tout le reste des Turcs assistants ; après son invocation, il donne au Bourgeois l'épée, et chante ces paroles.
+
+> Les Turcs répètent les mêmes vers, mettant tous le sabre à la main, et six d'entre eux dansent autour du Bourgeois, auquel ils feignent de donner plusieurs coups de sabre.\
+Le Mufti commande aux Turcs de bâtonner le Bourgeois, et chante les paroles qui suivent.
+
+> Les Turcs répètent les mêmes vers, et lui donnent plusieurs coups de bâton en cadence.\
+Le Mufti, après l'avoir fait bâtonner, lui dit en chantant.
+
+> Les Turcs répètent les mêmes vers.\
+Le Mufti recommence une invocation et se retire après la cérémonie avec tous les Turcs, en dansant et chantant avec plusieurs instruments à la turquesque.
+
+(IV, 5)
+
+_ Quoi du ballet des nations? A-t-il un rapport avec le reste de la pièce?_ 
+
+Bien que ce ballet final semble ne présenter pas de rapport avec le reste de la pièce, il est annoncé tout au long de la pièce, comme divertissement pour Dorimène de la part de Dorante. Par conséquent, nous pouvons bien constater que le lien avec l’intrigue est évident, et que le ballet ne constitue pas une unité à part entière.
+
+Dans les entractes entre chaque acte, on trouve également des instants qui relèvent toujours de l’intégration du théâtre dans le théâtre, comme dans la première scène du quatrième acte (p. 85-86), où une chanson à boire est chantée lors du banquet.
+
+> <b>LES MUSICIENS et LA MUSICIENNE prennent des verres, chantent deux chansons à boire, et sont soutenus de toute la symphonie.</b>\
+<b>PREMIÈRE CHANSON À BOIRE.</b>\
+Un petit doigt, Philis, pour commencer le tour.&emsp; \(51)\
+Ah ! Qu'un verre en vos mains a d'agréables charmes !\
+Vous et le vin, vous vous prêtez des armes,\
+Et je sens pour tous deux redoubler mon amour :\
+Entre lui, vous et moi, jurons, jurons ma belle,&emsp; \(55)\
+Une ardeur éternelle.\
+Qu'en mouillant votre bouche il en reçoit d'attraits,\
+Et que l'on voit par lui votre bouche embellie !\
+Ah ! L'un de l'autre ils me donnent envie,\
+Et de vous et de lui je m'enivre à longs traits :&emsp; \(60)\
+Entre lui, vous et moi, jurons, jurons, ma belle,\
+Une ardeur éternelle.\
+<b>SECONDE CHANSON À BOIRE.</b>\
+Buvons, chers amis, buvons,\
+Le temps qui fuit nous y convie ;\
+Profitons de la vie&emsp; \(65)\
+Autant que nous pouvons :\
+Quand on a passé l'onde noire,\
+Adieu le bon vin, nos amours ;\
+Dépêchons-nous de boire,\
+On ne boit pas toujours.&emsp; \(70)\
+Laissons raisonner les sots\
+Sur le vrai bonheur de la vie ;\
+Notre philosophie\
+Le met parmi les pots :\
+Les biens, le savoir, et la gloire,&emsp; \(75)\
+N'ôtent point les soucis fâcheux ;\
+Et ce n'est qu'à bien boire\
+Que l'on peut être heureux.\
+Sus sus du vin, partout versez, garçons versez,\
+Versez, versez toujours, tant qu'on vous dise assez.&emsp; \(80)\
+
+Celle-là n’est pas la seule chanson présente dans la pièce, qui ne soit pas sue dans un intermède à la fin d’un acte. Il suffit de reprendre la pièce et nous voyons qu’au tout début, l’écolier du maître de musique chante la chanson préparée pour Dorimène devant le bourgeois.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Finalement, nous avons une troisième forme de théâtre dans le théâtre, celui du jeu des personnages. L’exemple par excellence est le déguisement de Covielle et Cléonte en ambassadeur et en Sultan pour convaincre M Jourdain à donner sa fille en mariage à Cléonte, le Grand Turc (IV, 3-5).
+
+## Clôture de la pièce
+
+La pièce se conclut en six temps avec le Ballet des Nations. Au début de la pièce, nous apercevons divers personnages, tels qu’un Gascon, un Suisse, des membres de la noblesse, « du bel air », un « vieux bourgeois » et une « vieille bourgeoise », ainsi que des spectateurs. Les deux classes sociales critiquées tout au long de la pièce sont ici représentées, en train de nous entasser dans la salle, cherchant une place et cherchant à obtenir un livret du ballet, dans ce cas, nous retrouvons une véritable mise en abyme du public du théâtre.
+
+## Question de mise en scène
+
+Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même manière pour diverses raisons, notamment l’évolution de la langue et les variations diachroniques. La deuxième raison est qu’à l’époque, on suit l’art de la déclamation. Pour mieux introduire cet aspect, nous approchons cette pièce parce qu’elle présente un texte en prose, par conséquent il est plus proche de la manière de parler.
+
+À titre d’exemple nous reprenons le concept de meta, pour reprendre le dialogue métalinguistique, lorsque M Jourdian demande au maître de philosophie de lui apprendre l’orthographe (II, 4).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## Pour Approfondir
+
+Voici la mise en scène du _Malade imaginaire_ selon une reconstitution menée par les chercheurs et étudiants de différentes disciplines. La représentation est le résultat d’une série de recherche, non seulement sur le texte, sur sa prononciation, mais également sur le décor, les costumes, les objets scéniques, ainsi que tout mouvement du jeu théâtral.
+
+<iframe width="644" height="362.25" src="https://www.youtube.com/embed/h4-5CZpMK2M?si=XYNedKs9M-3A5PGi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[^1]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
+
+[^2]: Nous pourrions le définir du gibberish, ou comme on le traduirait en français charabia, amphigouri ou baragouin.
+
+[^3]: En restant sur l'étymologie, gentilhomme vient du latin _gentilis_, c'est-à-dire de famille, de race.

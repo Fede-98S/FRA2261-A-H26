@@ -2,9 +2,8 @@ project:
   type: website
   output-dir: docs
   render:
-    - index.qmd
-    - intro.qmd
-    - corneille.qmd
+    - "*.qmd"
+    - "slides/*.qmd"
 
 website:
   title: "FRA2261-A-H26 - Dramaturgie d'Ancien Régime"
@@ -14,11 +13,11 @@ website:
         text: Home
       - href: intro.qmd
       - href: corneille.qmd
-      - href: moliere.qmd
-      - href: racine.qmd
-      - href: bernard.qmd
-      - href: villedieu.qmd
-      - href: bibliographie.qmd
+      #- href: moliere.qmd
+      #- href: racine.qmd
+      #- href: bernard.qmd
+      #- href: villedieu.qmd
+      #- href: bibliographie.qmd
 
 format:
   html:
