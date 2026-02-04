@@ -211,14 +211,14 @@ Versez, versez toujours, tant qu'on vous dise assez.&emsp; \(80)\
 ## Théâtre dans le théâtre
 
 {{< video https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd
-    start="300"
-    width="100%"
-    height="100%"
+  start="300"
+  width="100%"
+  height="100%"
 >}}
 
 ## Théâtre dans le théâtre
 
 {{< video https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U
-    width="100%"
-    height="100%"
+  width="100%"
+  height="100%"
 >}}
