@@ -4,8 +4,6 @@ title: "Molière"
 
 # Molière
 
-ffkjslfkm
-
 <iframe src="slides/pres_moliere.html" title="description_of_embedded_content" style="width:100%; height:400px;">
   <p>Your browser does not support iframes.</p>
 </iframe>
@@ -355,7 +353,7 @@ Versez, versez toujours, tant qu'on vous dise assez.&emsp; \(80)\
 
 Celle-là n’est pas la seule chanson présente dans la pièce, qui ne soit pas sue dans un intermède à la fin d’un acte. Il suffit de reprendre la pièce et nous voyons qu’au tout début, l’écolier du maître de musique chante la chanson préparée pour Dorimène devant le bourgeois.
 
-{{< https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300 >}}
+{{< video https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300 >}}
 
 Finalement, nous avons une troisième forme de théâtre dans le théâtre, celui du jeu des personnages. L’exemple par excellence est le déguisement de Covielle et Cléonte en ambassadeur et en Sultan pour convaincre M Jourdain à donner sa fille en mariage à Cléonte, le Grand Turc (IV, 3-5).
 
@@ -369,10 +367,7 @@ Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même 
 
 À titre d’exemple nous reprenons le concept de meta, pour reprendre le dialogue métalinguistique, lorsque M Jourdian demande au maître de philosophie de lui apprendre l’orthographe (II, 4).
 
-<!--<iframe width="644" height="362.25" src="https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
-
-{{< video https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U
->}}
+{{< video https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U >}}
 
 ---
 
@@ -380,10 +375,7 @@ Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même 
 
 Voici la mise en scène du _Malade imaginaire_ selon une reconstitution menée par les chercheurs et étudiants de différentes disciplines. La représentation est le résultat d’une série de recherche, non seulement sur le texte, sur sa prononciation, mais également sur le décor, les costumes, les objets scéniques, ainsi que tout mouvement du jeu théâtral.
 
-<!--<iframe type="text/html" src="https://www.youtube.com/watch?v=h4-5CZpMK2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
-
-{{< video https://www.youtube.com/watch?v=h4-5CZpMK2M
->}}
+{{< video https://www.youtube.com/watch?v=h4-5CZpMK2M >}}
 
 [^1]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
 
