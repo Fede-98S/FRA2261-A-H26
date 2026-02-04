@@ -18,55 +18,54 @@ ffkjslfkm
   <div class="timeline">
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1606</div>
+      <div class="timeline-date">1622</div>
       <div class="timeline-info">
         <h4>Naissance</h4>
-        <p>Pierre Corneille est né à Rouen.</p>
+        <p>Jean-Baptiste Poquelin est né à Paris.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1615</div>
+      <div class="timeline-date">1631</div>
       <div class="timeline-info">
         <h4>Études</h4>
-        <p>Il commence ces études chez les jésuites.</p>
+        <p>Il études chez les jésuites de Clermont.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1622-1624</div>
+      <div class="timeline-date">1642</div>
       <div class="timeline-info">
         <h4>Études de droits</h4>
-        <p>Formation en jurisprudence comme son père.</p>
+        <p>Licence en droit à Orléans.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1624</div>
+      <div class="timeline-date">1643</div>
       <div class="timeline-info">
-        <h4>Stage</h4>
-        <p>Stage au parlement de Rouen.</p>
+        <h4>Illustre-Théâtre</h4>
+        <p>Création de la troupe avec Madeleine Béjart.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1628</div>
+      <div class="timeline-date">1644</div>
       <div class="timeline-info">
-        <h4>Achat d'offices</h4>
-        <p>Son père lui achète deux offices d'avocat du roi, Eaux et Forêts et amirauté de France. Il les consèrvent jusqu'au 1650.</p>
+        <h4>Pseudonyme de Molière</h4>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1629</div>
+      <div class="timeline-date">1645</div>
       <div class="timeline-info">
-        <h4><i>Mélite</i></h4>
-        <p>Sa première pièce. Puis, <i>Clitandre</i>, <i>La Veuve</i>,<i>La Place Royale</i></p>
+        <h4>Faillite</h4>
+        <p>Faillite de l'Illustre-Théâtre, incarcération pendant quelques jours et départ avec sa troupe vers la province.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1633</div>
+      <div class="timeline-date">1646-1658</div>
       <div class="timeline-info">
         <h4>Société des cinq auteurs</h4>
         <p>Société donne une pension à Corneille et lui offre une place dans l'association «&nbsp;Société des cinq auteurs&nbsp;»</p>
@@ -74,125 +73,103 @@ ffkjslfkm
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1634</div>
+      <div class="timeline-date">1655</div>
       <div class="timeline-info">
-        <h4><i>Médée</i></h4>
-        <p>Première tragédie.</p>
+        <h4>Voyage au Sud</h4>
+        <p>Protection du duc d'Épernon et après du prince de Conti.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1635</div>
+      <div class="timeline-date">1656</div>
       <div class="timeline-info">
-        <h4><i>L'Illusion comique</i></h4>
-        <p>Première mises en scène et publication en 1639.</p>
+        <h4><i>Le Dépit amoureux</i></h4>
+        <p>Joué à Béziers.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1637</div>
+      <div class="timeline-date">1658</div>
       <div class="timeline-info">
-        <h4><i>Le Cid</i></h4>
-        <p>Gloire, mais aussi contestation, «&nbsp;querelle&nbsp;».</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1638-1640</div>
-      <div class="timeline-info">     
-        <h4></h4> 
-        <p>Période de «&nbsp;silence&nbsp;» pour soucis familiaux et financiers.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1640</div>
-      <div class="timeline-info">      
-        <h4><i>Horace</i></h4>
-        <p>Mise en scène de cette tragédie et mariage avec Marie de Lampérière.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1642</div>
-      <div class="timeline-info">      
-        <h4><i>Cinna</i></h4>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1643</div>
-      <div class="timeline-info">      
-        <h4><i>Polyeucte</i></h4>
-        <p>Mort de Richelieu et passage sous la protection de Mazarin.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1644-1645</div>
-      <div class="timeline-info">      
-        <h4><i>Le Menteur</i>, <i>Rodogune</i></h4>        
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1647</div>
-      <div class="timeline-info">      
-        <h4>Élection à l'Académie française</h4>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1651</div>
-      <div class="timeline-info">      
-        <h4><i>Pertharite</i></h4>
-        <p>Demi-échec qui l'éloigne du théâtre.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1652-1658</div>
-      <div class="timeline-info">   
-        <h4></h4>   
-        <p>Il se tourne vers la religion et se dédie à l'écriture théorique comme&nbsp;: <i>Discours sur l'art dramatique</i></p>
+        <h4>Retour</h4>
+        <p>Il retourne à Paris, et après avoir joué devant le roi, on lui confie le Petit-Bourbon.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1659</div>
+      <div class="timeline-info">     
+        <h4><i>Les Précieuses ridicules</i></h4>
+        <p>Premier succès.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1661</div>
       <div class="timeline-info">      
-        <h4><i>Œdipe</i></h4>
+        <h4></h4>
+        <p>La troupe s'installe au Palais-Royal.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1662</div>
-      <div class="timeline-info"> 
-        <h4></h4>     
-        <p>Il s'installe à Paris avec son frère Thomas.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1666-1670-1674</div>
       <div class="timeline-info">      
-        <h4><i>Attila</i>, <i>Tite et Bérénice</i>, <i>Suréna</i></h4>
+        <h4></h4>
+        <p>Épouse Armande Béjart et <i>L'École des femmes</i>.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1674-1684</div>
-      <div class="timeline-info">    
-        <h4></h4>  
-        <p>Apaisement par difficultés financières</p>
+      <div class="timeline-date">1665</div>
+      <div class="timeline-info">      
+        <h4><i>Dom Jouan</i></h4>
+        <p>La troupe prend le nom de «&nbsp;troupe du roi&nbsp;».</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1684</div>
+      <div class="timeline-date">1666</div>
+      <div class="timeline-info">      
+        <h4><i>Le Misanthrope</i></h4>        
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1667</div>
+      <div class="timeline-info">      
+        <h4></h4>
+        <p>Maladie et mise en pause comme acteur&nbsp;; séparation de Armande&nbsp;; <i>Tartuffe</i> représente avec le titre de <i>L'Imposteur</i>, interdit le lendemain.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1668</div>
+      <div class="timeline-info">      
+        <h4><i>Amphitryon</i>, <i>George Dandin</i>, <i>L'Avare</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1669</div>
       <div class="timeline-info">   
-        <h4>Mort</h4>   
-        <p>Mort à Paris</p>
+        <h4><i>Tartuffe</i></h4>
+        <p>3<sup>e</sup> version succès.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1670-1671-1672</div>
+      <div class="timeline-info">      
+        <h4><i>Le Bourgeois gentilhomme</i>, <i>Les Furberies de Scapin</i>, <i>Les Femmes savantes</i></h4>
+      </div>
+    </div>    
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1673</div>
+      <div class="timeline-info">    
+        <h4><i>Le Malade imaginaire</i> </h4>  
+        <p><i>Le Malade imaginaire</i> et mort lors de la 4<sup>e</sup> représentation</p>
       </div>
     </div>
   </div>
@@ -381,7 +358,11 @@ Versez, versez toujours, tant qu'on vous dise assez.&emsp; \(80)\
 
 Celle-là n’est pas la seule chanson présente dans la pièce, qui ne soit pas sue dans un intermède à la fin d’un acte. Il suffit de reprendre la pièce et nous voyons qu’au tout début, l’écolier du maître de musique chante la chanson préparée pour Dorimène devant le bourgeois.
 
-<iframe width="644" height="362.25" src="https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!--<iframe width="644" height="362.25" src="https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
+
+{{< video https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd
+    start="300"
+>}}
 
 Finalement, nous avons une troisième forme de théâtre dans le théâtre, celui du jeu des personnages. L’exemple par excellence est le déguisement de Covielle et Cléonte en ambassadeur et en Sultan pour convaincre M Jourdain à donner sa fille en mariage à Cléonte, le Grand Turc (IV, 3-5).
 
@@ -395,7 +376,10 @@ Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même 
 
 À titre d’exemple nous reprenons le concept de meta, pour reprendre le dialogue métalinguistique, lorsque M Jourdian demande au maître de philosophie de lui apprendre l’orthographe (II, 4).
 
-<iframe width="644" height="362.25" src="https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--<iframe width="644" height="362.25" src="https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+
+{{< video https://www.youtube.com/embed/MnC6FLk-_eM?si=iVmPXh-oAxAbxG4U
+>}}
 
 ---
 
@@ -403,10 +387,9 @@ Au XVII<sup>e</sup> siècle, le théâtre n’était pas prononcé de la même 
 
 Voici la mise en scène du _Malade imaginaire_ selon une reconstitution menée par les chercheurs et étudiants de différentes disciplines. La représentation est le résultat d’une série de recherche, non seulement sur le texte, sur sa prononciation, mais également sur le décor, les costumes, les objets scéniques, ainsi que tout mouvement du jeu théâtral.
 
-<iframe width="644" height="362.25" src="https://www.youtube.com/watch?v=h4-5CZpMK2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!--<iframe type="text/html" src="https://www.youtube.com/watch?v=h4-5CZpMK2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 {{< video https://www.youtube.com/watch?v=h4-5CZpMK2M
-    start="116"
 >}}
 
 [^1]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
