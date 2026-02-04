@@ -357,7 +357,7 @@ Celle-là n’est pas la seule chanson présente dans la pièce, qui ne soit pas
 
 <!--<iframe width="644" height="362.25" src="https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd&amp;start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>-->
 
-{{< video https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSd start="300" >}}
+{{< video https://www.youtube.com/embed/ljjh6PEj7Ac?si=VqTDJLhMAK8-5iSdstart=180 >}}
 
 Finalement, nous avons une troisième forme de théâtre dans le théâtre, celui du jeu des personnages. L’exemple par excellence est le déguisement de Covielle et Cléonte en ambassadeur et en Sultan pour convaincre M Jourdain à donner sa fille en mariage à Cléonte, le Grand Turc (IV, 3-5).
 
