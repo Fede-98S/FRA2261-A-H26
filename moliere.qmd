@@ -175,7 +175,6 @@ ffkjslfkm
   </div>
 </div>
 
-
 <script>
 function toggleInfo(el) {
   // Close all open info boxes
@@ -188,9 +187,7 @@ function toggleInfo(el) {
 
 </script>
 ```
-
-
-# _Le Bougeois gentilhomme&nbsp;: critique sociale en comédie-ballet_
+# _Le Bourgeois gentilhomme&nbsp;: critique sociale en comédie-ballet_
 
 ## Introduction
 
