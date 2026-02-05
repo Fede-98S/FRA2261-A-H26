@@ -9,7 +9,7 @@ title: "Molière"
 </iframe>
 <figcaption><a href="slides/pres_moliere.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
 
-### Frise chronologique publications Corneille[^1]
+### Frise chronologique Molière[^1]
 
 ```{=html}
 <div class="timeline-fixed">
@@ -213,7 +213,7 @@ _Qu’est-ce que c’est la comédie-ballet&nbsp;?_
 
 On peut définir de manière générale une comédie mêlée de musique et de danse. Molière en écrit un dizain en collaborant avec Jean-Baptiste Lully (Giovanni Battista Lulli) jusqu’au 1672, quand Lully se détache de cette collaboration pour se donner à l’institution de l’Académie du ballet et de musique. Après, Molière commence à collaborer avec Marc-Antoine Charpentier, avec lequel ils ont retravaillé les comédies-ballets précédentes, tout en créant des nouvelles.
 
-La pièce est issue d’une triple collaboration, en effet, pour le volet ballet l’auteur et le compositeur collaborent avec Pierre Beauchamp. Cela a été créé sous commande de Louis XIV et pour célébrer l’alliance militaire et économique entre France et empire Ottoman[^1]. _Le Bourgeois gentilhomme_ représente une sorte de revanche, presque une riposte, de la part de Louis XIV envers la réaction du diplomate Soleman Aga, envoyé par le sultan. Pour l’occasion, le roi a prévu des fastes pour impressionner le diplomate, qui a réagi avec du dédain. La commande faite à Molière consiste à mettre en scène une «&nbsp;turquerie&nbsp;», c’est-à-dire une pièce où figurent des personnages turcs afin de se moquer de leurs coutumes.
+La pièce est issue d’une triple collaboration, en effet, pour le volet ballet l’auteur et le compositeur collaborent avec Pierre Beauchamp. Cela a été créé sous commande de Louis XIV et pour célébrer l’alliance militaire et économique entre France et empire Ottoman[^3]. _Le Bourgeois gentilhomme_ représente une sorte de revanche, presque une riposte, de la part de Louis XIV envers la réaction du diplomate Soleman Aga, envoyé par le sultan. Pour l’occasion, le roi a prévu des fastes pour impressionner le diplomate, qui a réagi avec du dédain. La commande faite à Molière consiste à mettre en scène une «&nbsp;turquerie&nbsp;», c’est-à-dire une pièce où figurent des personnages turcs afin de se moquer de leurs coutumes.
 
 ## La comédie-ballet comme critique sociale
 
@@ -229,7 +229,7 @@ Molière crée le personnage du Mamamouchi, un mot qui pourrait provenir de l’
 
 > 1. Mamamouchi&nbsp;: le mot est inventé par Molière, peut-être d'après l'arabe «&nbsp;ma menou schi&nbsp;», qui signifie «&nbsp;non chose bonne&nbsp;», et donc «&nbsp;propre à rien&nbsp;».
 
-Toutefois, je vous propose une seconde hypothèse quant à l’origine étymologique du terme moliéresque, qui trouve ses racines dans l’arabe [_مملوك_ [mamlūk]](https://www.treccani.it/vocabolario/mammalucco/) ou son pluriel _مماليك_ (mamālīk), signifiant «&nbsp;esclave acheté&nbsp;». Cette déformation pourrait provenir du mot français «&nbsp;Mamelouk&nbsp;» ou du terme italien «&nbsp;Mammalucco&nbsp;». Cette théorie repose sur plusieurs facteurs, déjà, le fait de travailler avec un italien, tel Jean-Baptiste Lully, pourrait avoir simplifié ce passage&nbsp;; en deuxième, si nous lisons les passages en pseudoturc[^2], plutôt que de dissimuler l’arabe, nous avons une dissimulation de la langue italienne. Cela suffisait pour créer un effet de distance, tout dans la proximité. Dans ce dernier cas, la notion d’esclave pourrait renvoyer à une critique sociale plus large de soumission à sa classe d’appartenance et, plus en général, la soumission au roi. D’autre part, la première interprétation renvoie plutôt au sens de ne pas être bon à faire n’importe quoi, en instaurant une antinomie gérée par les mêmes termes du titre «&nbsp;bourgeois&nbsp;»[^3] et «&nbsp;gentilhomme&nbsp;» ne peuvent pas aller ensemble. En effet, l’appartenance à la bourgeoisie est une question de naissance et non pas d’éducation ni d’argent. 
+Toutefois, je vous propose une seconde hypothèse quant à l’origine étymologique du terme moliéresque, qui trouve ses racines dans l’arabe [_مملوك_ [mamlūk]](https://www.treccani.it/vocabolario/mammalucco/) ou son pluriel _مماليك_ (mamālīk), signifiant «&nbsp;esclave acheté&nbsp;». Cette déformation pourrait provenir du mot français «&nbsp;Mamelouk&nbsp;» ou du terme italien «&nbsp;Mammalucco&nbsp;». Cette théorie repose sur plusieurs facteurs, déjà, le fait de travailler avec un italien, tel Jean-Baptiste Lully, pourrait avoir simplifié ce passage&nbsp;; en deuxième, si nous lisons les passages en pseudoturc[^2], plutôt que de dissimuler l’arabe, nous avons une dissimulation de la langue italienne. Cela suffisait pour créer un effet de distance, tout dans la proximité. Dans ce dernier cas, la notion d’esclave pourrait renvoyer à une critique sociale plus large de soumission à sa classe d’appartenance et, plus en général, la soumission au roi. D’autre part, la première interprétation renvoie plutôt au sens de ne pas être bon à faire n’importe quoi, en instaurant une antinomie gérée par les mêmes termes du titre «&nbsp;bourgeois&nbsp;»[^4] et «&nbsp;gentilhomme&nbsp;» ne peuvent pas aller ensemble. En effet, l’appartenance à la bourgeoisie est une question de naissance et non pas d’éducation ni d’argent. 
 
 Pour rappel, à l’époque, on a deux types de noblesse, celle d’épée et celle de robe. La première dérive d’une tradition familiale remontant au Moyen Âge, la deuxième est une noblesse récente, attribuée par le roi ou à travers l’acquisition de charges. Les bourgeois appartiennent à la seconde catégorie de nobles, qui est imbue des privilèges attribués, sans pour autant maîtriser les codes de la noblesse (d’épée). La mise en scène d’un personnage comme M Jourdain ridiculise les bourgeois, tout en étant ridiculisé par les autres nobles et bourgeois eux-mêmes. L’antagonisme de classe, ainsi que la ténacité de Monsieur Jourdain, est clairement mis en lumière lorsque Cléonte propose de demander la main de Lucile, la fille de Madame et de Monsieur Jourdain (III, 12).
 
@@ -377,8 +377,10 @@ Voici la mise en scène du _Malade imaginaire_ selon une reconstitution menée p
 
 {{< video https://www.youtube.com/watch?v=h4-5CZpMK2M >}}
 
-[^1]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
+[^1]: La frise chronologique de la vie et des œuvres de Molière a été constitué à partir des informations présentées dans Daniel Bergez et al., « Molière (1622-1673) », _Précis de littérature française_, vol. 6, Armand Colin, 2023, p. 173‑179, [en ligne](https://shs.cairn.info/precis-de-litterature-francaise--9782200635695-page-173).
 
-[^2]: Nous pourrions le définir du gibberish, ou comme on le traduirait en français charabia, amphigouri ou baragouin.
+[^2]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
 
-[^3]: En restant sur l'étymologie, gentilhomme vient du latin _gentilis_, c'est-à-dire de famille, de race.
+[^3]: Nous pourrions le définir du gibberish, ou comme on le traduirait en français charabia, amphigouri ou baragouin.
+
+[^4]: En restant sur l'étymologie, gentilhomme vient du latin _gentilis_, c'est-à-dire de famille, de race.
