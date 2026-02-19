@@ -20,8 +20,8 @@ Fondé sur le rapport historique entre le texte et la scène, ce cours vise à f
 | 19 février | Le jeu dramatique |
 | **26 Février** | **Examen de mi-session** |
 | 5 mars | semaine de lecture  |
-| 12 mars | Cours + conférence de Matilde Innocenti sur Les Italiens |
-| 19 mars | _Le Misanthrope_ |
+| 12 mars | _Le Misanthrope_ |
+| 19 mars | Cours + conférence de Matilde Innocenti sur Les Italiens |
 | 26 mars | _Le Favori_ |
 | 2 avril | _Phèdre et Hippolyte_ |
 | 9 avril | Cours + conférence de Pierre Lyraud sur _Brutus_ |
@@ -48,4 +48,4 @@ VILLEDIEU, Marie-Catherine-Hortense de, [_Le favori_](https://theatre-classique.
 
 - [ ] 1 examen de mi-session&nbsp;: 40% (à rédiger en classe, 26 février)
 
-- [ ] 1 travail de fin de session&nbsp;: 60%, **à remettre avant midi (12h) du 23 avil sur Studium et événtuellement en format papier dans la salle 8041 (Labo écritures numériques)**
+- [ ] 1 travail de fin de session&nbsp;: 60%, **à remettre avant midi (12h) du 23 avril sur Studium et événtuellement en format papier dans la salle 8041 (Labo écritures numériques)**

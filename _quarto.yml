@@ -14,10 +14,12 @@ website:
       - href: intro.qmd
       - href: corneille.qmd
       - href: moliere.qmd
+      - href: poetique.qmd
+      - href: bibliographie.qmd
       #- href: racine.qmd
       #- href: bernard.qmd
       #- href: villedieu.qmd
-      #- href: bibliographie.qmd
+      
 
 format:
   html:
@@ -28,6 +30,9 @@ format:
     toc: true
 
 lang: fr-FR
+
+bibliography: bibliographie.bib
+csl: apa.csl
 
 
 

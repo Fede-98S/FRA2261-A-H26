@@ -1,0 +1,151 @@
+---
+title: "Poètique | Jeu"
+---
+
+# Corneille, _Trois Discours sur le poème dramatique_
+
+<iframe src="slides/pres_poetique.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_poetique.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+**18 février 2026**
+
+## Poétique ou poétiques
+
+Dans cette séance nous abordons la notion de poétique théâtrale, en nous penchons notamment sur la proposition avancé par Pierre Corneille à tracers ses discours dramatiques. Comme nous avons vérbalisé plusiurs fois, le XVII<sup>e</sup> est le siècle de la formalisation et de l'institutionallisation de différentes académie, dont l'objectif est d'encadrer les différents disciplines, et donc de mettre en place des stratégies qui montre l'importance et le rôle du roi, abutissant dans l'absolutisme.
+
+Pour ce qui concerne la poétique du théâtre, tout au long du siècle nous avons une plorifération de théories, réposant dans la quasi-totalitée des cas sur la poétique d'Aristote. Cela a été traduit du grec par les italiens au XVI<sup>e</sup> siècle et parvenu en France à travers les différentes traductions, en y produisant aussi des nouvelle traductions en langue française. Parmi les grands théoriciens nous avons l'Abbé d'Aubignac et Pierre Corneille, pourtant nous avons d'autres poétiques, qui ne constituent pas seulement des livres autonomes, mais la théorisation est méné par les auteurs au sein de leurs mêmes éditions, où on y retrouve des prises de position ou des explications au sein des épîtres, des examens ou des textes addressés directement aux lecteurs. 
+
+_Pourquoi autant de poétiques?_
+
+Comme toute théorie, pas tout le monde est d'accord avec toute théorie, donc la multiplication de poétiques et une manière de critiquer ou répondre aux critiques des autres auteurs et théoriciens. Si nous considérons les _Trois discours sur le poème dramatique_ de Corneille, cela se positionne par rapport à la poétique de D'Aubignac, et notamment Corneille essaie de donner son intépretation des la poétique d'Aristote pour légitimer et défendre ses choix dramaturgiques. Il faut justement se souvenir que chaque théoricien affirme reprendre l'oeuvre aristotelicienne, mais en vrai chaqun en fourni son intépretation et foction des ses propres choix ou pour commenter, positivement ou négativement, ses contemporains.
+
+## Corneille, _Trois Discours sur le poème dramatique_
+
+En 1660 Pierre Corneille publie en trois volumes son théâtre compléte avec révision et correction, et c'est lors de cette édition que chaqun des trois volumes présent l'un des trois discours, comme nous pouvons voir par la suire.
+
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280232h/f13.item" title="Premier discours">
+</iframe>
+<figcaption>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://catalogue.bnf.fr/ark:/12148/cb30271238n">Accès en ligne</a>.</figcaption>
+
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280233x/f13.item" title="Deuxième discours">
+</iframe>
+<figcaption>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://catalogue.bnf.fr/ark:/12148/cb30271238n">Accès en ligne</a>.</figcaption>
+
+<iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k12802528/f13.item" title="Troisième discours">
+</iframe>
+<figcaption>Corneille, Pierre <i>Horace</i>, 1641, BNF, département Arsenal, RESERVE 4-BL-3515. <a href="https://catalogue.bnf.fr/ark:/12148/cb30271238n">Accès en ligne</a>.</figcaption>
+
+Comme nous avons anticipé, Corneille aussi cite les oeuvres précédentes, de l'Antiquité grecque et latine, en le mettant dans une sorte de contiuité avec ses propres oeuvres, seules citées de son époque. En plus, si dans les examens précédants il partage l'idée que la distinction entre tragédie et comédie se fait sur la typologie des personnages présente, dans ce cadre il y a une changement de perspective. Ce n'est pas tant les personnages, mais plutôt le type d'action accomplie qui change, et c'est comme ça qu'on pourrait légitimer les comédies héroïques, c'est-à-dire des comédies dont les personnages revlevent des strates plus élévé de la société.
+
+Corneille fait préuve d'avoir lu et analysé le discours aristotelicien, mais aussi ses commentateurs, tel que Horace dans le monde latin, mais il fait aussi des rapides références à des commentateurs italiens (Robortello, Castelvetro, Beni, Pacci et Vettori). Par la suite nous allons épourer les discours pour en trair les principes fondamentales.
+
+### _Discours de l'utilité et des parties du poème dramatique_
+
+Pour lire le discours cliquer <a href="https://theatre-classique.fr/pages/programmes/edition.php?t=../theorie/CORNEILLE_UTILITEPOEMEDRAMATIQUE.xml">ici</a>.
+
+Le premier discours s'ouvre avec la référence directe à la poétique d'Aristote, en la mettant tout de suite face à l'autre élément fondamental, l'avis du public, c'est-à-dire l'appreciacion du public, qui n'est pas tout le temps simple à obtenir. Dans ce contexte, Corneille retrace la source de la difficulté dans le fait de considérer l'Art dramatique comme technique (de tekhnè). Autre déclaration faite tout de suite concerne les unités, dont on a déjà parlé et que nous allons voir mieux dans le troisième discours. 
+
+> Il faut observer l'unité d'action, de lieu, et de jour, personne n'en doute ; mais ce n'est pas une petite difficulté de savoir ce que c'est que cette unité d'action, et jusques où peut s'étendre cette unité de jour et de lieu.
+
+En rapport aux unités Corneille note comment tout le monde dit qu'il faut les respecter en les rapportant aux maximes de vraisemblance et du nécessaire, pourtant, la première des deux est fortement critiqué par l'auteur en fonction de la tragédie. Le sujet des passions doit être repéré dans l'Histoire ou dans des preoccupations de l'Auditoire.
+
+Concernant les théories d'Aristote et de Horace, Corneille trouve que la faille soit dans le fait que les principaux commentateurs sont des grammariens et pas des gens de théâtre. Ce discours sert à se donner plus de légitamation étant donné qu'il a déja 30 ans de carrière dans cet environnement.
+
+>  Je hasarderai quelque chose sur trente ans de travail pour la scène, et en dirai mes pensées tout simplement, sans esprit de contestation qui m'engage à les soutenir, et sans prétendre que personne renonce en ma faveur à celles qu'il en aura conçues.
+
+Chez ces deux auteurs antiques il repere une grosse distinction concernant l'intéret du public. Dans Aristote on se focalise plutôt sur le sujet à travers l'agnitio et les péripeties, et non pas les moeurs. Alors que pour Horace il faut toujour y mêler l'outil pour mieux les captiver. 
+
+_Comment le faire?_
+
+- À travers les sentances ou des instructions tout au long de la pièce. Pourtant, il est mieux de les utiliser sobrement et rarement dans des discours généraux, dans des déliberation d'État ou d'après un homme d'importance résolu s'adressant au Roi. 
+- La naïve peinture des vices et vertues.
+- Le final de la pièce doit prévoir la punition des mauvaises actions, autrement le dégout et horreur, dèmeurant dans le public, ne permmeteraient pas d'en saisir l'utile. 
+- La purgation des passions doit être atteint par pitié ou par crainte.
+
+Selon Corneille, Aristote met en scène les différentes principes si bien dans la tragédie que dans la comédie, qui divergent pour typologie de personnage et d'action imitée.
+
+Le poème dramatique doit être constitué de deux parties:
+
+- Quantité ou extension: prologue, épisode, exode et choeurs
+- partie intégrales avec les premiers constituent le corps: sujet, moeurs, sentiments, diction, musique, décor.
+
+Comme nous avons annoncé, dans ce discours Corneille aborde la comédie en la définissant en fonction des personnages et du sujet, c'est ainsi qu'il utilise l'épithète héroïque pour la comédie mettant en scène des princes et des rois. Dans la comédie le sujet doit être caractérisé par la résolution: les ennemis doivent dévenir amis.
+
+De manière générale, la grandeure de la pièce doit être juste, c'est-à-dire qu'elle doit posseder un commencement, un milieu et une fin. Il faudrait exclure tout action momentanée, dont on a pas de préparation, par exemple, dans _Horace_ nous n'avons pas de preparation à l'assassinat de Camille. Toujours dans ces termes, Corneille introduit le fait que la représentation doit durer un peu moins de 2h, pour ainsi faire il faut avoir un maximum de 1500 vers: en sachant que normallement les pièces de Corneille ont environ 2000 vers pour les comédies et 1800 pour les tragédies, tout en obtenant la faveur du public.
+
+Pour ce qui concerne les Moeurs il faut qu'ils soient:
+
+- Bonnes: selon la plus part verteuse, mais cela ne correponderait pas à la réalité de la production. Selon Corneille "caractère brillant et élévé d'une habitude verteuse, ou criminelle".
+- Convenables: considérer l'âge, la dignité, la naissance, l'emploie des personnages, ainsi que le pays de déroulement.
+- Semblable: peinture des personnages selon l'Histoire ou la Fable.
+- Égalité: conservation des moeurs des personnages tout au long de la pièce.
+
+Pourtant les Moeurs se déclinent en fonction aussi d'autres caractèristiques:
+
+- Diction: suivre la grammaire et réthorique, l'usage du vers en tant que plus élévé, et une langue nette.
+-  Choeurs, musique, particulairment utiles dans les pièces à machines (leur usage à restraindre).
+-  Décor: il est le résultat de trois arts: peinture, architecture et perspective.
+
+La structure de la pièce est: prologue, épisode et épilogue; respectivement l'un avant le premier choeur, l'autre au milieu, et le dernier après le dernièer choeurs. Corneille reinterpréte ces trois parties en les faisant coincider respectivement: le prologue au premier acte, l'épisode les actes centrales et l'exode avec le dernier acte. Le prologue serait caractèrisé par la présence de personnages qui ne doivent pas être présentens dans le reste de la pièce. Il y aurait un seul acteur, dont la narration ne serait pas simple, mais agité par les sentiments d'une passion. Corneille procéde en présentant des prologue chez les latins, et en réxaminant ses contemporains il est plutôt de l'avis que le prologue antique corresponderait à la dédicace ou l'épître. Concernant l'épisode et l'exode, il faudrait que la catastrophe soit le plus tard possible. Pour ainsi faire il faut écrire sous la passion de quelqu'un. Corneille à la fin de son premier discours, de manière circulaire revient sur le fait de reprendre le plus fidélement possible la poétique d'Aristote.
+
+### _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+Pour lire le discours cliquer <a href="https://theatre-classique.fr/pages/programmes/edition.php?t=../theorie/CORNEILLE_DISCOURSDELATRAGEDIE.xml">ici</a>.
+
+Déjà selon Aristote depuis la tragédie on peut apprendre deux choses: comment exercer la pitié et la crainte, et comment à travers ces deux la tragédie peut pourger le spectateur. La pitié est le sentiment qu'on épreuve en regardant les autres, alors que la crainte c'est le sentiment personnel. Pour l'italien Beni cela demeure problèmatique parce que si on dit que la tragédie doit mettre en scène seulement des princes et des rois, nous on émpatie avec les personnent du même strate social, donc, chez le peuple on pourrait susciter au maximum de la pitié, mais aucune crainte. Corneille convient avec Aristote sur ce point, en disant que le public est emporté à la pitié et crainte par l'immedesimation.
+
+Pour la question que nous avons avancé sur la condamnation des méchants et la récompense des bons, Corneille nous dit qu'en effet tout cet aspect-là était entièrement absent chez les antiques. Ces deux éléments ne demeure pas en tant que élément obligatoire, mais plutôt comme des détails qui mennerait à la perfection de la pièce; en effet, plusieurs oeuvres ont eu beaucoup de succès même en absence de l'une des deux caractèristiques, ou de toutes les deux. Il met le _Cid_ en opposition aux autre pièces, en disant qu'il s'agit de la seule pièce ou on a ces deux éléments de condamnation et de récompense. De ce decompte il faut exclure les mystères, et les pièces avec des personnes verteuses en malheure. 
+
+La purgation repose sur la pitié et la crainte, pourtant la première ne se fait pas sans la seconde, et viceversa. Pour la pitié il faut que les disputes, les combats, la morts, se passent entre des gens liées par naissance ou par des affections, comme Horace et Curiace. Pour Aristote il y a une véritable échelle de tragédie selon le niveau de connaissance des personnages:
+
+- on connait et on fait perir quequ'un qu'on connait;
+- on ne le connait pas, on le fait perir;
+- on ne le connait pas, on l'a presque tué et on se reconnait en tant que proches (représent la pérfection);
+- on connait, on ne tue pas (condamné).
+
+Le fait de reconnaitre quequ'un, l'agnition, est condamné par Corneille parce que chez les itailiens elle est insérée partout, en cassant parfois les sentiments et parfois la beauté de l'oeuvre. 
+
+Après on rentre dans un discours particulièrement important, qu'on a déjà abordé, le rapport de l'auteur à l'Histoire ou de la Fable, qui pour Corneille ont les rapports suivants:
+
+- quand on connait et on tue ou on est empêché de tuer, il faut suivre l'Histoire/Fable. Cela est tellement contre nature qui est contra la vraisemblance.
+- quand on ne se connait pas, on tue et après on reconnait qu'on est proche, ce n'est pas vraisemblable non plus, donc cela peut être inventé. La descente des dieux pour résoudre la dispute, à travers l'usage des machines, n'est pas considéré acceptable au XVII<sup>e</sup>, mais pour les Anciens oui.
+- dans le dernier cas (on connait, on ne tue pas) on peut tout-à-fait inventer, puisque vraisemblable.
+
+Aristote dit qu'il ne faut pas apportr des changement en rapport à l'Histoire/Fable, alors que Corneille parle de distinction et témperement. Pour l'auteur il faut regarder si l'Histoire/Fable est trop cruelle ou difficile à représenter pour les spectateurs, seulement dans ce cas on est autorisé à faire des variations. Le fait de changer l'Histoire pour la vraisemblance n'est pas pourtant quelque chose de dû, mais il faut plutôt regarder à la nécessité, on peut quitter la vraisemblance pour suivre e nécessaire. Il faut regarder à sa propre gloire et non pas aux régles du théâtre. Pourtant, chez Aristote le rapport entre nécessaire et vraisemblable est altérnativement inverti, cela pour un manque de satisfaction des deux en même temps, et donc il faut se contenter de l'un ou de l'autre.
+
+Il y a une distinction fondamentale entre le théâtre et le roman. Le théâtre doit respecter les unités, alors que le roman doit se baser sur une extension temporelle, spatielle et d'action propre pour la comprhension du récit. Quand il faut mèner une choix en terme de nécessaire ou vraisemblable, il faut mettre en place l'option qui pourrait donner plus facillement de la gloire. 
+
+Corneille introduit d'autre éléments de qualifications:
+
+- si on suit l'Histoire, il s'agit de quelque chose de vrai;
+- si on rajoute à l'Histoire, quelquefois il est vraisemblable;
+- si on falsifie l'Histoire, on finit dans le nécessaire.
+
+Ensuite, il met en rapport la vraisemblance avec la bienséance:
+
+- la vraisemblance générale est le comportement d'un roi, la particulière est ce que fait Alexandre, donc ce qui est enseigné par l'Histoire et apporter des changements/variations engendre un falsification de l'Histoire.
+- l'ordinaire est quelquechose qui arrive souvent, l'extraordinairereleve du possible, mais il est rare. Quand l'extraordinaire est vraisemblable on est dans le domaine du vrai, si on est contre la vraisemblance on rentre dans le domaine de la croyance qui s'explique à travers le nécessaire.   
+
+> Je dis donc que le nécessaire, en ce qui regarde la poésie, n'est autre chose que le besoin du poète pour arriver à son but ou pour y faire arriver ses acteurs.
+
+Parfois le poète doit "pour plaire, il a besoin quelquefois de rehausser l'éclat des belles actions et d'exténuer l'horreur des funestes.", sans pourtant
+
+>  jamais les pousser au-delà de la vraisemblance extraordinaire, parce que ces ornements qu'il ajoute de son invention ne sont pas d'une nécessité absolue, et qu'il fait mieux de s'en passer tout à fait que d'en parer son poème contre toute sorte de vraisemblance. Pour plaire selon les règles de son art, il a besoin de renfermer son action dans l'unité de jour et de lieu ; et comme cela est d'une nécessité absolue et indispensable, il lui est beaucoup plus permis sur ces deux articles que sur celui des embellissements.
+
+### _Discours des trois unités, d'action, de jour, et de lieu_
+
+Pour lire le discours cliquer <a href="https://theatre-classique.fr/pages/programmes/edition.php?t=../theorie/CORNEILLE_TROISUNITES.xml">ici</a>.
+
+L'unité d'action dans la comédie, concerne l'unité d'intrigue, c'est-à-dire qu'il faut avoir un seul obstacle des actions des principals auteurs; dans la tragédie, c'est l'unité de péril, que l'héros succombe ou pas. Si on a plusieurs actions qui se passent en parallèle ou s'entremêlent, on risque de se perdre, comme quand on arrive à l'éclaircissement d'un péril et on est déjà projeté dans un autre par ex. dans _Horace_ la mort de Camille n'est pas nécessaire. L'unité est donc donné par un commencement, un milieu et une fin, mais une tragédie peut aussi avoir plusieurs sous-unités d'autant qu'elles soient subordonnées à la principale. Enfin, chaque acte doit se conclure avec la suspance pour laisser le spectateur intéressé par la suite, et seulement à la fin tout se résolve.
+
+Dans l'examen de _La Suivante_, Corneille a parlé des liens des personnages, notamment dans les termes de présence et absénce des personnages sur scène et dans les discours, les personnages qui ne parlent pas ou qui sont caché. L'action peut être divisée en deux sous-unité: noeud et dénouement. Pour Aristote le noeud est ce qui précéde l'action de la pièce et elle nous est raconté au tout début; le reste est le dénouement. Il y a une série de choses à éviter dans le dénouement: le changement des volontés et les machines. En plus, Corneille présente comme problèmatique quend un personnage sors et rentre sur scène plusieurs fois au sein d'un même acte, sauf si on laisse des indices de justification. Puis, il parle de "menues actions" qu'il faut marque dans les marges pour guider les lecteurs[^1]. Cela parce que le spectateur voit le jeu sur scène de théâtre, alors que le lecteur à plus de mal étant tout seul dans sa lecture.
+
+En ce qui concerne l'unité de temps, déjà Aristote dit qu'on peut exceder un peu les 24h, Corneille dit qu'on pourrait événtuellement arriver jusqu'à un laxe temporaile de 30h, cependant les grands lapse témporelle il faut qu'ils soient dans les intérmèdes.
+
+Pour l'unité de lieu, c'est plutôt compliqué de la respecter lorsqu'on se trouve dans une chambre ou un cabinet de quelqu'un, car il s'agit d'un environnment privé auquel pas tout le monde aurait accès et sourtot quand le propriétaire de cet espace n'est pas présente. Par conséquence, Corneille propose de faire correspondre l'unité de lieu à la ville, d'autant qu'on se trouve dans la même ville, tout va bien.
+
+Il conclut son troisième discours disant qu'il n'arrive pas à trouver le respect de ces unités chez aucun des auteurs antiques et non plus chez ses contemporaines, et que les seul pièces qui respecteraient tout ses regles seraient _Horace_, _Polyeucte_ et _Pompée_. Sa conclusion ultime définit sa personnelle intérpretations des unités en tant qu'événtuelle héresie. 
+
+[^1]: À ce sujet est intéressant tout le débat sur la question si le théâtre est fait pour la lecture ou pas.

@@ -1,0 +1,286 @@
+---
+title: "Corneille, _Trois Discours sur le poème dramatique_"
+data: 18 - 02 - 2026
+format:
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+## Plan
+
+<br/>
+<br/>
+
++ Introduction
+  
++ Corneille, _Trois Discours sur le poème dramatique_
+  - Premier discours
+  - Deuxième discours
+  - Troisième discours
+
+
+
+# Introduction
+
+## Introduction
+<br/>
+<br/>
+
+- _Poétique_ d'Aristote
+- Théorie de l'oeuvre dramatique:
+  + discours théoriques / poétiques
+  + épître, dédicatoire et examen
+  + lettre
+  + querelle
+
+## Introduction
+<br/>
+<br/>
+
+_Pourquoi autant de poétiques?_
+<br/>
+<br/>
+
+- Critiquer les autres
+- Réponse aux critiques
+- Contreapposition à d'autres théories
+- Intérprétation personnelle
+
+# Corneille, _Trois Discours sur le poème dramatique_
+
+## Corneille, _Trois Discours sur le poème dramatique_
+
+| | | |
+|---|---|---|
+| <iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280232h/f13.item" title="description_of_embedded_content" style="height:550px;"></iframe> | <iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k1280233x/f13.item" title="description_of_embedded_content" style="height:550px;"></iframe> | <iframe src="https://gallica.bnf.fr/ark:/12148/bpt6k12802528/f13.item" title="description_of_embedded_content" style="height:550px;"></iframe> |
+
+# _Discours de l'utilité et des parties du poème dramatique_
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+Reprise Aristote et importance public
+<br/>
+<br/>
+
+> Il faut observer l'unité d'action, de lieu, et de jour, personne n'en doute ; mais ce n'est pas une petite difficulté de savoir ce que c'est que cette unité d'action, et jusques où peut s'étendre cette unité de jour et de lieu.
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+
+Aristote et Horace souvant commentés par des grammariens et pas par des auteurs de théâtre.
+<br/>
+<br/>
+
+>  Je hasarderai quelque chose sur trente ans de travail pour la scène, et en dirai mes pensées tout simplement, sans esprit de contestation qui m'engage à les soutenir, et sans prétendre que personne renonce en ma faveur à celles qu'il en aura conçues.
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+
+_Comment le faire?_
+<br/>
+<br/>
+
+- sentances ou instructions 
+- naïveté des vices et vertues
+- final avec punition
+- purgation passions -> pitié ou crainte
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+Changement de perspective sur la tragédie et la comédie.
+
++ personnages
++ action
+
+Cela permet d'introduire la comédie héroïque, ayant des personnages socialement élévés.
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+
+Dimensions de la pièce -> commencement - milieu - fin
+
+Exclusion des actions momentanées
+
+Durée de la représentation: un peu moins de 2h -> un maximum de 1500 vers
+
++ Ses comédies environ 2000 vers et ses tragédie 1800 <- faveur du public
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+<div><div style="width: 50%; float:left;">
+<p>
+Le Moeurs doivent être
+<ul>
+<li>Bonnes</li>
+<li>Convenables</li>
+<li>Semblable</li>
+<li>Égales</li>
+</ul>
+</p>
+</div>
+<div style="width: 50%; float:right;">
+<p>
+Se déclinant selon les caractéristiques
+<ul>
+<li>Diction</li>
+<li>Choeurs, musique, machines</li>
+<li>Décor</li>
+</ul>
+</p>
+</div></div>
+
+## _Discours de l'utilité et des parties du poème dramatique_
+
+<br/>
+<br/>
+La structure de la pièce est: prologue, épisode et épilogue.
+
+<br/>
+<div><div style="width: 50%; float:left;">
+<p>
+Aristote
+<ul>
+<li>Prologue: avant premier choeurs</li>
+<li>Épisode: au milieu</li>
+<li>Épilogue: après le dernier choeurs</li>
+</ul>
+</p>
+</div>
+<div style="width: 50%; float:right;">
+<p>
+Corneille
+<ul>
+<li>Prologue: premier acte</li>
+<li>Épisode: actes centraux</li>
+<li>Épilogue: dernier acte</li>
+</ul>
+</p>
+</div></div>
+
+# _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+## _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+Déjà Aristote la tragédie enseigne:
+<br/>
+<br/>
+
+- pitié (les autres) et crainte (nous)
+- comment se pourger
+<br/>
+<br/>
+Pour Beni problème d'immedesimation roi et princes.
+<br/>
+<br/>
+Question condamnation et récompense.
+
+## _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+<br/>
+Échelle de tragédie selon Aristote
+<br/>
+<br/>
+
+- connaissance, pas tué (condamné)
+- connaissance et tué
+- pas de connaissance, tué
+- pas de connaissance, presque tué et reconnaissance en tant que proches (pérfection)
+
+## _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+Rapport à Histoire/Fable
+<br/>
+
+- connaissance et tué, ou émpêché de tuer -> Histoire/Fable
+- pas de connaissance, tué et reconnaissance -> pas vraisemblable, inventé
+- connaissance, pas tué -> inventer/vraisemblable
+
+Aristote: pas de modifications
+
+Corneille: distinction et témperement
+
+Théâtre vs Roman | importance de la gloire 
+
+## _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+Corneille qualifications supplémentaires:
+
+<div><div style="width: 50%; float:left;">
+<p>
+Histoire et vraisemblance
+<ul>
+<li>= Histoire -> vrai</li>
+<li>=+ Histoire -> vraisemblabl</li>
+<li>≠ Histoire -> nécessaire</li>
+</ul>
+</p>
+</div>
+<div style="width: 50%; float:right;">
+<p>
+Vraisemblance et bienséance
+<ul>
+<li>vraisemblance générale (roi) et vraisemblance particulière (Alexandre) -> Hstoire ou falsification</li>
+<li>ordinaire et extraordinaire (si vraisemblable = vrai | pas vraisemblable = croyance = nécessaire)</li>
+</ul>
+</p>
+</div></div>
+
+## _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+<br/>
+<br/>
+
+> Je dis donc que le nécessaire, en ce qui regarde la poésie, n'est autre chose que le besoin du poète pour arriver à son but ou pour y faire arriver ses acteurs.
+
+## _Discours de la tragédie, et des moyens de la traiter selon le vraisemblable ou le nécessaire_
+
+>  Jamais les pousser au-delà de la vraisemblance extraordinaire, parce que ces ornements qu'il ajoute de son invention ne sont pas d'une nécessité absolue, et qu'il fait mieux de s'en passer tout à fait que d'en parer son poème contre toute sorte de vraisemblance. Pour plaire selon les règles de son art, il a besoin de renfermer son action dans l'unité de jour et de lieu ; et comme cela est d'une nécessité absolue et indispensable, il lui est beaucoup plus permis sur ces deux articles que sur celui des embellissements.
+
+# _Discours des trois unités, d'action, de jour, et de lieu_
+
+## _Discours des trois unités, d'action, de jour, et de lieu_
+
+<br/>
+Unité d'action, un seul intrigue: commencement, milieu et fin
+D'autres intrigues subordonnés
+
+Chaque acte fin en souspence
+
+Présence/absence des personnages (Corneille, _La Suivante_)
+
+Aristote noeud avant la piéce, puis dénouement (pas changement volonté et pas de machines)
+
+Il faut pas entrer et sortir trop
+
+## _Discours des trois unités, d'action, de jour, et de lieu_
+
+<br/>
+<br/>
+Unité de temps -> Aristote peu moins de 24h, pour Corneille 30h max
+
+Lapses temporelle dans les intérmèdes
+
+<br/>
+<br/>
+Unité de lieu -> question chambre/cabinet, Corneille niveau de la ville
+
+<br/>
+<br/>
+Seules pièces respectant les regles: _Horace_, _Polyeucte_ et _Pompée_
