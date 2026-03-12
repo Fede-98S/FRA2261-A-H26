@@ -342,7 +342,7 @@ Le théâtre est donc une mise en abyme de la vie en tant que telle, nous jouons
 Le cinquième acte, d’autre part, représente une véritable mise en abyme avec du théâtre dans le théâtre, pourtant, le spectateur, ou le lecteur, découvre qu’il s’agit d’une mise en scène à la toute fin, quand à la cinquième scène explicite ce qui vient de se passer.
 
 > Ainsi tous les acteurs d'une troupe comique,\
-Leur poème récité, partagent leur pratique &nbsp;:\
+Leur poème récité, partagent leur pratique&nbsp;:\
 L'un tue, et l'autre meurt, l'autre vous fait pitié&nbsp;;\
 Mais la scène préside à leur inimitié.&emsp; \(1620)\
 Leurs vers font leurs combats, leur mort suit leurs paroles,\
@@ -480,7 +480,7 @@ Va lui parler pour moi, toi qui n'es pas vaillant &nbsp;:\
 
 <span style="float:right; text-align:right; margin-right:10%;">(III, 4, v. 747-760)</span><br/>
 
-D’une certaine manière, la variation linguistique aussi pourrait être interprétée comme effet de réalisme, mais, en même temps un effet comique, comme toujours à la même scène, Matamore juste avant utilise l’injure “Cadédiou&nbsp;!” venant du Gascon. Cette pièce s’inscrit parfaitement dans son cadre historico-culturel.
+D’une certaine manière, la variation linguistique aussi pourrait être interprétée comme effet de réalisme, mais, en même temps un effet comique, comme toujours à la même scène, Matamore juste avant utilise l’injure «&nbsp;Cadédiou&nbsp;!&nbsp;» venant du Gascon. Cette pièce s’inscrit parfaitement dans son cadre historico-culturel.
 
 ### Jeu théâtral
 
@@ -755,8 +755,6 @@ J'aime à la rendre à tous, à toute heure, en tout lieu.\
 **C'est par elle qu'un roi se fait un demi-dieu&nbsp;;**\
 Et c'est dont je vous plains, qu'après un tel service\
 On puisse contre lui me demander justice.&emsp; \(1480)\
-
-
 
 L’interruption soudaine du Vieil Horace remplie d’indignation, il est inconcevable de juger un individu aussi admirable qu’Horace. Tulle poursuit son discours, sollicitant l’autorisation auprès du Vieil Horace. Il met en évidence le statut divin d’un roi, qui, en tant que «&nbsp;demi-dieu&nbsp;», détient le pouvoir de décision ultime. On rebondit ici sur le fait que la monarchie est de droit divin. La scène continue avec une longue tirade de Valère, suite de laquelle Tulle donne tout juste la parole à Horace pour lui donner la possibilité de se défendre, «&nbsp;Défendez-vous, Horace&nbsp;» (V, 2, v. 1535).
 

@@ -1,0 +1,190 @@
+---
+title: "Molière"
+subtitle: "_Le Misanthrope_"
+data: 12 - 03 - 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+# Molière
+
+## Plan
+
+- _Le Misanthrope_
+  + Introduction
+  + Du dialogue théâtral vers...
+  + Le salon de Célimène: un non-lieu
+  + L'action comique
+
+# Introduction
+
+## Introduction
+
+- 1664: début écriture 
+
+Brossette dans l'éditiond de Boileau dit que la lecture du premier acte en réponse de la _Satire II_ de Boileau chez l'abbé Broissin
+
+- 1666: vendredi 4 juin et dimanche 6
+
+1447 et 1617 livres, après 1/3, pas un succès énorme
+
+# Du dialogue théâtral vers...
+
+## Du dialogue théâtral vers...
+
+> <b>ORONTE</b>\
+Sonnet... C'est un sonnet. L'espoir... C'est une dame\
+Qui de quelque espérance avait flatté ma flamme.\
+L'espoir... Ce ne sont point de ces grands vers pompeux,\
+Mais de petits vers doux, tendres et langoureux.\
+À toutes ces interruptions il regarde Alceste.\
+<b>ALCESTE.</b>\
+Nous verrons bien.\
+<b>ORONTE.</b>\
+L'espoir... Je ne sais si le style\
+Pourra vous en paraître assez net et facile,\
+Et si du choix des mots vous vous contenterez.\
+<b>ALCESTE.</b>\
+Nous allons voir, Monsieur.\
+<b>ORONTE.</b>\
+Au reste, vous saurez\
+Que je n'ai demeuré qu'un quart d'heure à le faire.\
+<b>ALCESTE.</b>\
+Voyons, Monsieur ; le temps ne fait rien à l'affaire.\
+
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 305-314)</span>
+
+## Du dialogue théâtral vers...
+
+> L'espoir, il est vrai, nous soulage,\
+Et nous berce un temps notre ennui;\
+Mais, Philis, le triste avantage,\
+Lorsque rien ne marche après lui!\
+>
+> Vous eûtes de la complaisance;\
+Mais vous en deviez moins avoir,\
+Et ne vous pas mettre en dépense\
+Pour ne me donner que l'espoir.\
+>
+> S'il faut qu'une attente éternelle\
+Pousse à bout l'ardeur de mon zèle,\
+Le trépas sera mon recours.\
+>
+>Vos soins ne m'en peuvent distraire :\
+Belle Philis, on désespère,\
+Alors qu'on espère toujours.\
+
+## Du dialogue théâtral vers...
+
+> «&nbsp;Si le roi m'avait donné\
+Paris, sa grand'ville,\
+Et qu'il me fallût quitter\
+L'amour de ma mie,\
+Je dirais au roi Henri&nbsp;:\
+- Reprenez votre Paris&nbsp;:\
+J'aime mieux ma mie, au gué&nbsp;!\
+J'aime mieux ma mie.&nbsp;»\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 393-400)</span><br/>
+
+## Du dialogue théâtral vers...
+
+{{< video https://www.youtube.com/watch?v=mlMnz9B-Zho start="1032" width="100%" height="100%" >}}
+
+## Du dialogue théâtral vers...
+
+Lectures des lettres (V, 4, v. 1690-1695)
+<br/>
+<br/>
+Acaste et Clitandre -> Célimène
+<br/>
+<br/>
+Dénonciation de sa coquetterie
+<br/>
+<br/>
+---
+
+I, 1 Philante cite _L'École des maris_
+
+| Indulgent | Sévére     |
+|:---------:|:----------:|
+| Ariste    | Sganarelle |
+| Philante  | Alceste    |
+
+---
+
+## Du dialogue théâtral vers...
+
+{{< video https://www.youtube.com/watch?v=mlMnz9B-Zho start="6980" width="100%" height="100%" >}}
+
+# Le salon de Célimène: un non-lieu
+
+## Le salon de Célimène: un non-lieu
+
+<br/>
+<br/>
+Unité d'action &emsp; &#9989;
+
+<br/>
+<br/>
+Unité de temps &emsp; &#9989;
+
+<br/>
+<br/>
+Unité de lieu &emsp; &#9989;
+
+## Le salon de Célimène: un non-lieu
+
+Le salon est un lieu de passage. Il est à Célimène, tout en l'étant pas.
+
+<br/>
+<br/>
+Il représente les salons de l'époque: lieux sociales, politiques et cultureles. (II, 4)
+<br/>
+<br/>
+Comme le salon de Madeleine de Scudéry ou de la marquise Catherine de Rambouillet.
+
+# L'action comique
+
+## L'action comique
+
+> <b>ALCESTE.</b>\
+J'aurai le plaisir de perdre mon procès.&emsp; \(196)\
+<b>PHILINTE.</b>\
+Mais enfin...\
+<b>ALCESTE.</b>\
+Je verrai, dans cette plaiderie,\
+Si les hommes auront assez d'effronterie,\
+Seront assez méchants, scélérats et pervers,\
+Pour me faire injustice aux yeux de l'univers.&emsp; \(200)\
+<b>PHILINTE.</b>\
+Quel homme !\
+<b>ALCESTE.</b>\
+Je voudrais, m'en coutât-il grand'chose,\
+Pour la beauté du fait avoir perdu ma cause.\
+<b>PHILINTE.</b>\
+On se rirait de vous, Alceste, tout de bon,\
+Si l'on vous entendait parler de la façon.&emsp; \(205)\
+<b>ALCESTE.</b>\
+Tant pis pour qui rirait.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 196-206)</span><br/>
+
+## L'action comique
+
+Parmi les formes de comique on a la satire.
+
+<br/>
+<br/>
+
+La realisation des rêves de Alceste se trouve dans III, 4, avec le conflit entre Célimène et Arsinoé.
+
+<br/>
+<br/>
+
+Le valet Du Bois (IV, 4) comme point isolé et comicité gestuelle.

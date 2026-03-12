@@ -377,7 +377,122 @@ Voici la mise en scène du _Malade imaginaire_ selon une reconstitution menée p
 
 {{< video https://www.youtube.com/watch?v=h4-5CZpMK2M >}}
 
-[^1]: La frise chronologique de la vie et des œuvres de Molière a été constitué à partir des informations présentées dans Daniel Bergez et al., « Molière (1622-1673) », _Précis de littérature française_, vol. 6, Armand Colin, 2023, p. 173‑179, [en ligne](https://shs.cairn.info/precis-de-litterature-francaise--9782200635695-page-173).
+# _Le Misanthrope_
+
+<iframe src="slides/pres_misanthrope.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_misanthrope.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+## Introduction
+
+Selon une note de Brossette dans son édition de Boileau, Molière avait déjà commence la création de _Le Misanthrope_ en 1664, vu qu'il en a lu le débout du premier acte chez l'abbé Broissin, comme réponse à la _Satire II_ de Boileau. Cependant, la querelle suivant la mise en scène du _Tartuffe_ et des périodes de maladies le contraignent à intérrompre sa création. La pièce est mise en scène le 4 et le 6 juin 1666, et si ses premières représentations ont ont eu une reaction tiéde chez le public, avec des recettes de 1447 livres et 1617 livres, le public se montre plutôt disintéressé, vu que par la suite les recettes équivalent à environ un tiers. L'un des défauts majeurs est que la comédie présente des scènes comiques, comme dans le dialogue initiale entre Alceste et Philente (I, 1), avec Oronte (I, 2) ou la scène de jalousie (IV, 3); pourtant Alceste guidé de sa franchise et de sa passion amoureuse, le mènant à la jalousie, rende la comédie plus sombres.
+
+## Du dialogue théâtral vers...
+
+La pièce de Molière présente des excursus dialogiques allant audélà du vers. En effet, dans une sorte de circularité l'auteur insére au premier acte (I, 2) des poésies, dans le spécificque un sonnet et un morceau de chanson. Dans le premeier cas, Oronte veut mettre en scène sa capacité poétique, dans un premier temps il nous semble tout hésitant fac au jugement auquel il summet son sonnet. Comme nous voyons il essaie à plusieurs fois de commencer la déclamation de sa poèsie en s'interompant lui-même et en essayant de s'excuser de la qualité en disant l'avoir écrit en «&nbsp;un quart d'heure&nbsp;», chose à laquelle Alceste dit que c'es pas le temps qui fait la qualité de la poésie.
+
+> <b>ORONTE</b>\
+Sonnet... C'est un sonnet. L'espoir... C'est une dame\
+Qui de quelque espérance avait flatté ma flamme.\
+L'espoir... Ce ne sont point de ces grands vers pompeux,\
+Mais de petits vers doux, tendres et langoureux.\
+À toutes ces interruptions il regarde Alceste.\
+<b>ALCESTE.</b>\
+Nous verrons bien.\
+<b>ORONTE.</b>\
+L'espoir... Je ne sais si le style\
+Pourra vous en paraître assez net et facile,\
+Et si du choix des mots vous vous contenterez.\
+<b>ALCESTE.</b>\
+Nous allons voir, Monsieur.\
+<b>ORONTE.</b>\
+Au reste, vous saurez\
+Que je n'ai demeuré qu'un quart d'heure à le faire.\
+<b>ALCESTE.</b>\
+Voyons, Monsieur ; le temps ne fait rien à l'affaire.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 305-314)</span><br/>
+
+Oronte prend son courage et commence à déclamer, ici inséré dans son intiérté, et intérrompu à plusieurs reprises des premiers reactions de Philante, qui sont positive, et les interventions de Alceste contre Philante. 
+
+> L'espoir, il est vrai, nous soulage,\
+Et nous berce un temps notre ennui;\
+Mais, Philis, le triste avantage,\
+Lorsque rien ne marche après lui!\
+>
+> Vous eûtes de la complaisance;\
+Mais vous en deviez moins avoir,\
+Et ne vous pas mettre en dépense\
+Pour ne me donner que l'espoir.\
+>
+> S'il faut qu'une attente éternelle\
+Pousse à bout l'ardeur de mon zèle,\
+Le trépas sera mon recours.\
+>
+>Vos soins ne m'en peuvent distraire :\
+Belle Philis, on désespère,\
+Alors qu'on espère toujours.\
+
+Alceste n'est pas d'accord avec le comportement de Philante, qui charme Oronte. Alceste est contrarié et il essaie de n'attaquer pas directement Oronte, en parlant de la situation communicative dans laquel ils se trouvent dans une sorte d'analogie dans le passé en parlant d'un «&nbsp;ami&nbsp;». À ce sonnet, il répond avec un morceau de chanson:
+
+> «&nbsp;Si le roi m'avait donné\
+Paris, sa grand'ville,\
+Et qu'il me fallût quitter\
+L'amour de ma mie,\
+Je dirais au roi Henri&nbsp;:\
+- Reprenez votre Paris&nbsp;:\
+J'aime mieux ma mie, au gué&nbsp;!\
+J'aime mieux ma mie.&nbsp;»\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 393-400)</span><br/>
+
+D'ailleur cet poèsie renvoie au roi Henri IV, grand-père de Louis XIV, dans un sort d'élan d'exaltation nostalgique. En effet, il veut renvoyer à une période dans laquelle il n'y aurait pas eu de distortion de la morale avec la coquetterie et la présence des fausses prudes, cela corresponderait à une sorte d'âge d'ore de l'honnet-homme.
+
+Depuis le tout début il y a une dénonciacion morale de la société contemporaine, aussi à travers cette hierarchie des poèsies. On a introduit qu'il y a une circularité dans la pièce. En effet, si dans le début on a une questionnement à travers les vers, à la fin de la pièce (V, 4) Acaste et Clitandre lisent des lettres reçus et envoyé de la part de Célimène, entre les v. 1690-1695. Là, les deux marquis denoncent ouvertement la coquetterie de Célimène, en décidant non seulement de se pleindre dans ce contexte, mais de sortir et de denoncer ses comportaments en société. 
+
+Ces deux passages nous montrent la malleabilité de la pratique théâtrale à travers les recours à d'autres stratégies poétiques, textuelles. Pourtant, cela ne sont pas les seules références à des «&nbsp;arts externes&nbsp;». En effet, au vers 100 (I, 1), Philante fait référence directement à une autre pièce de Molière, une sorte de métathéâtralité, _L'École des maris_. Dans cette oeuvre on retrouve deux frères, Ariste et Sganarelle (Molière lui-même), qui on élévé ses enfants l'un dans la sévérité et l'autre dans l'indulgence. Donc, Philante crée ce rapport entre le frère indulgente, lui-même, et le frère severe, Alceste.
+
+## Le salon de Célimène: un non-lieu
+
+Nous avons vu les unités selon la poètique corneilienne et Molière les respectes toutes dans cette pièce. Pour ce qui est l'unité de temps, nous comprenons que les fait qui se deroulent sont de l'odre de la journée, mais on pourrait presque dire qu'elle corresponde au temps dramatique. Pour ce qui concerne l'action, on retrouve une seule action, qui tourne autour du misanthrope comme le dit le titre. Toute l'action de la pièce se joue autour des relations amoureuses.
+
+Le lieu est particulièrement intéressant, parce que effectivement on respect l'unité de lieu, au moins sûrement selon les termes de Corneille, de l'unité au niveau de la ville. Pour vrai dire, on a l'impression de ne jamais quitter le salon de Célimène, que à ce propos devient un sorte de non-lieu. Il devient une sorte de place public sur laquelle on se rencontre, les différent personnage s'y retrouve sans la présence de Célimène elle-même. Est ce que cela viole la bienséance ou pas? Le fait que Éliante, la cousine de Célimène, habite au-dessous de Célimène, rend d'autant plus ce salon comme un lieu de passage, comme s'il n'appartient pas vraiment à personne. Ce salon pourtant réflêt la situation réel de l'époque, avec les salons qui se dessinent autour des figures féminine, comme Madeleine de Scudéry ou la marquise Catherine de Rambouillet. Ce sont des lieux où la culture, la littérature, la société et la politique se façonnent. Nous avons des exemples de littérature avec les compositions poétique du premier acte, mais aussi les discours culturel et socio-politique illustrent les différent rôle sociales (II, 4): les marquis, la coquette, la prude, les valets.
+
+Le salon au dernier acte, et notamment la toute dernière scène, il semble presque refuser la présence même de sa proprietaire, qui demeure en silence pour la majorité du temps, elle reste à l'écoute des lettres, des accusations, avec les gens qui abandonnent la scène l'un après l'autre. Cela lui laisse le temps de réfléchir et de finallement demander perdon à Alceste, elle montre d'être véritablement amoureuse. Pourtant, il y a une sorte de dialogue entre mouets, Alceste lui propose de tout quitter pour lui, et elle, bien qu'elle déclare son amour ne veut pas quitter Paris; dans les deux cas il ne semble pas intéressés à la subjectivité d'autrui.
+
+## L'action comique
+
+L'action on à dit que respect les unités, ayant son centre sur le personnage d'Alceste, comme indiqué depuis le titre. On a avancé le fait que la comédie peut parraitre sombre, mais on peut y retracer le comique, justement autour d'Alceste lui-même.
+
+Depuis le tout débout de la pièce, la misanthropie d'Alceste est présenté comme ridicule et dont on peut se rire. Déjà le tout premier replique avec le refus de reconnaitre Philinte comme son ami, avec une dégeneration de la situation, de plus en plus croissante en arrivant au discours du procès contre Alceste. Ce dernier, finallement, dit de préférer perdre sa cause, parce que au moins il peut se plaindre des gens. Philante lui dit ouvertement qu'il passe pour ridicule. 
+
+> <b>ALCESTE.</b>\
+J'aurai le plaisir de perdre mon procès.&emsp; \(196)\
+<b>PHILINTE.</b>\
+Mais enfin...\
+<b>ALCESTE.</b>\
+Je verrai, dans cette plaiderie,\
+Si les hommes auront assez d'effronterie,\
+Seront assez méchants, scélérats et pervers,\
+Pour me faire injustice aux yeux de l'univers.&emsp; \(200)\
+<b>PHILINTE.</b>\
+Quel homme !\
+<b>ALCESTE.</b>\
+Je voudrais, m'en coutât-il grand'chose,\
+Pour la beauté du fait avoir perdu ma cause.\
+<b>PHILINTE.</b>\
+On se rirait de vous, Alceste, tout de bon,\
+Si l'on vous entendait parler de la façon.&emsp; \(205)\
+<b>ALCESTE.</b>\
+Tant pis pour qui rirait.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 196-206)</span><br/>
+
+La pièce donc à comme point comique l'exès de franchise d'Alceste et sa façon dont il croit être superieur aux autres. On se rit égallement du fait qu'il n'épreuve aucune émpatie pour les autres et il est toujour au centre de l'attention, ses discours présentent beaucoup de «&nbsp;je&nbsp;» et de «&nbsp;moi&nbsp;». 
+
+Le rêve de la société franque comme lui se réalise quand il n'est pas sur scène au troisième acte, scène 4, lorsque Arsinoé et Célimène se présentent chacune les defaut de l'autre, la pruderie et la coqueterie. Et ici il y a la reprise de Alceste aussi, parce que au début de la pièse, en présentant l'exemple d'Émilie, il parle du fait qu'elle a le visage blanc, pour la podre. De même Célimène dit à Arsinoé qu'elle a le visage blanc. Dans les pièces de Molière nous constatons un goût pour les renvoit et les reprises.
+
+Parmi, les différents niveau de comicité nous avons égalément la scène avec Du Bois, (IV, 4). Le valet d'Alceste arrive tout pressé pour essayer de convaincre son maître à quitter Paris, pour la question judiciaire du début de la pièce, et il devrait montrer une carte à Alceste, sauf qu'après avoir fuillé dans toutes ses poches, il comprend l'avoir oublié sur la table chez son maître. La comicité que nous rencontrons à plusieurs reprises dans la pièce relève de la satire, mais dans ce cas on revient sur la gestualité en donnant l'espace à un valet. Les typologies des personnages et la question de la gestualité nous les reverrons la semaine prochaine. 
+
+[^1]: La frise chronologique de la vie et des œuvres de Molière a été constitué à partir des informations présentées dans Daniel Bergez et al., «&nbsp;Molière (1622-1673)&nbsp;», _Précis de littérature française_, vol. 6, Armand Colin, 2023, p. 173‑179, [en ligne](https://shs.cairn.info/precis-de-litterature-francaise--9782200635695-page-173).
 
 [^2]: L'Empire Ottomna correspond à la Turquie actuelle, avec des propages en Europe centrale, en Asie et Afrique du Nord. La capitale de l'empire est Constatinople.
 
