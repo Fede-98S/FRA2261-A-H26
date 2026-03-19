@@ -114,7 +114,7 @@ format:
       <div class="timeline-date">1697</div>
       <div class="timeline-info">     
         <h4><i>La Fausse Prude</i></h4>
-        <p>mme de Maintenon les fait chasser de Paris</p>
+        <p>Mme de Maintenon les fait chasser de Paris</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
@@ -162,24 +162,38 @@ Piot (dans Berregard, 2024)
 # Revenons à l'essence
 
 ## Revenons à l'essence
+<br/>
+<br/>
 
 _Qu'est-ce que c'est le théâtre?_
+<br/>
+<br/>
 
 Gouhier, Henri, _L’essence du théâtre_, Librairie Philosophique J. Vrin, 2002
+<br/>
+<br/>
 
-<span style="text-transform: uppercase; float: center;">Représentation de la pièce</span>
+<span class="centered" style="text-align: center; text-transform: uppercase; ">Représentation de la pièce</span>
 
 ## Revenons à l'essence
+<br/>
+<br/>
 
 _Qui est l'acteur?_
+<br/>
+<br/>
 
 Dicotomie 
+<br/>
+<br/>
 
 ::::{.columns}
 
 :::{.column}
 
 Acteur:
+<br/>
+<br/>
 
 - contexte socio-culturel
 - soi-même
@@ -188,7 +202,9 @@ Acteur:
 
 :::{.column}
 
-Personnqge:
+Personnage:
+<br/>
+<br/>
 
 - psychologie interne
 - externe
@@ -223,15 +239,21 @@ _Et le texte?_
 
 Contradiction représentation
 
-mise en scène contextuelle VS reflet postérieur
+mise en scène contextuelle &nbsp;&nbsp;&nbsp; VS&nbsp;&nbsp;&nbsp; reflet postérieur
 
 # Le corps de l'acteur et le corps scénique
 
 ## Le corps de l'acteur et le corps scénique
+<br/>
+<br/>
 
 En littérature corps en tant que déscription physique. 
+<br/>
+<br/>
 
 Dans le théâtre est une matérialisation scénique de l'être humain.
+<br/>
+<br/>
 
 -> art qui reflète le contexte historique, social et culturel
 
@@ -265,16 +287,33 @@ _Quelle est le rapport entre langage et corps?_
 <br/>
 <br/>
 
-<span style="float: center;">Langue</span>
+<span class="centered" style="text-align: center;">Langue</span>
 <br/>
 <br/>
 
-<span style="float: center;">Langage</span>
+<span class="centered" style="text-align: center;">Langage</span>
 <br/>
 <br/>
 
-<span style="float: center;">Mouvement / Geste</span>
+<span class="centered" style="text-align: center;">Mouvement / Geste</span>
 
 ## Le corps de l'acteur et le corps scénique
+<br/>
+<br/>
 
 > Par geste, l’on ne saurait entendre uniquement les mouvements des membres, mais l’ensemble de l’attitude du corps. Il faut que, dans l’artiste, tout vive à la fois, que tout exprime la sensation profonde qui l’anime, que l’œuvre il, la main, la position de la poitrine, l’inflexion de la tête contribuent à l’effet d’ensemble. […] Le côté extérieur de l’Art est parfois l’Art tout entier. (p.76)
+
+# Introduction aux didascalies
+
+## Introduction aux didascalies
+
+| Type | Description | 
+|---------------|-------------------|
+| SPC | Gestion tournes de parole, prise de parole |
+| ASP | Aspect du personnage | 
+| TMP | Temporel |
+| EVT | Non-verbal | 
+| SET | Personnages ou objets | 
+| PROX | Proximité | 
+| ATT | Intonation, mimique ou attitude | 
+| VOI | Spec. sociolinguistique ou activité para-verbal | 
