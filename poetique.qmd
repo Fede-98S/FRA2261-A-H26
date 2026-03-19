@@ -146,6 +146,72 @@ En ce qui concerne l’unité de temps, déjà Aristote dit qu’on peut excéde
 
 Pour ce qui est de l’unité de lieu, c’est assez difficile de la respecter lorsqu’on se trouve dans la chambre ou le bureau de quelqu’un, parce qu’il s’agit d’un endroit privé à laquelle tout le monde n’a pas accès. De plus, on ne devrait sourire que si la personne qui occupe cet espace est absente. Par conséquent, Corneille propose de faire correspondre l’unité de lieu à la ville, d’autant qu’on se trouve dans la même ville, tout va bien.
 
-Il conclut son troisième discours disant qu’il n’arrive pas à trouver le respect de ces unités chez aucun des auteurs antiques et non plus chez ses contemporaines, et que les seules pièces qui respecteraient toutes ses règles seraient Horace, Polyeucte et Pompée. Sa conclusion ultime définit sa personnelle interprétation des unités en tant qu’éventuelle hérésie.
+Il conclut son troisième discours disant qu’il n’arrive pas à trouver le respect de ces unités chez aucun des auteurs antiques et non plus chez ses contemporaines, et que les seules pièces qui respecteraient toutes ses règles seraient _Horace_, _Polyeucte_ et _Pompée_. Sa conclusion ultime définit sa personnelle interprétation des unités en tant qu’éventuelle hérésie.
+
+
+**19 mars 2026**
+
+# Des Italiens au geste théâtral
+
+## La Comédie des Italiens
+
+Introduction en France par les reines florentines Catherine et Marie de Médicis. Selon Brantôme Catherine aime particulairement les Zanni et Pantalons. À travers les types fixes, la comédie-italienne est voué à la représentation des grivoiseries, critiques politiques et parodies, notamment à travers une forte gestualité (music, chant, ballet et meme des acrobaties). 
+
+Le rôle de la mimique est d’ailleur d’autant plus important que une bonne partie du public ne comprennait pas la langue. C’est ainsi que le geste devient une véritable traduction du texte.
+
+Depuis, le règne de Charles IX, il y a plusieurs troupes qui jouent en France, comme à Blois et Paris, pour le mariage d’Henri de Navarre avec la troupe de Albert Ganasse en 1572; la troupe des _Golosi_ est à Blois en 1577, sous Henri III. En 1584 _Comici confidenti_, en 1588 les Gelosi à nouveau. Entre 1600 et 1604 la troupe de Francesco Andreini jouent à l’Hotel de Borugogne. En 1608 les _Accesi_ jouent à l’Hotel de Bourbon, l’Hotel de Bourgogne et à Fontainebleau. Entre 1613 et 1618 la troupe de Tommaso Martinelli, qui reprends égallement des comédies latines comme les _Menaechmi_ de Plaute. Entre 1618-1625 c’est la fois de la troupe de Jean-Baptiste Andreini.
+
+Les italiens sont déjà en competitions avec l’Hotel de Bourgogne. Dès 1639, la troupe de Tiberio Fiorelli, qu’à l’Hotel Guénégaud, puis à l’Hotel de Bourgogne à la création de la Comédie-Française. La competition était tout-à-fait vrai, puisque les italiens ont commencé à jouer en français aussi. Emblémathique c’est le 1696, quand, après la mise en scène de _La Fausse Prude_, le roi, sous les pressions de Mme de Maintenon les chasse de Paris. La régence en 1716 appelle à nouveau les italiens, avec la troupe de Riccoboni (dit Lelio), qui est à la création de l’Opéra-comique avec Marivaux et Favart.
+
+## Lire ou jouer: c'est ça le dilèmme
+
+### Lecture(s)
+
+Piot (dans Berregard, 2024), en partant de l'analyse des dédicaces, parle d'un double modalité de lecture des pièces de théâtre: fictionnelle et scénique. 
+
+Pour ce qui est de la lecture fictionnelle elle revient sur l'objet lui-même. En effet, si le livre contient juste une oeuvre pour un déstinataire précis, il faut considérer qu'il s'agit d'un lecture extrêmement personnelle. Alors que, dans le cas des livres miscellanées, c'est-à-dire qui sont composé des plusieurs oeuvrages, souvant de relevant de différantes typologies textuelles aussi (pour cette raison dit aussi ouvrages composites), il s'agit plutôt d'une lecture à haute voix pour une collectivité.
+
+D'autre part nous avons une lecture scénique, qui fait recours à l'experience personnalle du lecteur au théâtre. Les images se portent souvant comme garant de cette perspective, permettant de mieux visualiser la représentation, même dans une lecture plus personnelle. Cela nous le retrouvons égallement à travers une approfondissement de plus en plus présent des didascalies externes, que dans les siècles à venir, et selon l'auteur, passe de simple outils téchnique à une véritable élément poétique dont le style soigné et événtuellement mis lui-aussi en vers.
+
+### Revenons à l'essence[^2]
+
+_Qu'est-ce que c'est le théâtre?_
+
+Gouhier dans son ouvrage de 2002, _L'Essence du théâtre_, revient sur le fait que cette essence réside dans la représentation de la pièce. La présence d'acteurs incarnant des personnages constitue cette base, donc, fondamental est la présence et le rôle du personnage.
+
+_Qui est l'acteur?_
+
+Les personnes sont caractérisé par leur capacité d'exprimer leur pensée et leurs personnalité. Cependant, l'acteur, en tant que personne incarnat un autre personne, perd sa propre personnalité pour indosser la personnalité de quelqu'un d'autre, il se trouve face une sorte de perte de volonté.
+
+L'action dramatique crée, dans l'acteur, un dedoublement allant dans deux directions opposées: un conflit psychologique interne, entre personne-acteur et personne-actué, et parfois même un conflit au sein du personnage à incarner; et l'externalisation de cette psychologie du personnage.
+
+L'acteur, justement pour sa dimension profesionnel, sa connaissance du jeu théâtral, il sait s'il y a des problématiques et comment apporter des modification en termes de jouabilité de la pièce. 
+
+_Et le texte?_
+
+Si on enlève l'action à la représentation théâtral, on peut avoir un texte magnifique, mais on perderait l'essence profonde du théâtre. C'est à partir de ça qu'il y a une sorte de radicalisation ménant au début des arts de la scène, qui au début étaient pure danse comme expressions du mouvement du corps. Bien que Gouhier semble aller vers un refus du texte, il le réqualifie de manière presque théologique à travers une sorte de reprise, sans le citer directement, de l'évangil de Jean (I,1) "in princípio erat Verbum". Pourtant ce _verbum_ est également action, en constituant la co-existentialité de mot et geste. Ce dernier emporte une qutre contrqdiction, celle lié à la représentaation, en effet, la mise en scène est contextuelle et toute les mises en scènes posterieures ne sont qu'un reflet. 
+
+### Le corps de l'acteur et le corps scénique
+
+Dans la littérature le corps de l'être humaine est présenté à travers des multiples représentations, notamment à travers la descriptions physiques des différents personnages. Pourtant, dans le théâtre, le corps de l'acteur devient une matérialisation scénique de l'acteur. En tant que personnes, on reflet notre réalité socio-culturelle (on est dans le cadre de l'anthropologie de la vie et du corps). L'art, étant profondement liée au contexte de création; elle fournit une photographie du contexte historique d'une société et culture, et de la représentation de l'homme dans un tel contexte. C'est ainsi que le corps devient, dans cette perspective, à la fois sujet et objet de l'art.[^3]
+
+Dans le cadre de l'anthropologie théâtrale, on introduit les trois pôles à considerer: auteur, acteur/artiste et spectateuir. Ce dernier est à l'instar de l'artiste lui-même, parce qu'il doit faire un acte de décodage de l'acte performatif. Cela mène à la triple division de l'analyse: performative, mem"tiste e miemesis. 
+
+> Sur la scène comme dans la société, l’individu, sur et hors scène, assimile un monde avant de le restituer sous une forme singulière.[…] L’individu dispose d’un corps, qu’il utilise notammendt dans sa communication gestuelle. (Foisil _et al_., 2016, pp.41-42)
+
+Le geste assume un sense au niveau de la société et il est quand-meme personnel, tout en évoluant au fil de la vie.
+
+Le corps est au meme temps corps et instrument, dualité particulierèment “compliqué“ lors qu’on prend en compte le travail actoriale. L’acteur utilise son corps dans la vie quotidienne et il lui attribue des nouvelles expressions en devenant un nouveau personnage sur la scène. On a une dualité entre corps phénoménique et corps sémiotique. L’un est le simple fait d’exister, l’autre la charge de sens qu’il peut porter.
+
+_Quelle est le rapport entre langage et corps?_
+
+Les premièrs témoignages de langue[^4], et non pas de langage, parvenu jusqu'à nous sont de la civilisation sumerienne, bien qu'on est d'accord que la langue s'est développé bien avant. D'un point de vue linguistique, anthropologique et social, la communauté est d'accord sur le fait que la langue serait nait avec l'organisation sociale, l'évolution téchnique et avec la capacité de faire abstraction. Le langage est, si on veut reprendre la terminologie précédente, essentiallement du mouvement, sans le mouvement il n'y aurait pas de langue. De même le langage, qui n'est pas vehiculé de la capacité d'élocution, a comme substrat, inhérent le mouvement. Pour Foisil, le texte théâtral se base sur la langue écrite, et dans vocalisation, mais en son absence, on revient à simple mouvement, qui est à la base des arts de la scène. Dans l'environemment théatral il suffit de penser au pantomime, présente depuis l'antiquité, et reconnu en tant qu'art du spectacle effectivement au XVIIe et XIX siècle; mais aussi le ballet qui pourrait être mis en rapport à la dimension strictement anthropologique avec le rapport entre art et religion.
+
+La dimension gestuelle est donc fondamentale à la représentation scénique, aussi comme forme d'accompagnement à la langue. L'actrice Sarah Bernhar:t définit l'importance des proportions du corps et du geste théâtral, et sur ce:
+
+> Par geste, l’on ne saurait entendre uniquement les mouvements des membres, mais l’ensemble de l’attitude du corps. Il faut que, dans l’artiste, tout vive à la fois, que tout exprime la sensation profonde qui l’anime, que l’oeil, la main, la position de la poitrine, l’inflezion de la tete contribuent à l’effet d’ensemble. […] Le coté extérieur de l’Art est parfois l’Art tout entier. (p.76)
 
 [^1]: À ce sujet est intéressant tout le débat sur la question si le théâtre est fait pour la lecture ou pas.
+[^2]: Gouhier, Henri, _L’essence du théâtre_, Librairie Philosophique J. Vrin, 2002.
+[^3]: Marquetti, 2017.
+[^4]: Attention, Foisil ne présente pas la distinction directe entre langue et langage, mais ce serait bien de reintroduire dans sa reflexion la dicothomie saussaurienne (Saussure, _Cours de linguistique générale_, 1916).
