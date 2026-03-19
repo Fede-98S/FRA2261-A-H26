@@ -1,0 +1,280 @@
+---
+title: "Des Italiens au geste théâtral"
+data: 19 - 03 - 2026
+format:
+  revealjs:
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+## Plan
+
+<br/>
+<br/>
+
++ La Comédie des Italiens
++ Lire ou jouer : tel est le dilemme
+  - Lecture(s)
+  - Revenons à l'essence
+  - Le corps de l'acteur et le corps scénique
+
+
+
+# La Comédie des Italiens
+
+## La Comédie des Italiens
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1572</div>
+      <div class="timeline-info">
+        <h4>Alberto Ganassa</h4>
+        <p>Blois et Paris, mariage Henri de Navarre</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1577</div>
+      <div class="timeline-info">
+        <h4><i>Golosi</i></h4>
+        <p>Blois, Henri III</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1584</div>
+      <div class="timeline-info">
+        <h4><i>Comici Confidenti</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1588</div>
+      <div class="timeline-info">
+        <h4><i>Golosi</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1600-1604</div>
+      <div class="timeline-info">
+        <h4>Francesco Andreini</h4>
+        <p>Hôtel de Bourgogne</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1608</div>
+      <div class="timeline-info">
+        <h4><i>Accesi</i></h4>
+        <p>Hôtel de Bourbon, Hôtel de Bourgogne et Fontainebleau</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1646-1658</div>
+      <div class="timeline-info">
+        <h4>Société des cinq auteurs</h4>
+        <p>Société donne une pension à Corneille et lui offre une place dans l'association «&nbsp;Société des cinq auteurs&nbsp;»</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1613-1618</div>
+      <div class="timeline-info">
+        <h4>Tommaso Martinelli</h4>
+        <p>Reprise de la comédie latine, comme <i>Menæchmi</i> de Plaute</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1618-1625</div>
+      <div class="timeline-info">
+        <h4>Jean-Baptiste Andreini</h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1639</div>
+      <div class="timeline-info">
+        <h4>Tiberio Fiorelli</h4>
+        <p>Il s'installe à l'Hôtel Guénégaud, puis à l'Hôtel de Bourgogne</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1697</div>
+      <div class="timeline-info">     
+        <h4><i>La Fausse Prude</i></h4>
+        <p>mme de Maintenon les fait chasser de Paris</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1716</div>
+      <div class="timeline-info">      
+        <h4></h4>
+        <p>La Régence fait retourner les Italiens avec Riccoboni (Lelio) - création Opéra-Comique avec Marivaux et Favart</p>
+      </div>
+    </div> 
+  </div>
+</div>
+
+<script>
+function toggleInfo(el) {
+  // Close all open info boxes
+  document.querySelectorAll('.timeline-item.active').forEach(item => {
+    item.classList.remove('active');
+  });
+  // Toggle clicked item
+  el.classList.add('active');
+}
+
+</script>
+```
+
+# Lire ou jouer : tel est le dilemme
+
+# Lecture(s)
+
+## Lecture(s)
+
+Piot (dans Berregard, 2024)
+<br/>
+<br/>
+
+- Lecture fictionnelle: 
+  + une œuvre, lecture personnelle
+  + miscellanés/composites, plutôt lecture collective à haute voix
+<br/>
+<br/>
+
+- Lecture scénique: importance des didascalies
+
+# Revenons à l'essence
+
+## Revenons à l'essence
+
+_Qu'est-ce que c'est le théâtre?_
+
+Gouhier, Henri, _L’essence du théâtre_, Librairie Philosophique J. Vrin, 2002
+
+<span style="text-transform: uppercase; float: center;">Représentation de la pièce</span>
+
+## Revenons à l'essence
+
+_Qui est l'acteur?_
+
+Dicotomie 
+
+::::{.columns}
+
+:::{.column}
+
+Acteur:
+
+- contexte socio-culturel
+- soi-même
+
+:::
+
+:::{.column}
+
+Personnqge:
+
+- psychologie interne
+- externe
+
+:::
+
+::::
+
+## Revenons à l'essence
+<br/>
+<br/>
+
+_Et le texte?_
+<br/>
+<br/>
+
+Évangile de Jean (I, 1) : « In princípio erat Verbum »
+<br/>
+<br/>
+
+## Revenons à l'essence
+<br/>
+<br/>
+
+_Et le texte?_
+<br/>
+<br/>
+
+Évangile de Jean (I, 1) : « In princípio erat Verbum »
+<br/>
+<br/>
+
+Contradiction représentation
+
+mise en scène contextuelle VS reflet postérieur
+
+# Le corps de l'acteur et le corps scénique
+
+## Le corps de l'acteur et le corps scénique
+
+En littérature corps en tant que déscription physique. 
+
+Dans le théâtre est une matérialisation scénique de l'être humain.
+
+-> art qui reflète le contexte historique, social et culturel
+
+--> corps comme sujet et objet de l'art
+
+## Le corps de l'acteur et le corps scénique
+<br/>
+<br/>
+
+Anthropologie du théâtre:
+<br/>
+<br/>
+
+- Auteur
+
+- Acteur/artiste 
+
+- Spectateur: décoder la performance
+
+## Le corps de l'acteur et le corps scénique
+<br/>
+<br/>
+
+> Sur la scène comme dans la société, l’individu, sur et hors scène, assimile un monde avant de le restituer sous une forme singulière.[…] L’individu dispose d’un corps, qu’il utilise notammendt dans sa communication gestuelle. (Foisil _et al_., 2016, pp.41-42)
+
+## Le corps de l'acteur et le corps scénique
+<br/>
+<br/>
+
+_Quelle est le rapport entre langage et corps?_
+<br/>
+<br/>
+
+<span style="float: center;">Langue</span>
+<br/>
+<br/>
+
+<span style="float: center;">Langage</span>
+<br/>
+<br/>
+
+<span style="float: center;">Mouvement / Geste</span>
+
+## Le corps de l'acteur et le corps scénique
+
+> Par geste, l’on ne saurait entendre uniquement les mouvements des membres, mais l’ensemble de l’attitude du corps. Il faut que, dans l’artiste, tout vive à la fois, que tout exprime la sensation profonde qui l’anime, que l’œuvre il, la main, la position de la poitrine, l’inflexion de la tête contribuent à l’effet d’ensemble. […] Le côté extérieur de l’Art est parfois l’Art tout entier. (p.76)
