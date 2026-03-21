@@ -303,7 +303,7 @@ _Quelle est le rapport entre langage et corps?_
 
 > Par geste, l’on ne saurait entendre uniquement les mouvements des membres, mais l’ensemble de l’attitude du corps. Il faut que, dans l’artiste, tout vive à la fois, que tout exprime la sensation profonde qui l’anime, que l’œuvre il, la main, la position de la poitrine, l’inflexion de la tête contribuent à l’effet d’ensemble. […] Le côté extérieur de l’Art est parfois l’Art tout entier. (p.76)
 
-# Introduction aux didascalies
+<!-- # Introduction aux didascalies
 
 ## Introduction aux didascalies
 
@@ -316,4 +316,4 @@ _Quelle est le rapport entre langage et corps?_
 | SET | Personnages ou objets | 
 | PROX | Proximité | 
 | ATT | Intonation, mimique ou attitude | 
-| VOI | Spec. sociolinguistique ou activité para-verbal | 
+| VOI | Spec. sociolinguistique ou activité para-verbal | -->
