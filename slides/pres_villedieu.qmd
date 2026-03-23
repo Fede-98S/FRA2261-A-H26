@@ -1,0 +1,401 @@
+---
+title: "_Le Favori_: la femme et l'étude de la cour"
+subtitle: "Marie-Catherine-Hortense de Villedieu (Desjardins)"
+data: 26 - 03 - 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+## Plan
+
+- Marie-Catherine-Hortense de Villedieu (Desjardins)
+- _Le Favori_
+  + Questions de sources
+    - _El Amor y el Amistad_
+    - _Le Misanthrope_
+  + Représentation de la cour
+  + Didascalies
+
+# Marie-Catherine-Hortense de Villedieu (Desjardins)
+
+## Marie-Catherine-Hortense de Villedieu (Desjardins)
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1640</div>
+      <div class="timeline-info">
+        <h4>Naissance</h4>
+        <p>Paris, de faimille pas noble</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1660-1661</div>
+      <div class="timeline-info">
+        <h4><i>Le Récit de la force des Précieuses</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1662</div>
+      <div class="timeline-info">
+        <h4><i>Manlius Torquatus</i></h4>
+        <p>Tragi-comédie, Hôtel de Bourgogne</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1664</div>
+      <div class="timeline-info">
+        <h4><i>Nitétis</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1665</div>
+      <div class="timeline-info">
+        <h4><i>Le Favori</i></h4>
+        <p>Tragi-comédie, Hôtel de Bourgogne</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1667</div>
+      <div class="timeline-info">
+        <h4>Mort Villedieu</h4>
+        <p>Antoine de Boësset, sieur de Villedieu, dont elle prend le nom même sans mariage</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1669</div>
+      <div class="timeline-info">
+        <h4><i>Cléonice</i></h4>
+        <p>Ier nouvelle galante</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1671</div>
+      <div class="timeline-info">
+        <h4><i>Mémoires de la vie de Henriette-Sylvie de Molière</i></h4>
+        <p>Inaugurant le roman-mémoire</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1675</div>
+      <div class="timeline-info">
+        <h4><i>Les Désordre de l'amour</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1683</div>
+      <div class="timeline-info">
+        <h4>Mort</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleInfo(el) {
+  // Close all open info boxes
+  document.querySelectorAll('.timeline-item.active').forEach(item => {
+    item.classList.remove('active');
+  });
+  // Toggle clicked item
+  el.classList.add('active');
+}
+
+</script>
+```
+
+# _Le Favori_: la femme et l'étude de la cour
+
+# Questions de sources
+
+## Questions de sources: _El Amor y el Amistad_
+<br/>
+<br/>
+
+:::{.columns}
+
+:::{.column}
+
+De Molina, Tirso, _El Amor y el Amistad_, 1634
+<br/>
+<br/>
+
+- 2 amis
+
+:::
+
+:::{.column}
+
+_Le Favori_
+<br/>
+<br/>
+
+- épreuve du roi
+<br/>
+<br/>
+
+- psychologie, politique et société
+
+:::
+
+::::
+
+
+## Questions de sources: _Le Misanthrope_
+
+> <b>DONA ELVIRE.</b>\
+  Il est disgracié.\(892)\
+  <b>LÉONOR.</b>\
+  Et pour cette disgrâce en est-il moins le même,\
+  Quoi votre coeur ressent une tendresse extrême,\
+ 	Et puis sans autre peine il n'a qu'à le vouloir,\(895)\
+  Vous changez d'un amant comme on fait d'un mouchoir ?\
+  <b>DONA ELVIRE.</b>\
+  Et vous ne trouvez pas ma méthode admirable,\
+  Mon coeur aima Moncade autant qu'il fut aimable\
+<span style="float:right; text-align:right; margin-right:10%;">(VI, 1, v. 892-898)</span><br/>
+
+> Il est vrai, qu'à vous voir traiter ainsi son feu,&emsp; \(919)\
+	L'on ne veut vous nier que ce ne soit un jeu&emsp;:\
+  Mais il faut sur un point que je me satisfasse&emsp;; &emsp;\(921)\
+  N'aimiez-vous pas Moncade avant cette disgrâce,\
+  Était-ce feinte, ou non&emsp;?&emsp;\(923)\
+<span style="float:right; text-align:right; margin-right:10%;">(VI, 1, v. 919-923)</span><br/>
+
+## Questions de sources: _Le Misanthrope_
+
+> Vous me connaissez bien,\
+  Je hais tout ce qu'on aime, et n'aime jamais rien&emsp;;\
+ 	Tout ce qui peut m'ôter le nom de la plus belle,\(925)\
+  M'inspire aveuglément une haine mortelle&emsp;:\
+  Lindamire parut plus charmante que moi,\
+  Quand elle assujettit le Favori d'un Roi&emsp;;\
+  Sitôt qu'elle reçut ce glorieux hommage,\
+  Elle attira sur soi dès lors toute ma rage&emsp;:\(930)\
+  Mais quoi que m'inspirât ce courroux véhément,\
+  Je haïs la maitresse, et n'aimai point l'amant&emsp;:\
+  Et pour mieux vous montrer comme j'aimais Moncade,\
+  J'ai fait une conquête à cette promenade&emsp;:\
+ 	Car sans trop me flatter, je ne m'y connais pas,\(935)\
+  Ou Dom Lope a senti l'effet de mes appas&emsp;;\
+  J'ai surpris par hasard un certain regard tendre.\
+<span style="float:right; text-align:right; margin-right:10%;">(VI, 1, v. 923-937)</span><br/>
+
+## Questions de sources: _Le Misanthrope_
+
+> Non, elle est générale, et je hais tous les hommes&emsp;:\(118)\
+  Les uns, parce qu'ils sont méchants, et malfaisants&emsp;;\
+  Et les autres, pour être aux méchants complaisants,\
+  Et n'avoir pas pour eux ces haines vigoureuses\
+  Que doit donner le vice aux âmes vertueuses.\(122)\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 118-122)</span><br/>
+
+> <b>ALCESTE.</b>\
+J'aurai le plaisir de perdre mon procès.&emsp; \(196)\
+<b>PHILINTE.</b>\
+Mais enfin...\
+<b>ALCESTE.</b>\
+Je verrai, dans cette plaiderie,\
+Si les hommes auront assez d'effronterie,\
+Seront assez méchants, scélérats et pervers,\
+Pour me faire injustice aux yeux de l'univers.&emsp; \(200)\
+<b>PHILINTE.</b>\
+Quel homme !\
+<b>ALCESTE.</b>\
+Je voudrais, m'en coutât-il grand'chose,\
+Pour la beauté du fait avoir perdu ma cause.\
+<b>PHILINTE.</b>\
+On se rirait de vous, Alceste, tout de bon,\
+Si l'on vous entendait parler de la façon.&emsp; \(205)\
+<b>ALCESTE.</b>\
+Tant pis pour qui rirait.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 196-206)</span><br/>
+
+# Représentation de la cour
+
+## Représentation de la cour
+<br/>
+<br/>
+
+Resonance avec le faits divers concernant Nicolas Fouquet.
+<br/>
+<br/>
+<br/>
+<br/>
+
+Année inauguration Versailles:
+<br/>
+<br/>
+
+- Elvire et Clotaire: refus du passé
+
+- Moncade et Lindamire: personnages héroiques
+
+## Représentation de la cour: Lindamire, femme de la cour
+
+> <b>LINDAMIRE.</b>\
+  Ces champs, ce bois, cette verdure ;\(185)\
+  Les plus farouches animaux,\
+  Les doux oiseaux\
+  Tout aime en la nature.\
+  <b>MONCADE.</b>\
+  Elle lit.\
+  <b>LINDAMIRE.</b>\
+  Puisque l'amour sait enflammer\
+ 	Les objets les plus insensibles,\(190)\
+  Si nos coeurs en sont susceptibles,\
+  Hélas ! Faut-il les en blâmer.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 4, v. 185-192)</span><br/>
+
+> En amour chacun a sa manière,\(221)\
+  Celle d'un favori doit être singulière,\
+  Tous ces pas superflus, tous ces empressements,\
+  Tous ces soins affectés des vulgaires amants,\
+ 	Sont interdits, Seigneur, à ceux de votre espèce,\(225)\
+  L'inutile tribut de leur vaine tendresse,\
+  Leurs pleurs et leurs soupirs, leur assiduité,\
+  Sont proprement les fruits de leur oisiveté.\(228)\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 4, v. 221-228)</span><br/>
+
+## Représentation de la cour: Lindamire, femme de la cour
+
+> 	J'ignorais jusqu'ici que le pouvoir suprême\(625)\
+  Dût asservir un coeur aux droits du Diadème,\
+  Je savais qu'on doit craindre et qu'on doit obéir,\
+  Mais pour la liberté d'aimer et de haïr ;\
+  Je croyais que les Rois la laissaient à nos âmes,\
+ 	Et que l'amour dût seul se mêler de nos flammes ;\(630)\
+  Cette erreur se dissipe, et je commence à voir\
+  Qu'un Roi peut ce qu'il veut, et n'a qu'à tout vouloir :\
+  Toutefois je ne sais s'il perd sans répugnance\
+  Un homme de ce poids, et de cette importance :\
+ 	Son coeur devrait du moins à Moncade un combat,\(635)\
+  Il est depuis dix ans l'appui de cet État ;\
+  Deux fois nous avons vu Barcelone troublée,\
+  Et lui seul raffermir la Couronne ébranlée ;\
+  Tant de fameux exploits parlent en sa faveur,\
+	Tant de fidélité, de respect, de ferveur,\(640)\
+  Ses biens, les voeux publics, son crédit, sa naissance,\
+  Rien n'a porté son coeur à la moindre licence,\
+  Il fut toujours soumis aux ordres de son Roi,\
+  Et de tous ses désirs il se fit une loi ;\
+ 	Se peut-il que ce Prince ait perdu la mémoire\(645)\
+  De tant de grands exploits, de mérite et de gloire.\
+<span style="float:right; text-align:right; margin-right:10%;">(III, 1, v. 625-646)</span><br/>
+
+## Représentation de la cour: Lindamire, femme de la cour
+
+«Galeotto fu 'l libro e chi lo scrisse» / «Pour nous le livre et celui qui l’écrivit fut Galeotto»
+
+<span style="float:right; text-align:right; margin-right:10%;">_Commedia_, _Enfer_ V, v. 137</span><br/>
+
+> Hé ! Quoi, Seigneur, c'est vous qui l'avez allumé,\(1251)\
+  Ce feu dont malgré moi mon coeur s'est enflammé ;\
+  C'est en mettant Moncade au faîte de la gloire,\
+  En lui faisant gagner victoire sur victoire,\
+ 	En faisant éclater ses exploits glorieux,\(1255)\
+  Que vous l'avez rendu si charmant à mes yeux :\
+  Si vous ne l'eussiez point comblé de votre grâce,\
+  Son extrême douceur, sa foi, son peu d'audace,\
+  Son zèle, et son respect pour votre Majesté,\
+ 	À mes yeux pénétrants auraient moins éclaté :\(1260)\
+  La plus haute vertu sous la fureur succombe,\
+  C'est un penchant glissant où le plus ferme tombe,\
+  Et je l'ai vu porter toute votre faveur,\
+  Sans avoir un moment vu chanceler son coeur ;\
+ 	Je l'ai vu conquérant sans être téméraire,\(1265)\
+  Favori sans orgueil, Courtisan et sincère ;\
+  Vous l'avez connu tel, et vous êtes surpris,\
+  Qu'après cela Moncade ait charmé mes esprits.\
+<span style="float:right; text-align:right; margin-right:10%;">(V, 4, v. 1251-1268)</span><br/>
+
+# Didascalies
+
+## Didascalies
+
+| Type | Description | 
+|---------------|-------------------|
+| SPC | Spécification |
+| TMP | Temporel |
+| SET | Environnement |
+| EVT | Non-verbal | 
+| PROX | Proximité | 
+| ATT | Intonation, mimique ou attitude |
+
+## Didascalies
+<br/>
+<br/>
+
+Temporel
+<br/>
+<br/>
+
+> Me traite **ce matin** si favorablement
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 3)</span><br/>
+
+> Vous avez oublié qu'il est **un peu matin**
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 8)</span><br/>
+
+> Je vois bien qu'il vous faut laisser seule **aujourd'hui**.
+<span style="float:right; text-align:right; margin-right:10%;">(III, 4, v. 784)</span><br/>
+<br/>
+<br/>
+
+Environnement
+<br/>
+<br/>
+
+> C'est **sur cette terrasse** où loge Lindamire
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 6)</span><br/>
+
+## Didascalies
+<br/>
+<br/>
+
+Événement et Proximité
+<br/>
+<br/>
+
+> Enfin **nous voilà seuls**, cette foule importune
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 1)</span><br/>
+
+> Seigneur, **voici le Roi**.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 5, v. 260)</span><br/>
+
+> Adieu **je me retire**.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 5, v. 261)</span><br/>
+
+> Je vois bien qu'**il vous faut laisser seule** aujourd'hui.
+<span style="float:right; text-align:right; margin-right:10%;">(III, 4, v. 784)</span><br/>
+
+## Didascalies
+<br/>
+<br/>
+
+Attitude et Spécification
+<br/>
+<br/>
+
+> **Seigneur**, voici le Roi.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 5, v. 260)</span><br/>
+
+> Suivons le Roi, **Madame**
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1159)</span><br/>

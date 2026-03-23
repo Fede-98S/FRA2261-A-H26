@@ -1,0 +1,402 @@
+---
+title: "Villedieu"
+---
+
+# Marie-Catherine-Hortense de Villedieu
+
+<iframe src="slides/pres_villedieu.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_villedieu.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+### Frise chronologique Villedieu[^1]
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1640</div>
+      <div class="timeline-info">
+        <h4>Naissance</h4>
+        <p>Paris, de faimille pas noble</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1660-1661</div>
+      <div class="timeline-info">
+        <h4><i>Le Récit de la force des Précieuses</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1662</div>
+      <div class="timeline-info">
+        <h4><i>Manlius Torquatus</i></h4>
+        <p>Tragi-comédie, Hôtel de Bourgogne</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1664</div>
+      <div class="timeline-info">
+        <h4><i>Nitétis</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1665</div>
+      <div class="timeline-info">
+        <h4><i>Le Favori</i></h4>
+        <p>Tragi-comédie, Hôtel de Bourgogne</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1667</div>
+      <div class="timeline-info">
+        <h4>Mort Villedieu</h4>
+        <p>Antoine de Boësset, sieur de Villedieu, dont elle prend le nom même sans mariage</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1669</div>
+      <div class="timeline-info">
+        <h4><i>Cléonice</i></h4>
+        <p>Ier nouvelle galante</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1671</div>
+      <div class="timeline-info">
+        <h4><i>Mémoires de la vie de Henriette-Sylvie de Molière</i></h4>
+        <p>Inaugurant le roman-mémoire</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1675</div>
+      <div class="timeline-info">
+        <h4><i>Les Désordre de l'amour</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1683</div>
+      <div class="timeline-info">
+        <h4>Mort</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleInfo(el) {
+  // Close all open info boxes
+  document.querySelectorAll('.timeline-item.active').forEach(item => {
+    item.classList.remove('active');
+  });
+  // Toggle clicked item
+  el.classList.add('active');
+}
+
+</script>
+```
+
+> La nouvelle biographie fidèle, fondée solidement sur des lettres et des documents d'archives, révèle une femme travailleuse sensée et douée qui désirait la respectabilité, mais qui eut le malheur de tomber amoureuse d'un homme qui ruina sa réputation et la trahit indignement.
+
+En 1660, Mme de Morangis demande à Desjardins de lui résumer la pièce de Molière _Les Précieuses ridicules_, qui donnera vie à _Le Récit de la force des Précieuses_, ouvrage en prosimètre. Cela acquiert autant de succès que les manuscrits commencent à circuler et mène à l'impression de contrefaçons non autorisées. En 1661, Desjardins décide de s'associer à l'imprimeur Claude Barbin, avec lequel elle restera pour la publication de toutes ses oeuvres. 
+
+Elle décide de se donner à l'art dramatique, en ayant pour mentor l'abbé François Hédelin d'Aubignac. Pourtant, bien que sa première tragédie, _Manlius Torquatus_ (1662), reçoive du succès, elle suscite aussi une querelle, notamment contre son maître de la part de Pierre Corneille et du journaliste naissant Jean Donneau de Visé. En effet, celui-ci lui a imposé d'apporter des modifications aux données historiques concernant la vie de Manlius Torquatus, en raison de la bienséance (ici Manlius donne la grâce à son fils au lieu de le mettre à mort). Sa deuxième tragédie est un insuccès, alors que la tragi-comédie _Le Favori_ a un succès respectable. En 1665 elle décide de quitter l'écriture dramatique, bien que dans une lettre de 1667 elle affirme avoir écrit le premier acte d'une nouvelle pièce _Agis_, projet abandonné.
+
+Etudier Marie-Catherine-Hortense de Villedieu (ou Desjardins), ne représente pas seulement une importance  dans le fait qu'elle soit une dramaturge, mais qu'elle soit la première femme dramaturge à faire représenter ses œuvres dans la capitale, ainsi que la première à jouer devant la cour avec _Le Favori_. Pièce qui a été apprécié par la cour et qui lui vaut son succès et son rôle important dans l'histoire du théâtre français. 
+
+## _Le Favori_
+
+### Questions de sources
+
+#### _El Amor y el Amistad_
+
+La source directe de cette pièce serait _El Amor y el Amistad_ (_L'Amour et l'Amitié_) de Tirso de Molina, pseudonyme du prêtre et dramaturge Gabriel Tellez, de 1621 (publié en 1634). Elle a pu avoir accès au texte ou un résumé de la pièce, ainsi qu'y assister directement, vu qu'en 1660 à Paris se trouve une troupe espagnole.
+
+::::{.columns}
+
+:::{.column}
+
+_El Amor y el Amistad_
+
+- Soupçonnant d'être devenu son rival, Moncada décide de mettre à l'épreuve son ami, en demandant au comte de Barcelone de le dépouiller de ses biens (pas réel). 
+
+:::
+
+:::{.column}
+
+_Le Favori_
+
+- Seulement à la fin on comprend que c'est le roi qui met à l'épreuve Moncade.
+- Profondeur psychologique majeure, et ancrage politico-social en France
+
+:::
+
+::::
+
+
+#### _Le Misanthrope_
+
+Selon nombre d'érudits, il serait probable que Molière se soit inspiré du _Favori_, sa troupe étant celle qui mettait en scène la pièce , pour son _Misanthrope_. Pourtant, au niveau temporel, il demeure le doute, vu que probablement Molière avait déjà commencé l'écriture avant la mise en scène de la pièce de Desjardins. Bien que les deux pièces mettent en scène la cour, _Le Favori_ se déroule sur la terrasse de la maison de campagne de Moncade où tous les autres personnages sont conviés, et ce personnage, ainsi que Lindamire, ne constitueraient pas des parallèles avec Alceste et Célimène. 
+
+Pourtant, si on prend l'acte IV, à la scène première, on retrouve Dona Elvire et Léonor, avec cette dernière qui l'accuse d'inconstance, parce qu'elle disait d'être amoureuse de Moncade, après la sentence du roi, elle change d'avis. 
+
+> <b>DONA ELVIRE.</b>\
+  Il est disgracié[^2].\(892)\
+  <b>LÉONOR.</b>\
+  Et pour cette disgrâce en est-il moins le même,\
+  Quoi votre coeur ressent une tendresse extrême,\
+ 	Et puis sans autre peine il n'a qu'à le vouloir,\(895)\
+  Vous changez d'un amant comme on fait d'un mouchoir ?\
+  <b>DONA ELVIRE.</b>\
+  Et vous ne trouvez pas ma méthode admirable,\
+  Mon coeur aima Moncade autant qu'il fut aimable\
+<span style="float:right; text-align:right; margin-right:10%;">(VI, 1, v. 892-898)</span><br/>
+
+> Il est vrai, qu'à vous voir traiter ainsi son feu,&emsp; \(919)\
+	L'on ne veut vous nier que ce ne soit un jeu&emsp;:\
+  Mais il faut sur un point que je me satisfasse&emsp;; &emsp;\(921)\
+  N'aimiez-vous pas Moncade avant cette disgrâce,\
+  Était-ce feinte, ou non&emsp;?&emsp;\(923)\
+<span style="float:right; text-align:right; margin-right:10%;">(VI, 1, v. 919-923)</span><br/>
+
+La réponse de Dona Elvire crée un rapport avec Alceste, avec leur discours sur l'amour et la haine. 
+
+<div class="smaller">
+
+::::{.columns}
+
+:::{.column}
+
+> Vous me connaissez bien,\
+  Je hais tout ce qu'on aime, et n'aime jamais rien&emsp;;\
+ 	Tout ce qui peut m'ôter le nom de la plus belle,\(925)\
+  M'inspire aveuglément une haine mortelle&emsp;:\
+  Lindamire parut plus charmante que moi,\
+  Quand elle assujettit le Favori d'un Roi&emsp;;\
+  Sitôt qu'elle reçut ce glorieux hommage,\
+  Elle attira sur soi dès lors toute ma rage&emsp;:\(930)\
+  Mais quoi que m'inspirât ce courroux véhément,\
+  Je haïs la maitresse, et n'aimai point l'amant&emsp;:\
+  Et pour mieux vous montrer comme j'aimais Moncade,\
+  J'ai fait une conquête à cette promenade&emsp;:\
+ 	Car sans trop me flatter, je ne m'y connais pas,\(935)\
+  Ou Dom Lope a senti l'effet de mes appas&emsp;;\
+  J'ai surpris par hasard un certain regard tendre.\
+<span style="float:right; text-align:right; margin-right:10%;">(VI, 1, v. 923-937)</span><br/>
+
+:::
+
+:::{.column}
+
+> Non, elle est générale, et je hais tous les hommes&emsp;:\(118)\
+  Les uns, parce qu'ils sont méchants, et malfaisants&emsp;;\
+  Et les autres, pour être aux méchants complaisants,\
+  Et n'avoir pas pour eux ces haines vigoureuses\
+  Que doit donner le vice aux âmes vertueuses.\(122)\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 118-122)</span><br/>
+
+> <b>ALCESTE.</b>\
+J'aurai le plaisir de perdre mon procès.&emsp; \(196)\
+<b>PHILINTE.</b>\
+Mais enfin...\
+<b>ALCESTE.</b>\
+Je verrai, dans cette plaiderie,\
+Si les hommes auront assez d'effronterie,\
+Seront assez méchants, scélérats et pervers,\
+Pour me faire injustice aux yeux de l'univers.&emsp; \(200)\
+<b>PHILINTE.</b>\
+Quel homme !\
+<b>ALCESTE.</b>\
+Je voudrais, m'en coutât-il grand'chose,\
+Pour la beauté du fait avoir perdu ma cause.\
+<b>PHILINTE.</b>\
+On se rirait de vous, Alceste, tout de bon,\
+Si l'on vous entendait parler de la façon.&emsp; \(205)\
+<b>ALCESTE.</b>\
+Tant pis pour qui rirait.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 196-206)</span><br/>
+
+:::
+
+::::
+
+</div>
+
+### Représentation de la cour
+
+La pièce pourrait renvoyer au fait divers concernant le surintendant des finances, Nicolas Fouquet, qui aurait cumulé plus de richesses que le roi, et pour cette raison en 1661, il a été incarcéré. Pourtant, il paraît improbable qu'elle ait voulu faire cette référence directe, pour sa nécessité de la pension royale. Au contraire, on pourrait bien imaginer que Molière ne se serait pas posé les mêmes soucis. Donc, la lecture de la pièce de Desjardins, serait plutôt à faire dans les termes d'éloge du roi, de la fidélité et obéissance qu'on doit avoir envers lui.
+
+L'écriture de la pièce se fait la même année de l'inauguration de Versailles, et elle met en scène la cour de Louis XIV, avec Elvire et Clotaire qui représentent les nouveaux courtisans.
+
+Elvire représente l'amour pour soi-même, «le premier amour est l'amour de soi-même» (III, 4,v. 750), la cour et la joie, tout en répudiant les valeurs de la génération précédente. En reconnaissant dans la cour l'endroit qui pourrait donner de la joie.
+
+Clotaire, roi détrôné, est courtisan lui aussi, cour à laquelle il s'intègre comme "caméléon de cour" (v. 720). Lors du dénouement, il est humilié. 
+
+Moncade est le héros de la pièce et il représente les valeurs héroïques du passé. Bien que ses gestes devraient lui assurer de la stabilité à la cour, le comportement du roi, et la mise en scène de son absolutisme nous montrent que cela n'est pas évident. Nous pourrions le définir en tant que accablé par la situation, défait.
+
+####  Lindamire, femme de la cour
+
+Lindamire représente la contrepartie féminine de Moncade. Elle s'exprime de manière poétique (analogie avec les Innamorati de la Commedia dell'Arte), déjà à travers sa lecture: 
+
+> <b>LINDAMIRE.</b>\
+  Ces champs, ce bois, cette verdure ;\(185)\
+  Les plus farouches animaux,\
+  Les doux oiseaux\
+  Tout aime en la nature.\
+  <b>MONCADE.</b>\
+  Elle lit.\
+  <b>LINDAMIRE.</b>\
+  Puisque l'amour sait enflammer\
+ 	Les objets les plus insensibles,\(190)\
+  Si nos coeurs en sont susceptibles,\
+  Hélas ! Faut-il les en blâmer.\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 4, v. 185-192)</span><br/>
+
+Mais aussi à travers sa réflexion presque philosophique:
+
+> En amour chacun a sa manière,\(221)\
+  Celle d'un favori doit être singulière,\
+  Tous ces pas superflus, tous ces empressements,\
+  Tous ces soins affectés des vulgaires amants,\
+ 	Sont interdits, Seigneur, à ceux de votre espèce,\(225)\
+  L'inutile tribut de leur vaine tendresse,\
+  Leurs pleurs et leurs soupirs, leur assiduité,\
+  Sont proprement les fruits de leur oisiveté.\(228)\
+<span style="float:right; text-align:right; margin-right:10%;">(I, 4, v. 221-228)</span><br/>
+
+La manière de s'exprimer de manière poétique renvoie à cette période lointaine, héroïque, et c'est Lindamire elle-même qui parle de l'héroïsme de Moncade avec Don Alvare.
+
+> 	J'ignorais jusqu'ici que le pouvoir suprême\(625)\
+  Dût asservir un coeur aux droits du Diadème,\
+  Je savais qu'on doit craindre et qu'on doit obéir,\
+  Mais pour la liberté d'aimer et de haïr ;\
+  Je croyais que les Rois la laissaient à nos âmes,\
+ 	Et que l'amour dût seul se mêler de nos flammes ;\(630)\
+  Cette erreur se dissipe, et je commence à voir\
+  Qu'un Roi peut ce qu'il veut, et n'a qu'à tout vouloir :\
+  Toutefois je ne sais s'il perd sans répugnance\
+  Un homme de ce poids, et de cette importance :\
+ 	Son coeur devrait du moins à Moncade un combat,\(635)\
+  Il est depuis dix ans l'appui de cet État ;\
+  Deux fois nous avons vu Barcelone troublée,\
+  Et lui seul raffermir la Couronne ébranlée ;\
+  Tant de fameux exploits parlent en sa faveur,\
+	Tant de fidélité, de respect, de ferveur,\(640)\
+  Ses biens, les voeux publics, son crédit, sa naissance,\
+  Rien n'a porté son coeur à la moindre licence,\
+  Il fut toujours soumis aux ordres de son Roi,\
+  Et de tous ses désirs il se fit une loi ;\
+ 	Se peut-il que ce Prince ait perdu la mémoire\(645)\
+  De tant de grands exploits, de mérite et de gloire.\
+<span style="float:right; text-align:right; margin-right:10%;">(III, 1, v. 625-646)</span><br/>
+
+Ce discours sur la fidélité envers le roi, et sa prouesse qui a rétabli le pouvoir, crée une sorte de parallèle entre Moncade et Roland, chevalier épique de Charlemagne. Une référence analogue se trouve dans la réponse de Lindamire au roi:
+
+> Hé ! Quoi, Seigneur, c'est vous qui l'avez allumé,\(1251)\
+  Ce feu dont malgré moi mon coeur s'est enflammé ;\
+  C'est en mettant Moncade au faîte de la gloire,\
+  En lui faisant gagner victoire sur victoire,\
+ 	En faisant éclater ses exploits glorieux,\(1255)\
+  Que vous l'avez rendu si charmant à mes yeux :\
+  Si vous ne l'eussiez point comblé de votre grâce,\
+  Son extrême douceur, sa foi, son peu d'audace,\
+  Son zèle, et son respect pour votre Majesté,\
+ 	À mes yeux pénétrants auraient moins éclaté :\(1260)\
+  La plus haute vertu sous la fureur succombe,\
+  C'est un penchant glissant où le plus ferme tombe,\
+  Et je l'ai vu porter toute votre faveur,\
+  Sans avoir un moment vu chanceler son coeur ;\
+ 	Je l'ai vu conquérant sans être téméraire,\(1265)\
+  Favori sans orgueil, Courtisan et sincère ;\
+  Vous l'avez connu tel, et vous êtes surpris,\
+  Qu'après cela Moncade ait charmé mes esprits.\
+<span style="float:right; text-align:right; margin-right:10%;">(V, 4, v. 1251-1268)</span><br/>
+
+Ici, nous pourrions retracer un écho à «Galeotto fu 'l libro e chi lo scrisse[^3]» (_Commedia_, _Enfer_ V, v. 137). La typologie d'amour entre Francesca et Paolo est inspiré de l'amour entre Lancelot et Guenièvre. L'amour est donc un sentiment pur et encadré dans un contexte héroïco-épique. Le contexte est celui de la féodalité et des relations avec le Seigneur, à l'occurrence roi, et ces rapports sont respectés dans les relations amoureuses. Dans l'économie de la tragi-comédie, Galeotto n'a pas été le livre, mais le roi lui-même
+
+### Didascalies
+
+Ioana Galleron (2021) dans son travail concernant le balisage des textes théâtraux se penche notamment sur les didascalies internes et élabore une classification des diverses typologies des didascalies. 
+
+| Type | Description | 
+|---------------|-------------------|
+| SPC | Spécification |
+| TMP | Temporel |
+| SET | Environnement |
+| EVT | Non-verbal | 
+| PROX | Proximité | 
+| ATT | Intonation, mimique ou attitude |
+
+<br/>
+<br/>
+
+_Temporel_
+
+Les didascalies temporelles fournissent des informations concernant la temporalité de la pièce.
+
+> Me traite **ce matin** si favorablement
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 3)</span><br/>
+
+> Vous avez oublié qu'il est **un peu matin**
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 8)</span><br/>
+
+> Je vois bien qu'il vous faut laisser seule **aujourd'hui**.
+<span style="float:right; text-align:right; margin-right:10%;">(III, 4, v. 784)</span><br/>
+
+<br/>
+<br/>
+
+_Environnement_
+
+Le temps peut être mis en relation avec le lieu à travers l'environnement, qui peut également décrire le décor. 
+
+> C'est **sur cette terrasse** où loge Lindamire
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 6)</span><br/>
+
+<br/>
+<br/>
+
+_Événement et Proximité_
+
+L'événement et la proximité sont distingués, mais parfois concurrents. Par événement, on désigne les phénomènes non-verbaux, qui impliquent les mouvements et les gestes des personnages, ainsi que le changement du décor. La proximité concerne principalement la position entre les personnages, ou entre un personnage et le décor. 
+
+> Enfin **nous voilà seuls**, cette foule importune
+<span style="float:right; text-align:right; margin-right:10%;">(I, 1, v. 1)</span><br/>
+
+> Seigneur, **voici le Roi**.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 5, v. 260)</span><br/>
+
+> Adieu **je me retire**.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 5, v. 261)</span><br/>
+
+> Je vois bien qu'**il vous faut laisser seule** aujourd'hui.
+<span style="float:right; text-align:right; margin-right:10%;">(III, 4, v. 784)</span><br/>
+
+<br/>
+<br/>
+
+_Attitude et Spécification_
+
+L'attitude peut indiquer la manière de prononcer, la mimique, ou les sentiments des personnages. Cela se trouve en relation, parfois, à la spécification, qui concerne la gestion des tours de parole et à qui on s'adresse. 
+
+> **Seigneur**, voici le Roi.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 5, v. 260)</span><br/>
+
+> Suivons le Roi, **Madame**
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1159)</span><br/>
+
+[^1]: La frise chronologique de la vie et des œuvres de Marie-Catherine-Hortense de Villedieu a été constitué à partir des informations présentées dans Biet, Christian et al., _Le théâtre français du XVIIe siècle histoire, textes choisis, mises en scène_, Paris, Éd. L’avant-scène théâtre, coll. « Anthologie de l’avant-scène théâtre, » 2009, p. ?.
+
+[^2]: "Disgracé" renvoit au sens profond de grâce royal, qui à l'occurence vient à manquer, jusqu'à la toute fin de la pièce.
+
+[^3]: «Pour nous le livre et celui qui l’écrivit fut Galeotto», Alighieri, Dante, _La Divine Comédie_, traduction par Félicité Robert de Lamennais, Flammarion, 1910, p. 19-22, disponible [en ligne](https://fr.wikisource.org/wiki/La_Divine_Com%C3%A9die_(trad._Lamennais)/L%E2%80%99Enfer/Chant_V)
