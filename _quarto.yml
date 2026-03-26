@@ -15,7 +15,7 @@ website:
       - href: corneille.qmd
       - href: moliere.qmd
       - href: poetique.qmd
-      #- href: villedieu.qmd
+      - href: villedieu.qmd
       - href: bibliographie.qmd
       #- href: racine.qmd
       #- href: bernard.qmd
