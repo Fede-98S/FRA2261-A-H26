@@ -1,0 +1,288 @@
+---
+title: "Racine"
+---
+
+# Jean Racine
+
+<iframe src="slides/pres_racine.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_racine.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+### Frise chronologique Molière[^1]
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1622</div>
+      <div class="timeline-info">
+        <h4>Naissance</h4>
+        <p>Jean-Baptiste Poquelin est né à Paris.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1631</div>
+      <div class="timeline-info">
+        <h4>Études</h4>
+        <p>Il études chez les jésuites de Clermont.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1642</div>
+      <div class="timeline-info">
+        <h4>Études de droits</h4>
+        <p>Licence en droit à Orléans.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1643</div>
+      <div class="timeline-info">
+        <h4>Illustre-Théâtre</h4>
+        <p>Création de la troupe avec Madeleine Béjart.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1644</div>
+      <div class="timeline-info">
+        <h4>Pseudonyme de Molière</h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1645</div>
+      <div class="timeline-info">
+        <h4>Faillite</h4>
+        <p>Faillite de l'Illustre-Théâtre, incarcération pendant quelques jours et départ avec sa troupe vers la province.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1646-1658</div>
+      <div class="timeline-info">
+        <h4>Société des cinq auteurs</h4>
+        <p>Société donne une pension à Corneille et lui offre une place dans l'association «&nbsp;Société des cinq auteurs&nbsp;»</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1655</div>
+      <div class="timeline-info">
+        <h4>Voyage au Sud</h4>
+        <p>Protection du duc d'Épernon et après du prince de Conti.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1656</div>
+      <div class="timeline-info">
+        <h4><i>Le Dépit amoureux</i></h4>
+        <p>Joué à Béziers.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1658</div>
+      <div class="timeline-info">
+        <h4>Retour</h4>
+        <p>Il retourne à Paris, et après avoir joué devant le roi, on lui confie le Petit-Bourbon.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1659</div>
+      <div class="timeline-info">     
+        <h4><i>Les Précieuses ridicules</i></h4>
+        <p>Premier succès.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1661</div>
+      <div class="timeline-info">      
+        <h4></h4>
+        <p>La troupe s'installe au Palais-Royal.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1662</div>
+      <div class="timeline-info">      
+        <h4></h4>
+        <p>Épouse Armande Béjart et <i>L'École des femmes</i>.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1665</div>
+      <div class="timeline-info">      
+        <h4><i>Dom Jouan</i></h4>
+        <p>La troupe prend le nom de «&nbsp;troupe du roi&nbsp;».</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1666</div>
+      <div class="timeline-info">      
+        <h4><i>Le Misanthrope</i></h4>        
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1667</div>
+      <div class="timeline-info">      
+        <h4></h4>
+        <p>Maladie et mise en pause comme acteur&nbsp;; séparation de Armande&nbsp;; <i>Tartuffe</i> représente avec le titre de <i>L'Imposteur</i>, interdit le lendemain.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1668</div>
+      <div class="timeline-info">      
+        <h4><i>Amphitryon</i>, <i>George Dandin</i>, <i>L'Avare</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1669</div>
+      <div class="timeline-info">   
+        <h4><i>Tartuffe</i></h4>
+        <p>3<sup>e</sup> version succès.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1670-1671-1672</div>
+      <div class="timeline-info">      
+        <h4><i>Le Bourgeois gentilhomme</i>, <i>Les Furberies de Scapin</i>, <i>Les Femmes savantes</i></h4>
+      </div>
+    </div>    
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1673</div>
+      <div class="timeline-info">    
+        <h4><i>Le Malade imaginaire</i> </h4>  
+        <p><i>Le Malade imaginaire</i> et mort lors de la 4<sup>e</sup> représentation</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleInfo(el) {
+  // Close all open info boxes
+  document.querySelectorAll('.timeline-item.active').forEach(item => {
+    item.classList.remove('active');
+  });
+  // Toggle clicked item
+  el.classList.add('active');
+}
+
+</script>
+```
+
+## Structurer une pièce 
+
+Racine ne part pas de rien : il s'inspire de sources antiques (mythologie grecque et latine) et les réorganise pour créer une intrigue tragique parfaite. Pour comprendre son travail, on utilise trois concepts rhétoriques classiques :
+
+- inventio / invention
+- dispositio / disposition
+- elocutio / élocution
+
+La première étape est l'invention : il s'agit de trouver un sujet capable de susciter des émotions chez le spectateur. Racine ne crée pas ex nihilo, il puise dans la mythologie grecque et latine, reprenant l'histoire de Phèdre, d'Hippolyte et de Thésée. 
+
+La deuxième étape, la disposition, est la plus importante aux yeux de Racine : c'est tout le travail d'organisation et de transformation de ce matériau brut en une intrigue tragique cohérente : choisir quelles actions retenir, les hiérarchiser, les lier entre elles acte par acte, scène par scène.
+
+Enfin, pour ce qui concerne l'élocution, pour Jean Racine, on sait qu'il la considère en tant que secondaire dans l'acte créatif. En effet, dans ses _Mémoires_ rédigé par son fils Louis Racine, il nous est témoigné le fait que Racine travaille l'intrigue, les rapports parmi les personnages, tout en prose, et seulement à la fin, il met en alexandrin. 
+
+> Quand il entreprenait une Tragédie, il disposait chaque Acte en prose. Quand il avait ainsi lié toutes les scènes entre elles, il disait : Ma Tragédie est faite, comptant le reste pour rien.
+
+Louis Racine, p. 1148
+
+### L'exposition (I)
+
+Le premier acte, comme on l'a déjà pu constater, présente aux spectateurs les éléments nécessaires : le temps, le lieu, la situation et les relations des personnages.
+
+Pour fournir ces informations, nous avons plusieurs types de procédé : prologue, monologue et dialogue. Le prologue était plus utilisé avant, mais il est pratiquement abandonné à l'époque classique, parce qu'il est considéré en tant que contrevenant les unités de la pièce. Le monologue, qu'on retrouve par exemple chez _Cinna_ de Corneille, est considéré comme peu vraisemblable. Et finalement, le dialogue, normalement entre un confident/valet et le personnage principal, qui représente la solution choisie par Racine, qui la retient la plus naturelle.
+
+Dans le premier acte, nous avons une double configuration de l'exposition, avec une séparation par sexe et concernant les deux protagonistes de la pièce. Dans la première scène, nous avons la confession d'Hippolyte à son confident Théramène, en lui disant qu'il est amoureux d'une fille, mais qu'il veut partir. Dans la troisième scène, c'est le tour de Phèdre et sa nourrice Œnone, à laquelle elle aveu son amour pour Hippolyte et son souhaite de mourir. Les deux scènes ont la même structure, instaurant un parallèle : on déclare son amour, on se sent coupable, et prise de décision du héros, d'une part de s'en aller et d'autre part de mourir.
+
+Dès la troisième scène, il se dessine la chaîne des amours qui ne sont pas correspondu, ils sont unidirectionnels, constituant le principe fondamental de la tragédie racinienne. 
+
+Thésée -> Phèdre -> Hippolyte -> Aricie
+
+Ce cadre des amours repose sur deux différents obstacles. D'une part, l'obstacle externe, qui s'oppose à l'amour entre Hippolyte et Aricie, et à celui de Phèdre pour Hippolyte. D'autre part, la conscience interne, la vertu chez Hippolyte et la culpabilité chez Phèdre. Ces derniers enjeux nous témoigne la profondeur psychologique voulue par Racine.
+
+Pourtant, à la quatrième scène, on découvre la mort de Thésée, alors Œnone pousse Phèdre vers Hippolyte.
+
+### Les conséquences de la mort supposée (II)
+
+**Question trhone vacant - pas sur?!**
+
+Au deuxième acte, nous sommes à nouveau face à un parallélisme amoureux. La scène 2 avec la déclaration d'amour entre Hippolyte et Aricie, sentiment mutuel. Et à la scène 5, avec Phèdre qui déclare son amour à Hippolyte, mais sentiment interdit. En plus, cette dernière scène et la seule mettant en scène à la fois Phèdre et Hippolyte, qui autrement ne partagent jamais l'espace scénique.
+
+Cela représente une symétrie interne à l'acte, mais nous retrouvons une symétrie externe, entre la première scène du premier acte et du deuxième, avec Aricie et sa confidente, Ismène. Aricie constitue, donc, un double féminin d'Hippolyte. 
+
+Le deuxième acte est aussi divisé en deux parties, la première (scènes 1-4) avec les amours partagés entre Hippolyte et Aricie, et la deuxième (scène 5 et suivantes) avec l'amour solitaire de Phèdre. La scène 5 devient fondamentale du point de vue d'objet scénique, parce que Phèdre, après sa déclaration, s'empare de l'épée d'Hippolyte en menaçant de se suicider. Œnone empêche ce geste dramatique, et elle utilisera l'épée d'Hippolyte comme fausse preuve contre lui.
+
+### La péripétie : le retour de Thésée (III)
+
+> (Du grec peripeteia, retournement imprévu.) Angl. : peripetia, peripeteia ; All. : Peripetie ; Esp. : peripecia.
+Changement soudain et imprévu de situation, retournement* ou « renversement de l’action » (Aristote).\
+Au sens technique du terme, la péripétie se situe au moment où le destin du héros prend une tournure inattendue. C’est, selon Aristote, le passage du bonheur au malheur ou inversement. Pour Freytag, c’est « le moment tragique qui par suite d’un événement imprévu bien que vraisemblable dans le contexte de l’action antérieurement exposée, infléchit la quête du héros et l’action principale dans une nouvelle direction » (1857).\
+Au sens moderne, la péripétie n’est plus liée au seul moment tragique de la pièce ; elle désigne soit les hauts et les bas de l’action (« un voyage avec beaucoup de péripéties »), soit l’épisode faisant suite au moment fort de l’action (« le reste n’a plus été qu’une péripétie »).
+<span style="float:right; text-align:right;">Patrice Pavis, «&nbsp;Péripétie&nbsp;», dans _Dictionnaire de théâtre_, 2019, [en ligne](https://shs.cairn.info/dictionnaire-du-theatre--9782200623340-page-375?lang=fr).</span><br/>
+
+Donc, la péripétie est un événement extérieur imprévu qui bouleverse la situation. Par définition, elle est surprenante, le spectateur ne doit pas s'y attendre, et elle doit être vraisemblable, dans le sens qu'on peut l'expliquer après coup.
+
+La péripétie annoncée déjà à la fin du deuxième acte par Théramène:
+
+> Cependant un bruit sourd veut que le Roi respire.\
+730 On prétend que Thésée a paru dans l'Épire.
+
+Qui pourtant se réalise au troisième acte, au vers 827, le centre exact de la pièce, contant elle 1654 vers. 
+
+> Le roi, qu'on a cru mort, va paraître à vos yeux
+
+Ici, Œnone annonce l'arrivée sur scène de Thésée qui nous démontre son effectif retour. Ce moment crée une scission dans la pièce qui présente deux caractères différents.
+La première moitié, avec une progression lente et graduelle, avec cinq scènes d'aveux et mettant en scène une montée du désir. La deuxième moitié a un rythme plus accéléré, elle présente une urgence et des décisions forcées, jusqu'au retour brutal à la Loi. 
+
+La découverte de la présence de Thésée engendre des conséquences immédiates : Phèdre s'abandonne à nouveau à Œnone, "Fais ce que tu voudras, je m'abandonne à toi", et son aveuglement s'amplifie percevant Hippolyte comme un monstre, alors que le monstre, c'est elle ; Hippolyte déclare à Thésée vouloir fuir les lieux et réaffirme son amour pour Aricie.
+
+### L'apogée des tensions (IV)
+
+Le troisième acte est caractérisé par trois actions capitales : la calomnie d'Œnone sur Hippolyte auprès de Thésée (scène 1), la malédiction d'Hippolyte de la part de Thésée (scène 2), à travers l'invocation du dieu Neptune, et la rupture du contrat, avec la volonté de Phèdre de confesser la vérité. Le moment crucial est à la quatrième scène, quand Phèdre se rend devant Thésée, prête à tout confesser, mais elle apprend qu'Hippolyte est amoureux d'Aricie, alors elle se tait par jalousie. La vérité n'est jamais dite au bon moment, il suffirait un mot, mais personne ne le prononce.
+ 
+La structure du troisième et quatrième acte constitue un diptyque inversé, avec Phèdre protagoniste de la première moitié du III acte et Thésée de la deuxième ; alors que dans le IV, la première partie est occupée par Thésée et la deuxième par Phèdre.
+
+### Le dénouement (V)
+
+Le tout dernier acte met en scène la mort d'Hippolyte qui pourtant se situe dans le hors scène. Comme nous avons déjà vu à plusieurs reprises, cela est motivé par le respect de la bienséance, car il ne faut pas choquer le public avec une mort violente (démembrement) ; mais aussi pour des raisons techniques, c'est difficile à représenter une telle mort sur scène de façon crédible. Le stratagème est plutôt discursif, à travers un long récit de Théramène à la sixième scène, qui constitue un véritable morceau de bravoure stylistique. L'Hypotypose, figure qui crée des images mentales saisissantes par la force du discours, est utilisée de manière massive. Dans la dernière scène, Phèdre avoue tout à Thésée en reconnaissant l'innocence d'Hippolyte. 
+
+## Humains et dieux
+
+### La double causalité tragique
+
+L'une des questions centrales de Phèdre est la suivante : qui est vraiment responsable du malheur ? Racine construit une réponse délibérément ambiguë, en superposant deux logiques qui coexistent sans se contredire.
+
+D'un côté, les dieux sont présentés comme des forces actives et écrasantes. Phèdre est la petite-fille du Soleil et la fille de Minos — elle est littéralement née dans le monde des dieux. Son amour pour Hippolyte n'est pas un simple caprice : c'est une malédiction envoyée par Vénus qui s'acharne sur toute la lignée de Phèdre. Dans ce cadre, Phèdre est une victime. Elle n'a pas choisi cet amour, il lui a été imposé de l'extérieur, comme une maladie ou une possession. C'est la logique de la tragédie grecque antique, où les héros sont souvent les jouets des dieux.
+
+De l'autre côté, Racine — écrivain du XVIIe siècle profondément marqué par le jansénisme — introduit une dimension de responsabilité morale. Phèdre sait que son amour est interdit. Elle choisit à plusieurs reprises de ne pas dire la vérité, de déléguer sa responsabilité à Œnone, de se laisser emporter par la jalousie au moment crucial où elle aurait pu sauver Hippolyte. Ce sont ses décisions humaines qui précipitent la catastrophe, pas uniquement la volonté divine.
+
+### Phèdre entre victime et coupable
+
+Cette tension fait toute la richesse morale du personnage. Phèdre est à la fois :
+
+- Victime des dieux, qui lui ont infligé une passion qu'elle n'a pas voulue
+- Coupable de ne pas avoir résisté, d'avoir laissé Œnone agir, de s'être tue par jalousie
+
+Racine lui-même insiste sur ce point dans sa préface : Phèdre n'est "ni tout à fait coupable, ni tout à fait innocente". C'est précisément cette position intermédiaire qui en fait un personnage tragique au sens plein du terme — si elle était entièrement victime, il n'y aurait pas de faute ; si elle était entièrement coupable, il n'y aurait pas de pitié.
+
+### Un équilibre entre l'Antiquité et la modernité
+
+Racine réalise donc un équilibre subtil entre deux visions du monde. Il conserve le fatalisme antique — les dieux existent, ils agissent, ils brisent les hommes — mais il y greffe une conscience morale chrétienne héritée du jansénisme, selon laquelle l'être humain reste responsable de ses choix, même face aux forces qui le dépassent. Phèdre peut accuser Vénus, mais elle sait, au fond, qu'elle aurait pu agir autrement. C'est d'ailleurs pourquoi elle choisit de tout avouer à la fin : non pour se disculper, mais pour rétablir la vérité et reconnaître sa faute. Ce dernier acte de lucidité est à la fois sa condamnation et sa rédemption.

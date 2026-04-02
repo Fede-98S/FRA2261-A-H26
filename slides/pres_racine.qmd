@@ -1,0 +1,297 @@
+---
+title: "_Phèdre et Hippolyte_: la femme et l'étude de la cour"
+subtitle: "Marie-Catherine-Hortense de Villedieu (Desjardins)"
+data: 26 - 03 - 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+## Plan
+
+## Structurer une pièce
+
+| Étape | Définition | Phèdre |
+|-----------|--------|------------|
+| Inventio | Sujet à émotions | Mythologie (Phèdre, Hippolyte, Thésée) |
+| Dispositio | Organisation intrigue | Construction actes et liens personnages |
+| Elocutio | Style | Pour Racine secondaire |
+
+## L'exposition (I)
+<br/>
+<br/>
+
+Présentation de la situation: lieu, temps, relations des personnages.
+
+- Prologue -> rare à l'époque classique
+<br/>
+<br/>
+
+- Monologue -> _Cinna_ de Corneille
+<br/>
+<br/>
+
+- Dialogue -> Racine
+
+## L'exposition (I)
+
+::::{.columns}
+
+:::{.column}
+
+Scène 1:
+<br/>
+<br/>
+
+- Hippolyte confesse son amour à Théramène
+
+- coupabilité
+
+- Hippolyte veut partir
+
+:::
+
+:::{.column}
+
+Scène 3:
+<br/>
+<br/>
+
+- Phèdre déclare son amour à Œnone
+
+- coupabilité
+
+- Phèdre veut mourir
+
+:::
+
+::::
+<br/>
+<br/>
+
+Thésée -> Phèdre -> Hippolyte -> Aricie || Obstacles: externes (I, 4) et internes
+
+## Les conséquences de la mort supposée (II)
+
+::::{.columns}
+
+:::{.column}
+
+Scène 2:
+
+- Hippolyte se déclare à Aricie (mutuel)
+<br/>
+<br/>
+
+Scène 1 - Acte 1
+
+- Hippolyte et Théramène
+<br/>
+<br/>
+
+Scènes 1-4
+
+- Amour partagée (Hippolyte et Aricie
+)
+:::
+
+:::{.column}
+
+Scène 5:
+
+- Phèdre se déclare à Hippolyte (interdit et solitaire)
+<br/>
+<br/>
+
+Scène 1 - Acte 2
+
+- Aricie et Ismène
+<br/>
+<br/>
+
+Scène 5
+
+- Amour solitaire (Phèdre)
+
+:::
+
+::::
+
+## La péripétie : le retour de Thésée (III)
+
+> (Du grec peripeteia, retournement imprévu.) Angl. : peripetia, peripeteia ; All. : Peripetie ; Esp. : peripecia.
+Changement soudain et imprévu de situation, retournement* ou « renversement de l’action » (Aristote).\
+Au sens technique du terme, la péripétie se situe au moment où le destin du héros prend une tournure inattendue. C’est, selon Aristote, le passage du bonheur au malheur ou inversement. Pour Freytag, c’est « le moment tragique qui par suite d’un événement imprévu bien que vraisemblable dans le contexte de l’action antérieurement exposée, infléchit la quête du héros et l’action principale dans une nouvelle direction » (1857).\
+Au sens moderne, la péripétie n’est plus liée au seul moment tragique de la pièce ; elle désigne soit les hauts et les bas de l’action (« un voyage avec beaucoup de péripéties »), soit l’épisode faisant suite au moment fort de l’action (« le reste n’a plus été qu’une péripétie »).
+<span style="float:right; text-align:right;">Patrice Pavis, «&nbsp;Péripétie&nbsp;», dans _Dictionnaire de théâtre_, 2019, [en ligne](https://shs.cairn.info/dictionnaire-du-theatre--9782200623340-page-375?lang=fr).</span><br/>
+
+## La péripétie : le retour de Thésée (III)
+<br/>
+<br/>
+
+> Cependant un bruit sourd veut que le Roi respire./
+730 On prétend que Thésée a paru dans l'Épire.
+<br/>
+<br/>
+
+> Le roi, qu'on a cru mort, va paraître à vos yeux
+
+Plein milieu de la pièce (1654 vers) 
+
+## La péripétie : le retour de Thésée (III)
+
+::::{.columns}
+
+:::{.column}
+
+Première moitié (I-III) :
+<br/>
+<br/>
+
+- Progression lente et graduelle
+
+- 5 scènes d'aveux en gradation
+
+- montée du désir
+
+:::
+
+:::{.column}
+
+Scène 5 :
+<br/>
+<br/>
+
+- Rythme accéléré 
+
+- Urgence et décision forcées
+
+- Retour brutal de la Loi
+
+:::
+
+::::
+
+## La péripétie : le retour de Thésée (III)
+
+Conséquences :
+
+- Phèdre s'abandonne à Œnone et elle perçoit Hippolyte comme un monstre, mais inverse. 
+
+> Fais ce que tu voudras, je m'abandonne à toi
+
+- Hippolyte déclare son amour pour Aricie à Thésée et il décide de s'en fuir avec elle.
+
+## L'apogée des tensions (IV)
+<br/>
+<br/>
+
+Trois actions capitales
+<br/>
+
+- Scène 1 : Œnone calomnie Hippolyte auprès de Thésée
+
+- Scène 2 : Thésée lance sa malédiction sur son fils (invoque Neptune)
+
+- Rupture du contrat : Phèdre veut prendre son destin en main et avouer la vérité à Thésée
+
+## L'apogée des tensions (IV)
+
+Apogée à la scène 4
+
+- Phèdre, prête à confesser la vérité à Thésée, se tait en découvrant l'amour d'Hippolyte pour Aricie. 
+
+L'acte IV et l'acte III en diptyque inverse
+
+::::{.columns}
+
+:::{.column}
+
+Acte III
+<br/>
+<br/>
+
+1. Phèdre
+
+2. Thésèe
+
+:::
+
+:::{.column}
+
+IV Acte
+<br/>
+<br/>
+
+1. Thésée 
+
+2. Phèdre
+
+:::
+
+::::
+
+## Le dénouement (V)
+<br/>
+<br/>
+
+La mort d'Hippolyte hors scène :
+
+- bienséance
+- raisons techniques
+<br/>
+<br/>
+
+Scène 6 : Théramène et le récit de la mort d'Hippolyte (hypotypose).
+<br/>
+<br/>
+
+Dernière scène : Phèdre confesses la vérité, face à la reconnaissance de la vérité. 
+
+# Humains et dieux
+
+## Humains et dieux : La double causalité tragique
+<br/>
+<br/>
+
+Qui est responsable du malheur de Phèdre ? 
+<br/>
+<br/>
+
+- Amour imposé par Vénus
+
+- Les décisions humaines au centre (jansénisme)
+
+## Humains et dieux : Phèdre entre victime et coupable
+<br/>
+<br/>
+
+Tension morale entre :
+
+- Victime
+
+- Coupable
+<br/>
+<br/>
+
+C'est là le tragique de Phèdre. 
+
+## Humains et dieux : Un équilibre entre l'Antiquité et la modernité
+<br/>
+<br/>
+
+- Conservation fatalisme antiquité
+<br/>
+<br/>
+
+- Conscience morale chrétienne
+<br/>
+<br/>
+
+- Elle confesse pour rétablir la vérité. 

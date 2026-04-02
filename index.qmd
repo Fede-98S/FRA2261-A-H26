@@ -46,6 +46,6 @@ VILLEDIEU, Marie-Catherine-Hortense de, [_Le favori_](https://theatre-classique.
 
 # Évaluation
 
-- [ ] 1 examen de mi-session&nbsp;: 40% (à rédiger en classe, 26 février)
+- [X] 1 examen de mi-session&nbsp;: 40% (à rédiger en classe, 26 février)
 
 - [ ] 1 travail de fin de session&nbsp;: 60%, **à remettre avant midi (12h) du 23 avril sur Studium et événtuellement en format papier dans la salle 8041 (Labo écritures numériques)**
