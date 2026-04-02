@@ -223,6 +223,8 @@ function toggleInfo(el) {
 </script>
 ```
 
+# _Phèdre et Hippolyte_: de la structure à la religion
+
 ## Structurer une pièce 
 
 Racine ne part pas de rien : il s'inspire de sources antiques (mythologie grecque et latine) et les réorganise pour créer une intrigue tragique parfaite. Pour comprendre son travail, on utilise trois concepts rhétoriques classiques :

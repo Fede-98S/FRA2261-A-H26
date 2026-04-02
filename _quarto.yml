@@ -16,8 +16,8 @@ website:
       - href: moliere.qmd
       - href: poetique.qmd
       - href: villedieu.qmd
-      - href: bibliographie.qmd
       - href: racine.qmd
+      - href: bibliographie.qmd
       #- href: bernard.qmd
       
       

@@ -1,7 +1,7 @@
 ---
-title: "_Phèdre et Hippolyte_: la femme et l'étude de la cour"
-subtitle: "Marie-Catherine-Hortense de Villedieu (Desjardins)"
-data: 26 - 03 - 2026
+title: "_Phèdre et Hippolyte_: de la structure à la religion"
+subtitle: "Jean Racine"
+data: 02 - 04 - 2026
 format:
   revealjs: 
     slide-number: true
@@ -14,6 +14,17 @@ format:
 ---
 
 ## Plan
+
+- Structurer une pièce
+  + L'exposition (I)
+  + Les conséquences de la mort supposée (II)
+  + La péripétie : le retour de Thésée (III)
+  + L’apogée des tensions (IV)
+  + Le dénouement (V) 
+- Humains et dieux
+  + La double causalité tragique
+  + Phèdre entre victime et coupable
+  + Un équilibre entre l’Antiquité et la modernité
 
 ## Structurer une pièce
 
