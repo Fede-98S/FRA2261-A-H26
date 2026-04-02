@@ -17,7 +17,7 @@ website:
       - href: poetique.qmd
       - href: villedieu.qmd
       - href: bibliographie.qmd
-      #- href: racine.qmd
+      - href: racine.qmd
       #- href: bernard.qmd
       
       

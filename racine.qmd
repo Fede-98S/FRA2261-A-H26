@@ -9,165 +9,202 @@ title: "Racine"
 </iframe>
 <figcaption><a href="slides/pres_racine.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
 
-### Frise chronologique Molière[^1]
+### Frise chronologique Racine[^1]
+
 
 ```{=html}
 <div class="timeline-fixed">
   <div class="timeline">
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1622</div>
+      <div class="timeline-date">1639</div>
       <div class="timeline-info">
-        <h4>Naissance</h4>
-        <p>Jean-Baptiste Poquelin est né à Paris.</p>
+        <h4>Baptême</h4>
+        <p>À la Ferté-Milon, Champagne.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1631</div>
+      <div class="timeline-date">1641-1643</div>
       <div class="timeline-info">
-        <h4>Études</h4>
-        <p>Il études chez les jésuites de Clermont.</p>
+        <h4>Mort parents</h4>
+        <p>Mort de son père, puis de sa mère.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1642</div>
+      <div class="timeline-date">1649-1655</div>
       <div class="timeline-info">
-        <h4>Études de droits</h4>
-        <p>Licence en droit à Orléans.</p>
+        <h4>École</h4>
+        <p>"Petites écoles" des jansénistes, puis collège de Beauvais.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1643</div>
+      <div class="timeline-date">1655-1658</div>
       <div class="timeline-info">
-        <h4>Illustre-Théâtre</h4>
-        <p>Création de la troupe avec Madeleine Béjart.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1644</div>
-      <div class="timeline-info">
-        <h4>Pseudonyme de Molière</h4>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1645</div>
-      <div class="timeline-info">
-        <h4>Faillite</h4>
-        <p>Faillite de l'Illustre-Théâtre, incarcération pendant quelques jours et départ avec sa troupe vers la province.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1646-1658</div>
-      <div class="timeline-info">
-        <h4>Société des cinq auteurs</h4>
-        <p>Société donne une pension à Corneille et lui offre une place dans l'association «&nbsp;Société des cinq auteurs&nbsp;»</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1655</div>
-      <div class="timeline-info">
-        <h4>Voyage au Sud</h4>
-        <p>Protection du duc d'Épernon et après du prince de Conti.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1656</div>
-      <div class="timeline-info">
-        <h4><i>Le Dépit amoureux</i></h4>
-        <p>Joué à Béziers.</p>
-      </div>
-    </div>
-    <div class="timeline-item" onclick="toggleInfo(this)">
-      <div class="timeline-dot"></div>
-      <div class="timeline-date">1658</div>
-      <div class="timeline-info">
-        <h4>Retour</h4>
-        <p>Il retourne à Paris, et après avoir joué devant le roi, on lui confie le Petit-Bourbon.</p>
+        <h4>Port-Royal</h4>
+        <p>Retour à Port-Royal où il s'était installé avec sa grand-mère en 1649.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1659</div>
-      <div class="timeline-info">     
-        <h4><i>Les Précieuses ridicules</i></h4>
-        <p>Premier succès.</p>
+      <div class="timeline-info">
+        <h4>À Paris pour étudier philosophie, contact avec le monde et amitié avec La Fontaine.</h4>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1661</div>
-      <div class="timeline-info">      
-        <h4></h4>
-        <p>La troupe s'installe au Palais-Royal.</p>
+      <div class="timeline-date">1660</div>
+      <div class="timeline-info">
+        <h4><i>La Nymphe de la Seine</i></h4>
+        <p>Sonnet pour la reine.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1662</div>
-      <div class="timeline-info">      
-        <h4></h4>
-        <p>Épouse Armande Béjart et <i>L'École des femmes</i>.</p>
+      <div class="timeline-date">1663</div>
+      <div class="timeline-info">
+        <h4>Odes</h4>
+        <p><i>La Convalescence du roi</i>, <i>La Renommée des muses</i></p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1664</div>
+      <div class="timeline-info">
+        <h4><i>La Thébaïde ou les Fréres ennemis</i></h4>
+        <p>Première représentation par la troupe de Molière.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1665</div>
-      <div class="timeline-info">      
-        <h4><i>Dom Jouan</i></h4>
-        <p>La troupe prend le nom de «&nbsp;troupe du roi&nbsp;».</p>
+      <div class="timeline-info">
+        <h4><i>Alexandre le Grand</i></h4>
+        <p>Avant pour la troupe de Molière, puis pour l'Hôtel de Bourgogne.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1666</div>
-      <div class="timeline-info">      
-        <h4><i>Le Misanthrope</i></h4>        
+      <div class="timeline-info">
+        <h4>Rupture Port-Royal</h4>
+        <p>Port-Royal n'aime pas la carrière théâtrale et mondaine de l'ancien pensionnaire.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1667</div>
-      <div class="timeline-info">      
-        <h4></h4>
-        <p>Maladie et mise en pause comme acteur&nbsp;; séparation de Armande&nbsp;; <i>Tartuffe</i> représente avec le titre de <i>L'Imposteur</i>, interdit le lendemain.</p>
+      <div class="timeline-info">     
+        <h4><i>Andromaque</i></h4>
+        <p>Crée pour la Du Parc.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1668</div>
       <div class="timeline-info">      
-        <h4><i>Amphitryon</i>, <i>George Dandin</i>, <i>L'Avare</i></h4>
+        <h4><i>Les Plaideurs</i></h4>
+        <p>Seule comédie de Jean Racine. Mort de la Du Parc.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
       <div class="timeline-date">1669</div>
-      <div class="timeline-info">   
-        <h4><i>Tartuffe</i></h4>
-        <p>3<sup>e</sup> version succès.</p>
+      <div class="timeline-info">      
+        <h4><i>Britannicus</i></h4>
+        <p>Joué par la Champmeslé.</p>
       </div>
     </div>
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1670-1671-1672</div>
+      <div class="timeline-date">1670</div>
       <div class="timeline-info">      
-        <h4><i>Le Bourgeois gentilhomme</i>, <i>Les Furberies de Scapin</i>, <i>Les Femmes savantes</i></h4>
+        <h4><i>Bérénice</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1672</div>
+      <div class="timeline-info">      
+        <h4><i>Bajazet</i></h4>        
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1673</div>
+      <div class="timeline-info">      
+        <h4><i>Mithridate</i></h4>
+        <p>Il est reçu à l'Académie française, et il a la protection de Condé, Madame de Montespan et de Colbert.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1674</div>
+      <div class="timeline-info">      
+        <h4><i>Iphigénie</i></h4>
+        <p>Et amitié avec Boileau.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1677</div>
+      <div class="timeline-info">   
+        <h4><i>Phèdre</i></h4>
+        <p>Mariage avec Catherine Romanet, et nommination en tant qu'historiographe avec Boileau.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1679</div>
+      <div class="timeline-info">      
+        <p>Il s'éloigne du théâtre et s'approche de Port-Royal.</p>
       </div>
     </div>    
     <div class="timeline-item" onclick="toggleInfo(this)">
       <div class="timeline-dot"></div>
-      <div class="timeline-date">1673</div>
+      <div class="timeline-date">1689</div>
       <div class="timeline-info">    
-        <h4><i>Le Malade imaginaire</i> </h4>  
-        <p><i>Le Malade imaginaire</i> et mort lors de la 4<sup>e</sup> représentation</p>
+        <h4><i>Esther</i></h4>  
+        <p>Suite à la commande de Madame de Maintenon pour les "demoiselles de Saint-Cyr".</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1690</div>
+      <div class="timeline-info"> 
+        <p>Nommé gentilhomme ordinaire de la chambre du roi.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1691</div>
+      <div class="timeline-info">    
+        <h4><i>Athalie</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1693-1698</div>
+      <div class="timeline-info">      
+        <p>Vie édifiante avec ses enfants dans l'entourage du roi, et proche des jansénistes.</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1698</div>
+      <div class="timeline-info">    
+        <h4><i>Abrégé de l'histoire de Port-Royal</i></h4>  
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">21 avril 1699</div>
+      <div class="timeline-info">    
+        <h4>Mort</h4>  
+        <p>Il meurt à Paris et est enterré à Port-Royal.</p>
       </div>
     </div>
   </div>
@@ -286,3 +323,5 @@ Racine lui-même insiste sur ce point dans sa préface : Phèdre n'est "ni tout 
 ### Un équilibre entre l'Antiquité et la modernité
 
 Racine réalise donc un équilibre subtil entre deux visions du monde. Il conserve le fatalisme antique — les dieux existent, ils agissent, ils brisent les hommes — mais il y greffe une conscience morale chrétienne héritée du jansénisme, selon laquelle l'être humain reste responsable de ses choix, même face aux forces qui le dépassent. Phèdre peut accuser Vénus, mais elle sait, au fond, qu'elle aurait pu agir autrement. C'est d'ailleurs pourquoi elle choisit de tout avouer à la fin : non pour se disculper, mais pour rétablir la vérité et reconnaître sa faute. Ce dernier acte de lucidité est à la fois sa condamnation et sa rédemption.
+
+[^1]: La frise chronologique de la vie et des œuvres de Jean Racine a été constitué à partir des informations présentées dans Daniel Bergez et al., «&nbsp;Racine (1639-1699)&nbsp;», _Précis de littérature française_, vol. 6, Armand Colin, 2023, p. 191‑197, [en ligne](https://shs.cairn.info/precis-de-litterature-francaise--9782200635695-page-191?lang=fr).
