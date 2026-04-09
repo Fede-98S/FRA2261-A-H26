@@ -1,0 +1,381 @@
+---
+title: "Bernard"
+---
+
+# Catherine Bernard
+
+<iframe src="slides/pres_bernard.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_bernard.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+### Frise chronologique Bernard[^1]
+
+```{=html}
+<div class="timeline-fixed">
+  <div class="timeline">
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1662</div>
+      <div class="timeline-info">
+        <h4>Naissance</h4>
+        <p>Faimille protestante de Rouen</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1682</div>
+      <div class="timeline-info">
+        <h4>Édit de Nantes</h4>
+        <p>Peu avant l'édit, sur la vingtaine elle est à Paris et se convertie au catholicisme</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date"></div>
+      <div class="timeline-info">
+        <h4></h4>
+        <p>Premières œuvres romans</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1687</div>
+      <div class="timeline-info">
+        <h4></h4>
+        <p>Elle a succès avec poèsie, nouvelles et ses deux tragédies</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1689</div>
+      <div class="timeline-info">
+        <h4><i>Laodamie</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1690</div>
+      <div class="timeline-info">
+        <h4><i>Brutus</i></h4>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1698</div>
+      <div class="timeline-info">
+        <h4>Cesse d'écrire</h4>
+        <p>Influence probable des dévots</p>
+      </div>
+    </div>
+    <div class="timeline-item" onclick="toggleInfo(this)">
+      <div class="timeline-dot"></div>
+      <div class="timeline-date">1712</div>
+      <div class="timeline-info">
+        <h4>Mort</h4>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+function toggleInfo(el) {
+  // Close all open info boxes
+  document.querySelectorAll('.timeline-item.active').forEach(item => {
+    item.classList.remove('active');
+  });
+  // Toggle clicked item
+  el.classList.add('active');
+}
+
+</script>
+```
+
+# _Brutus_: « Que vous m'êtes cruels Père, Rome, Patrie&nbsp;![^2] »
+
+## _Brutus_ et ses sources
+
+En portant à la scène, en 1690, les événements de 509 av. J.-C., le renversement de la royauté des Tarquins et la fondation de la République romaine, Catherine Bernard ne propose pas une simple reconstitution historique. Elle s'inscrit dans une longue tradition de réécritures du mythe de Brutus, tout en s'en distinguant de manière significative. Le premier geste de cette distinction est visible dès le titre&nbsp;: là où son prédécesseur Claude Boyer intitulait sa pièce _La Mort des enfants de Brute_ (1648), concentrant ainsi le drame sur les victimes du sacrifice républicain, Bernard choisit sobrement _Brutus_. Ce glissement déplace l'agence dramatique&nbsp;: l'enjeu n'est plus le sort des fils condamnés, mais le coût intérieur du sacrifice pour celui qui le prononce. C'est le bourreau, et non les victimes, qui devient le sujet central de la tragédie.
+
+Pour construire son Brutus, Catherine Bernard puise dans trois grandes sources antiques qu'elle traite avec une liberté critique revendiquée dans sa _Préface_. Elle y déclare d'emblée&nbsp;:
+
+> Quelques-uns ont trouvé que j'avais un peu trop adouci le caractère de Brutus, et Plutarque à la vérité en parle comme d'un homme si barbare, qu'il n'est pas surprenant que nos excellents Auteurs aient négligé ce sujet. 
+
+Ce faisant, elle pose immédiatement les termes du débat&nbsp;: il s'agit de choisir entre la brutalité des Anciens et une vision plus humaine du héros.
+
+Tite-Live constitue sa référence principale, et c'est précisément dans son ambiguïté que Bernard trouve la matière de son originalité. Elle justifie son choix ainsi
+
+> si d'ailleurs je n'avais vu dans Tite-Live de quoi me rassurer sur les sentiments de Brutus. Cet Historien dit qu'au travers de sa fermeté, on lui voyait une douleur profonde.
+
+L'expression latine _eminente animo patrio_, que les traducteurs contemporains interprétaient comme l'exaltation d'un courage patriotique et stoïcien, Bernard choisit de la lire différemment&nbsp;: elle y voit la trace d'une douleur paternelle subsistant sous le masque du consul. Cette lecture n'est pas une trahison du texte, mais une exploration de son ambiguïté constitutive. Elle précise du reste qu'elle n'a pas représenté Brutus
+
+> dans le Sénat, ni exposé aux yeux du peuple, mais dans un lieu, et dans des temps où il pouvait laisser agir les mouvements les plus secrets de son cœur
+
+Ce qui est déjà une décision de mise en scène qui oriente toute la dramaturgie vers l'intériorité.
+
+Plutarque, dans sa _Vie de Publicola_, dépeignait un Brutus d'une « férocité naturelle », capable d'assister au supplice de ses fils d'un œil sec. C'est précisément ce modèle que Bernard rejette. Elle lui emprunte cependant le personnage de l'esclave Vindicius, dont le rôle est essentiel au dénouement&nbsp;: c'est lui que Valérie introduit chez Aquilius, déclenchant involontairement la découverte du complot.
+
+Denys d'Halicarnasse fournit quant à lui les détails institutionnels et factuels sur les prémices de la République romaine, ancrant la pièce dans un cadre historique crédible.
+
+Au-delà des sources individuelles, c'est la manière dont Bernard traite ces sources qui constitue son véritable manifeste esthétique. Elle formule une règle générale de la pratique théâtrale qui est en réalité une prise de position dans la Querelle des Anciens et des Modernes
+
+> c'est ce me semble la pratique commune du Théâtre, que pourvu que l'on conserve l'essentiel des actions on est assez maître des motifs et des autres circonstances.
+
+Cette liberté revendiquée sur les « motifs » et les « circonstances » est précisément ce qui lui permet de substituer la psychologie du remords à la rigidité stoïcienne des modèles antiques. Elle va plus loin encore en formulant la règle éthique qui gouverne son choix
+
+> l'action de Brutus n'est point une action de vertu, si l'on peut soupçonner qu'il y entre de la férocité naturelle, il faut pour être héroïque qu'elle coûte infiniment.
+
+Ce principe — l'héroïsme comme victoire douloureuse sur soi-même — est le fondement de toute la tragédie.
+
+Bernard dialogue également avec ses contemporains, et ce dialogue est tout aussi structurant que ses sources antiques. Madeleine de Scudéry, dans _Clélie_, histoire romaine, avait déjà exploré la jeunesse de Brutus et sa vie sentimentale, imposant une lecture moderne du héros romain qui faisait primer la tendresse sur la rigueur stoïcienne. Bernard hérite de cette sensibilité et la porte à la scène, transformant ce qui était romanesque en ressort tragique. L'influence de Racine se fait sentir dans la recherche du vraisemblable psychologique et dans l'attention portée aux mécanismes intimes de la passion. Mais là où Racine plaçait souvent ses héros face à des dieux ou à des forces fatales extérieures, Bernard les confronte à la loi qu'ils ont eux-mêmes créée, déplaçant la fatalité de l'extérieur vers l'institution. Enfin, le rejet explicite de la tradition représentée par Boyer signale l'ambition proprement moderniste de Bernard&nbsp;: il ne s'agit pas de célébrer un sacrifice héroïque, mais d'en ausculter les ravages.
+
+## _Brutus_ et le règne de Louis XIV
+
+La pièce est créée en 1690, en pleine guerre de la Ligue d'Augsbourg (1688-1697), qui place la France dans une situation de péril extérieur sans précédent depuis les premières décennies du règne de Louis XIV. Brutus s'ouvre précisément sur la menace imminente d'une guerre avec les Étrusques, et le discours de l'ambassadeur Octavius à l'Acte I, scène 2, en donne l'image la plus saisissante&nbsp;:
+
+> Déjà de l'Etrurie il arme tous les bras,\
+  Déjà ses vastes champs sont couverts de soldats,\
+  Et bientôt Porsenna contre un peuple rebelle\
+  Va des fronts couronnés soutenir la querelle.
+  Car enfin de son Trône indignement chassé,\
+  Tarquin par ce forfait n'est pas seul offensé&nbsp;:\
+  Et si de Porsenna la valeur éclatante\
+  Me pouvait accabler Rome encore naissante,\
+  D'un roi dépossédé l'exil et les malheurs\
+  De tous les autres rois lui feraient des vengeurs.
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 1, v. 119-128)</span><br/>
+
+Cette coalition des rois étrangers soutenant Tarquin est une image transparente des coalitions européennes contre Louis XIV. La formule « fronts couronnés » est particulièrement significative&nbsp;: elle évoque la solidarité des monarques entre eux contre un peuple qui a chassé son roi — exactement l'argument de la Ligue d'Augsbourg. L'atmosphère de « liberté naissante » encore fragile face à des ennemis coalisés résonne ainsi directement avec la conjoncture politique contemporaine, sans que l'autrice ait besoin de nommer explicitement la réalité française.
+
+La question de l'origine de l'autorité politique traverse l'œuvre de Bernard de manière oblique, mais insistante. Au moment où elle écrit, ce débat est d'une actualité brûlante&nbsp;: le pasteur protestant Pierre Jurieu affirme que ce sont « les peuples qui ont fait les rois », s'opposant frontalement à la doctrine de la monarchie absolue de droit divin. Dans _Brutus_, Bernard ne tranche pas explicitement, mais elle met en scène une vision de la légitimité qui n'est pas inconditionnelle. La réplique la plus politiquement audacieuse de la pièce se trouve à l'Acte I, scène 2, dans la réponse de Brutus à Octavius&nbsp;:
+
+> Un Roi qui de nos lois tient son autorité,\
+  Coupable ou vertueux doit être respecté.\
+  Mais bravant et nos lois et ces lois si sacrées\
+  Par la Nature même aux mortels inspirées...
+<span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 59-62)</span><br/>
+
+> Ah&nbsp;! nul encor chez nous par cette infâme voix\
+  N'avait de la Couronne osé faire sa proie&nbsp;;\
+  Un Roi qui le premier règne contre la loi,\
+  D'un peuple vertueux sera le dernier Roi.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 85-88)</span><br/>
+
+Le tyran forge lui-même la légitimité de sa chute&nbsp;: c'est une thèse politique que Bernard fait porter par son héros principal, ce qui lui confère une autorité dramatique considérable.
+
+Par ailleurs, le portrait d'un peuple inconstant brossé par Octavius dans ce même discours mérite attention
+
+> Ils ne consultent plus les lois, ni la Justice,\
+Un caprice détruit ce qu'a fait un caprice.\
+Le peuple en ne suivant que sa légèreté,\
+Se flatte d'exercer sa fausse liberté
+<span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 33-36)</span><br/>
+
+Ironiquement, c'est l'ambassadeur de Tarquin qui tient ce discours — ce qui signale que Bernard ne l'endosse pas, mais le met en scène pour mieux le démonter par la réplique de Brutus.
+
+Le théâtre de Bernard opère une démythification systématique des grandes figures du pouvoir, qui constitue une critique implicite de la raison d'État absolutiste. Là où Corneille célébrait des héros solaires et des volontés inébranlables, Bernard montre les dessous de l'Histoire. La scène la plus explicite à cet égard est le monologue de Brutus seul après avoir prononcé la sentence, à l'Acte V, scène 6, où il apostrophe le Sénat avec une amertume sarcastique&nbsp;:
+
+> Va, Ministre cruel,\
+  Par mon ordre à mes fils porter le coup mortel.\
+  Hé bien&nbsp;! es-tu content, Sénat impitoyable&nbsp;?\
+  Va repaître tes yeux d'un spectacle effroyable.\
+  Va te soûler du sang que je verse pour toi.\
+  Vante l'arrêt cruel que Rome obtient de moi.\
+  Nomme pour honorer l'excès de ma furie,\
+  Le bourreau de son sang, père de la Patrie.\
+  Accable-moi d'honneurs, et moi qui désormais\
+  Ne pourrai soutenir l'horreur que je me fais,\
+  Je vais loin de ces murs pleins de mon infortune.\
+  Je vais quitter le soin de la cause commune.\
+  Exerce qui voudra tes rigoureuses lois,\
+  Il m'en a trop coûté pour maintenir leurs droits.\
+  Rome, tu vois Brutus qui tremble, qui s'étonne.\
+  Pardonne la faiblesse, où mon coeur s'abandonne&nbsp;:\
+  Quand malgré ma douleur et mes gémissements,\
+  J'affermis par mon sang tes heureux fondements.\
+  Mais j'aperçois Titus. Ciel&nbsp;! Pourrai-je lui dire,\
+  Qu'il faut que dans ce jour par mon ordre il expire&nbsp;?
+<span style="float:right; text-align:right; margin-right:10%;">(V, 6, v. 1443-1462)</span><br/>
+
+La formule finale est la plus acérée&nbsp;: le titre de « père de la Patrie » est ici retourné contre lui-même, révélant que la République se fonde sur un « parricide » institutionnalisé. Ce Brutus qui tremble et qui s'étonne — « Rome, tu vois Brutus qui tremble, qui s'étonne » (v. 1457) — est aux antipodes du héros cornélien. Il incarne ce que l'on pourrait appeler un « pouvoir impuissant »&nbsp;: le consul le plus puissant de Rome est esclave de la loi qu'il a lui-même érigée.
+
+La biographie de Catherine Bernard éclaire d'une lumière particulière ses choix dramaturgiques. Issue d'une famille protestante rouennaise, elle abjure sa foi en octobre 1685, l'année même de la Révocation de l'édit de Nantes. Cette expérience personnelle du renoncement forcé se lit en filigrane dans plusieurs passages. Le plus suggestif est peut-être celui où Valérius évoque la dissimulation de Brutus sous la tyrannie des Tarquins, à l'Acte I, scène 2&nbsp;:
+
+> Ne fut-il pas réduit à la nécessité\
+  D'emprunter les dehors de la stupidité&nbsp;?\
+  Dieux&nbsp;! Le soin d'un héros, son étude éternelle\
+  Fut de cacher une âme et trop noble, et trop belle
+  <span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 99-102)</span><br/>
+
+L'idée de devoir cacher sa vraie nature pour survivre sous un régime oppressif résonne comme une expérience personnelle transposée en mythe romain. De même, la Rome de Brutus cesse progressivement d'être la cité glorieuse de la tradition classique pour devenir un espace coercitif, comme le résume la dernière réplique de la pièce, prononcée par Valérius&nbsp;: « Ô tyrannique amour&nbsp;! Ô funeste journée&nbsp;! / À quel prix, liberté, nous êtes-vous donnée&nbsp;? » (v. 1561-1562). Ce mot final, « liberté », sur lequel se ferme la pièce, est le plus politique de tous&nbsp;: Bernard ne célèbre pas la fondation de la République, elle en expose le coût humain.
+
+## Brutus, personnage tragique
+
+L'originalité centrale de Catherine Bernard réside dans sa volonté de substituer à la statue de marbre antique un être de chair traversé par le pathos. Dans sa _Préface_, elle formule ce choix comme une nécessité éthique&nbsp;:
+
+> l'action de Brutus n'est point une action de vertu, si l'on peut soupçonner qu'il y entre de la férocité naturelle&nbsp;; il faut pour être héroïque qu'elle coûte infiniment.
+
+Cet « adoucissement » du protagoniste n'est donc pas une concession à la galanterie des salons, mais une exigence morale&nbsp;: l'héroïsme ne peut susciter l'empathie du spectateur que s'il est une victoire douloureuse sur soi-même. Un Brutus insensible ne serait pas un héros, mais un monstre. En lui restituant sa souffrance paternelle, Bernard rend son sacrifice véritablement tragique au sens aristotélicien&nbsp;: il suscite à la fois l'admiration et la pitié. Cette dualité est explicitement nommée dans la scène capitale de l'Acte IV, scène 6, quand Brutus reçoit l'aveu de Titus&nbsp;:
+
+> À tous mes sentiments je ne puis plus suffire.\
+  Je te vois criminel&nbsp;; cependant je t'admire.\
+  Ton crime fit ma haine, et je la sens mourir,\
+  Tu redeviens mon fils lorsque tu veux périr
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1185-1188)</span><br/>
+
+C'est la définition bernardienne du tragique&nbsp;: le héros est simultanément juge et père, et les deux identités se déchirent en lui sans qu'il puisse les réconcilier.
+
+La structure dramatique de Brutus repose sur un paradoxe fondamental&nbsp;: le personnage le plus puissant de Rome est simultanément le plus impuissant. Il est esclave de la loi qu'il a lui-même érigée, incapable d'y déroger sans détruire ce pour quoi il a tout sacrifié. Cette figure du « pouvoir impuissant » est mise en scène de manière particulièrement saisissante dans le grand monologue du début de l'Acte V, scène 4, quand le Sénat lui remet la décision du sort de ses fils. Brutus tente d'abord de retrouver sa fermeté de consul&nbsp;: « Reprends donc d'un Consul toute la dignité&nbsp;; / De la mort de tes fils vois la nécessité » (v. 1371-1372). Mais la résolution se brise aussitôt&nbsp;:
+
+> Faut-il un tel secours à ma faible vertu&nbsp;?\
+  Ha&nbsp;! Titus, ton remords satisfaisait ton père,\
+  Rome ni le Sénat n'ont pu s'en satisfaire.\
+  Ils ont trop fait sentir à l'amour paternel,\
+  Qu'un criminel d'Etat, est toujours criminel.\
+  Et ne puis-je prévoir la fuite dangereuse\
+  Qu'aurait pour les forfaits ma clémence honteuse&nbsp;!\
+  Si je sauve mes fils, cent traîtres chaque jour\
+  Vont naître autorisés par mon timide amour.
+<span style="float:right; text-align:right; margin-right:10%;">(V, 4, v. 1388-1396)</span><br/>
+
+Et quand il tente de donner l'ordre à ses gardes, il s'interrompt lui-même&nbsp;: « Allez dire à mes fils. Ciel&nbsp;! quelle est ma fureur&nbsp;! » (v. 1407). La loi finit par triompher, mais à quel prix&nbsp;: « Où la Loi doit parler, c'est au sang à se taire » (v. 1398). La tragédie se déplace ainsi entièrement de l'action politique vers le déchirement intime.
+
+La tendresse qui perce malgré lui dans la scène avec Titus à l'Acte IV, scène 6, illustre également cette oscillation permanente entre deux identités. Brutus embrasse son fils avant même de connaître sa faute&nbsp;: 
+
+> C'est à toi d'effacer la honte de ton frère,\
+  De réparer l'affront que je vais recevoir.\
+  Embrasse-moi, mon fils&nbsp;; toi mon unique espoir.\
+  Toi seul auras ce nom et la force en redouble\
+  Mais encore une fois, parle. Quel est ce trouble&nbsp;?\
+  Réponds, mon fils, réponds à mes empressements.
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1123-1127)</span><br/>
+
+pour retomber aussitôt dans l'effroi&nbsp;: « Ha Ciel&nbsp;! Je tremble. Expliquez ce secret » (v. 1131). C'est cette alternance entre la tendresse et la rigueur, entre le père et le consul, qui constitue le ressort tragique central de la pièce.
+
+Le traitement du remords distingue nettement Bernard de ses prédécesseurs. Chez Corneille, le héros triomphe de ses passions par un acte de volonté souveraine qui lui confère une grandeur quasi surhumaine. Chez Bernard, le héros n'échappe pas à ses passions&nbsp;: il agit malgré elles, et c'est précisément ce « malgré » qui constitue sa dignité tragique. Le remords n'est pas une faiblesse&nbsp;: il est la preuve que la loi morale naturelle subsiste sous le citoyen et le magistrat. Cette idée est exprimée avec le plus de force dans les adieux de Brutus à Titus, à l'Acte V, scène 7&nbsp;: 
+
+> Titus, je te retrouve, et crois que sans faiblesse\
+  Je puis laisser pour toi renaître ma tendresse.\
+  Mon fils, car ton remords étouffant mon courroux,\
+  À la pitié d'un père arrache un nom si doux\
+  Tu fléchis de Brutus le courage inflexible,\
+  Tu frappes de mon coeur l'endroit le plus sensible,\
+  Lors que tu te repens, je ne puis te blâmer,\
+  Je ne puis que te plaindre, et peut-être t'aimer.\
+  Mais avec ces vertus, avec ce grand courage,\
+  Comment de ton devoir as-tu perdu l'image&nbsp;?\
+  Infortuné Titus, quel funeste moment\
+  A produit dans ton coeur un si grand changement?
+<span style="float:right; text-align:right; margin-right:10%;">(V, 7, v. 1209-1220)</span><br/>
+
+La tendresse « renaissante » dont parlait la _Préface_ s'actualise ici au moment même où Brutus sait qu'il va envoyer son fils à la mort — la tendresse et la sentence sont simultanées, et c'est cette simultanéité qui est proprement insupportable. Brutus lui-même nomme cette impossibilité dans sa dernière réplique&nbsp;: « Tu peux espérer tout hors de me consoler. / Adieu mon fils, adieu, je ne puis te parler » (v. 1503-1504).
+
+Le personnage de Titus fonctionne dans la pièce comme un double inversé de son père. Là où Brutus a choisi la République contre la nature, Titus est conduit par la nature — son amour pour Aquilie — au bord de la trahison. Mais la pièce lui accorde une forme de rédemption moderne par le remords. Quand Titus vient s'accuser devant son père, son discours témoigne d'une conscience morale qui est, paradoxalement, ce qui le rend admirable&nbsp;: « Vos reproches, Seigneur, n'égaleront jamais / Et ceux que je mérite, et ceux que je me fais » (v. 1163-1164). Il réclame lui-même le « supplice » le plus infamant, car comme il l'explique&nbsp;: 
+
+> je suis équitable, et j'ai plus mérité\
+  Pour donner à ma mort encor plus de justice,\
+  Il y faut ajouter la honte du supplice.\
+  Il faut servir d'exemple à qui peut m'imiter\
+  Je dois ma tête à Rome et je viens l'apporter.
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1180-1184)</span><br/>
+
+Ce raisonnement, que la _Préface_ avait anticipé, fait de Titus le personnage peut-être le plus moderne de la pièce&nbsp;: il intègre la loi au point de la retourner contre lui-même. Sa dernière formule, adressée à son père mourant, résume toute la pièce en deux vers&nbsp;: « Consolez-vous, mon père, et songez que Titus, / S'il n'eût point eu d'amour eût eu quelques vertus » (v. 1499-1500). L'amour est à la fois la cause de sa chute et la condition de son humanité.
+
+## Drames amoureux et personnages féminins
+
+Dans la dramaturgie de Bernard, l'amour n'est jamais un ornement sentimental ajouté à une intrigue politique préexistante&nbsp;: il en est le moteur essentiel. L'autrice démontre que les passions privées sont les failles par lesquelles la trahison s'insère dans l'édifice républicain. Le lien entre amour et politique est établi dès l'Acte I, scène 4, quand Brutus apprend que Titus résiste à l'hymen arrangé&nbsp;:
+
+> Ha Seigneur&nbsp;! Apprenez ma faute et mon malheur,\
+  Je ne puis vous cacher le trouble de mon cœur,\
+  Je n'en disconviens point, Valérie est aimable,\
+  Mais envers ses appâts je m'avouerai coupable&nbsp;;\
+  Depuis qu'à cet hymen vous m'avez engagé,\
+  Mon cœur sous d'autres lois malgré moi s'est rangé
+<span style="float:right; text-align:right; margin-right:10%;">(I, 4, v. 203-208)</span><br/>
+
+La formule « sous d'autres lois malgré moi » est symptomatique&nbsp;: l'amour est présenté comme une force qui s'impose contre la volonté, et qui entre donc en conflit direct avec la loi politique. C'est parce que Titus aime Aquilie qu'il est vulnérable au chantage d'Aquilius&nbsp;; c'est parce que Valérie aime Titus qu'elle déclenche involontairement sa perte. La sphère publique et la sphère privée ne sont pas séparées dans cette pièce&nbsp;: elles se contaminent mutuellement, et c'est de cette contamination que naît la tragédie.
+
+Le personnage d'Aquilie est l'un des plus complexes de la pièce, précisément parce qu'il illustre la violence extrême que le politique peut exercer sur l'intime. La scène centrale est à l'Acte II, scène 1, où Aquilius expose froidement son plan à Octavius&nbsp;: 
+
+> Il adore ma fille. Et peut-être par elle\
+  À Titus pour le roi j'inspirerai mon zèle.\
+  D'un cœur qu'elle possède elle sait le chemin.\
+  Je veux qu'elle lui parle en faveur de Tarquin
+<span style="float:right; text-align:right; margin-right:10%;">(II, 1, v. 349-352)</span><br/>
+
+La fille est réduite à n'être qu'un outil de persuasion. Mais Aquilius va plus loin encore&nbsp;: il fait d'Aquilie une garantie de sa propre sécurité, comme il l'explique&nbsp;: 
+
+> Il conduit ce qu'il aime au plus affreux trépas.\
+  Dans un même attentat avec moi je la lie,\
+  Et fais ma sûreté du péril d'Aquilie.
+<span style="float:right; text-align:right; margin-right:10%;">(II, 1, v. 372-374)</span><br/>
+
+La fille devient ainsi un otage, complice malgré elle, dont le danger même assure la loyauté de Titus.
+
+Face à cet ultime chantage, Aquilie résiste autant qu'elle peut. Lorsqu'elle est seule après l'injonction de son père, elle prononce une réplique unique mais absolue&nbsp;: « Non, cet affreux secret sera toujours scellé » (v. 488). Une seule ligne, mais elle dit tout&nbsp;: Aquilie choisit le silence et le sacrifice plutôt que de trahir Titus. La même tension entre amour, devoir filial et résistance morale se retrouve dans son face-à-face avec Titus à l'Acte II, scène 4, où elle lui dit&nbsp;: 
+
+> Ne me condamnez point avant que de savoir\
+  Ce qui fait mes refus, mes pleurs, mon désespoir.\
+  Non, je ne doute point de votre amour extrême,\
+  Je vous le marque assez, Seigneur, quand je vous aime&nbsp;;\
+  Mais malgré votre amour et malgré tout le mien,\
+  Renonçons l'un à l'autre, et n'espérons plus rien 
+<span style="float:right; text-align:right; margin-right:10%;">(II, 4, v. 539-544)</span><br/>
+  
+Cette résignation lucide — elle sait que la situation est sans issue bien avant Titus — fait d'Aquilie une figure tragique à part entière, et non simplement une victime passive.
+
+Son suicide final, signalé dans la scène dernière par Plautine marque le triomphe définitif de la violence d'État sur l'utopie amoureuse.
+
+> Aquilie en ce moment funeste,\
+  Soit d'un poison secret, ou soit de sa douleur,\
+  Expirante comme eux...
+<span style="float:right; text-align:right; margin-right:10%;">(V, 10, v. 1558-1560)</span><br/>
+
+Si Aquilie est la victime déclarée de la pièce, Valérie en est peut-être la figure la plus tragiquement complexe, car elle est à la fois l'instrument et la victime de la catastrophe, sans le savoir. La décision fatale est prise dès l'Acte I, scène 6&nbsp;: jalouse de l'amour que Titus porte à Aquilie, Valérie envoie son esclave Vindicius espionner chez Aquilius — uniquement pour des raisons amoureuses, comme elle l'explique elle-même&nbsp;: 
+
+> Vindicius est propre à servir mes projets,\
+  Cet esclave est sensible à tous mes intérêts&nbsp;;\
+  Tu sais qu'Aquilius avant moi fut son maître,\
+  Sans se rendre suspect il peut chez lui paraître 
+<span style="float:right; text-align:right; margin-right:10%;">(I, 6, v. 307-310)</span><br/>
+
+Rien dans ce discours ne suggère un motif civique&nbsp;: c'est la jalousie seule qui guide Valérie.
+
+L'ironie tragique culmine à l'Acte IV, scène 1, quand Valérie se réjouit de la découverte du complot, ignorant totalement qu'elle vient de condamner l'homme qu'elle aime. La réplique la plus amère de la pièce est ici&nbsp;: « Par bonheur mon esclave a découvert leur trame, / Lorsqu'il ne s'appliquait à servir que ma flamme » (v. 945-946). Le mot « bonheur » résume toute la cruauté de la situation&nbsp;: ce que Valérie appelle son bonheur est en réalité le début de son malheur. Elle ajoute quelques vers plus loin, exultant sur le sort de sa rivale&nbsp;: « Désormais tout sépare Aquilie et Titus, / La fille d'un coupable, et le fils de Brutus » (v. 963-964), sans comprendre qu'en disant cela, elle signe aussi la condamnation de Titus lui-même.
+
+La scène de reconnaissance a lieu à l'Acte IV, scène 7, quand Valérie comprend enfin ce qu'elle a fait. Son aveu est l'un des passages les plus intenses de la pièce&nbsp;: « Apprenez qui vous perd, Seigneur, c'est Valérie. / Sa folle passion, sa lâche jalousie » (v. 1257-1258). Et la description qu'elle donne de son propre acte atteint une forme de sublime noir&nbsp;: 
+
+> Par moi ce que j'adore est tout prêt d'expirer.\
+  Je prépare le fer qui doit trancher sa vie,\
+  J'excite ses bourreaux, détestable furie,\
+  J'allume le bûcher qui le doit consumer&nbsp;;\
+  Malheureuse, voilà comme je sais aimer
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 7, v. 1271-1275)</span><br/>
+
+L'amour s'est retourné en son contraire — non par méchanceté, mais par la mécanique implacable de la jalousie et de l'ignorance. À la fin de la pièce, Valérius retient Valérie qui veut se tuer, et décrit la décomposition de Brutus après la sentence&nbsp;: « Du plus grand des Romains j'ai vu l'âme héroïque / S'abattre sous le poids d'un devoir tyrannique » (v. 1529-1530). C'est Valérie, instrument involontaire de la catastrophe, qui reçoit ces mots&nbsp;: les deux destins sont ainsi liés dans la ruine commune.
+
+L'une des thèses les plus audacieuses que l'on peut dégager de la dramaturgie de Bernard est celle d'une forme de gynécocratie occulte&nbsp;: bien que physiquement entravées par les structures du pouvoir, les femmes dictent en réalité la marche de l'Histoire par leurs choix intimes. Ce sont elles qui, par leurs passions, leurs jalousies et leurs sacrifices, font basculer le destin de Rome. Aquilius l'a compris, qui instrumentalise sa fille&nbsp;; mais Valérie le démontre a contrario, en montrant qu'une passion non instrumentalisée — la jalousie spontanée — peut avoir des effets tout aussi décisifs sur la scène politique.
+
+Il est significatif à cet égard que ce soit une femme qui prononce le bilan moral le plus lucide de la pièce. Dès l'Acte I, scène 6, Valérie formule avec une clarté saisissante la logique de l'amour jaloux&nbsp;:
+
+> Moi je l'épouserais, lorsqu'il sent d'autres feux&nbsp;!\
+  Non, non, mon coeur trop fier, quoiqu'il soit amoureux,\
+  Va se faire une juste et triste violence&nbsp;;\
+  Aux ordres des Consuls je ferai résistance
+  <span style="float:right; text-align:right; margin-right:10%;">(I, 6, v. 287-290)</span><br/>
+
+La résistance de Valérie aux ordres des Consuls est motivée par l'amour blessé, et non par une conviction politique — ce qui souligne que chez Bernard, les ressorts affectifs privés priment toujours sur les décisions publiques.
+
+La complexité des figures féminines répond chez Bernard à une démarche symétrique&nbsp;: la féminisation du héros masculin. Les larmes de Brutus, sa tendresse avouée pour Titus, sa souffrance paternelle visible répondent à la fermeté d'Aquilie et à la lucidité désespérée de Valérie. Bernard opère ainsi une circulation du sentiment entre les sexes qui refuse toute catégorisation rigide. Le passage le plus explicite est à l'Acte V, scène 4, dans le grand monologue de Brutus&nbsp;: 
+
+> Non, non, dispensons-nous d'un devoir plein d'horreur,\
+  Il ne m'est point honteux de manquer de courage,\
+  Quand il faut pour punir aller jusqu'à la rage
+<span style="float:right; text-align:right; margin-right:10%;">(V, 4, v. 1408-1410)</span><br/>
+
+Brutus y admet que l'accomplissement de la loi exige quelque chose qui ressemble à de la barbarie, et que résister à cela n'est pas une faiblesse — formulation qui renverse entièrement la hiérarchie des valeurs cornéliennes.
+
+Cette porosité entre le masculin et le féminin, entre la loi et la tendresse, est elle-même un geste politique. En montrant que le consul le plus puissant de Rome pleure comme un père, Bernard suggère que la nature humaine résiste à toute réduction institutionnelle. La tendresse n'est pas une faiblesse réservée aux femmes&nbsp;: c'est la marque de ce qui subsiste d'humain sous le citoyen, le magistrat ou le sujet. C'est en ce sens que le théâtre de Catherine Bernard, au seuil des Lumières, annonce une révolution des sensibilités dont le XVIIIe siècle recueillera tout l'héritage.
+
+[^1]: La frise chronologique de la vie et des œuvres de Catherine Bernard a été constitué à partir des informations présentées dans Biet, Christian et al., _Le théâtre français du XVIIe siècle histoire, textes choisis, mises en scène_, Paris, Éd. L’avant-scène théâtre, coll. «&nbsp;Anthologie de l’avant-scène théâtre,&nbsp;» 2009, p.&nbsp;?.
+[^2]: III, 2, v. 857

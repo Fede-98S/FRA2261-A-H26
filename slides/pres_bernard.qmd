@@ -1,0 +1,309 @@
+---
+title: "_Brutus_: «&nbsp;Que vous m'êtes cruels Père, Rome, Patrie&nbsp;!&nbsp;»"
+subtitle: "Catherine Bernard"
+data: 09 - 04 - 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---
+
+## Plan
+<br/>
+<br/>
+<br/>
+
+- _Brutus_ et ses sources
+- _Brutus_ et le règne de Louis XIV
+- Brutus, personnage tragique
+- Drames amoureux et personnages féminins
+
+# _Brutus_: «&nbsp;Que vous m'êtes cruels Père, Rome, Patrie&nbsp;!&nbsp;»
+
+# _Brutus_ et ses sources
+
+## _Brutus_ et ses sources
+<br/>
+<br/>
+
+:::{.columns}
+
+:::{.column}
+
+Antiquité
+<br/>
+<br/>
+
+- Tite-Live
+<br/>
+<br/>
+
+- Plutarque, _Vie de Publicola_
+<br/>
+<br/>
+
+- Denys d'Halicarnasse
+
+:::
+
+:::{.column}
+
+Contemporains
+<br/>
+<br/>
+
+- Claude Boyer, _La Mort des enfants de Brute_, (1648)
+<br/>
+<br/>
+
+- Madeleine de Scudéry, _Clélie_, (1654)
+
+:::
+
+::::
+
+## _Brutus_ et ses sources
+
+> Quelques-uns ont trouvé que j'avais un peu trop adouci le caractère de Brutus, et Plutarque à la vérité en parle comme d'un homme si barbare, qu'il n'est pas surprenant que nos excellents Auteurs aient négligé ce sujet. [...] si d'ailleurs je n'avais vu dans Tite-Live de quoi me rassurer sur les sentiments de Brutus. Cet Historien dit qu'au travers de sa fermeté, on lui voyait une douleur profonde. [...] dans le Sénat, ni exposé aux yeux du peuple, mais dans un lieu, et dans des temps où il pouvait laisser agir les mouvements les plus secrets de son cœur.
+
+_Préface_
+
+## _Brutus_ et ses sources
+<br/>
+<br/>
+
+> c'est ce me semble la pratique commune du Théâtre, que pourvu que l'on conserve l'essentiel des actions on est assez maître des motifs et des autres circonstances. [...] l'action de Brutus n'est point une action de vertu, si l'on peut soupçonner qu'il y entre de la férocité naturelle, il faut pour être héroïque qu'elle coûte infiniment.
+
+_Préface_
+
+# _Brutus_ et le règne de Louis XIV
+
+## _Brutus_ et le règne de Louis XIV
+
+Ligue d’Augsbourg (1688-1697) | Renversement de la royauté des Tarquins et Fondation de la République romaine (509 av. J.-C.)
+
+> Déjà de l'Etrurie il arme tous les bras,\
+  Déjà ses vastes champs sont couverts de soldats,\
+  Et bientôt Porsenna contre un peuple rebelle\
+  Va des fronts couronnés soutenir la querelle.
+  Car enfin de son Trône indignement chassé,\
+  Tarquin par ce forfait n'est pas seul offensé&nbsp;:\
+  Et si de Porsenna la valeur éclatante\
+  Me pouvait accabler Rome encore naissante,\
+  D'un roi dépossédé l'exil et les malheurs\
+  De tous les autres rois lui feraient des vengeurs.
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 1, v. 119-128)</span><br/>
+
+## _Brutus_ et le règne de Louis XIV
+
+- pas de prise de position forte contre l'absolutisme
+- des lois naturelles à respecter
+
+> Un Roi qui de nos lois tient son autorité,\
+  Coupable ou vertueux doit être respecté.&emsp;\(60)\
+  Mais bravant et nos lois et ces lois si sacrées\
+  Par la Nature même aux mortels inspirées...
+<span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 59-62)</span><br/>
+
+> Ah&nbsp;! nul encor chez nous par cette infâme voix&emsp;\(85)\
+  N'avait de la Couronne osé faire sa proie&nbsp;;\
+  Un Roi qui le premier règne contre la loi,\
+  D'un peuple vertueux sera le dernier Roi.
+<span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 85-88)</span><br/>
+
+## _Brutus_ et le règne de Louis XIV
+
+L'inconstance du peuple par Octavius
+
+> Ils ne consultent plus les lois, ni la Justice,\
+Un caprice détruit ce qu'a fait un caprice.\
+Le peuple en ne suivant que sa légèreté,\
+Se flatte d'exercer sa fausse liberté
+<span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 33-36)</span><br/>
+
+## _Brutus_ et le règne de Louis XIV
+
+L'amertume sarcastique de Brutus contre le Sénat. 
+
+> Va, Ministre cruel,\
+  Par mon ordre à mes fils porter le coup mortel.\
+  Hé bien&nbsp;! es-tu content, Sénat impitoyable&nbsp;?\
+  Va repaître tes yeux d'un spectacle effroyable.\
+  Va te soûler du sang que je verse pour toi.\
+  Vante l'arrêt cruel que Rome obtient de moi.\
+  Nomme pour honorer l'excès de ma furie,\
+  Le bourreau de son sang, père de la Patrie.\
+  Accable-moi d'honneurs, et moi qui désormais\
+  Ne pourrai soutenir l'horreur que je me fais,\
+  Je vais loin de ces murs pleins de mon infortune.\
+  Je vais quitter le soin de la cause commune.\
+  Exerce qui voudra tes rigoureuses lois,\
+  Il m'en a trop coûté pour maintenir leurs droits.\
+  Rome, tu vois Brutus qui tremble, qui s'étonne.\
+  Pardonne la faiblesse, où mon coeur s'abandonne&nbsp;:\
+  Quand malgré ma douleur et mes gémissements,\
+  J'affermis par mon sang tes heureux fondements.\
+  Mais j'aperçois Titus. Ciel&nbsp;! Pourrai-je lui dire,\
+  Qu'il faut que dans ce jour par mon ordre il expire&nbsp;?
+<span style="float:right; text-align:right; margin-right:10%;">(V, 6, v. 1443-1462)</span><br/>
+
+## _Brutus_ et le règne de Louis XIV
+
+De famille protestante, elle abjure en 1685, année de la Révocation de l'édit de Nantes -> écho dans sa pièce
+
+> Ne fut-il pas réduit à la nécessité\
+  D'emprunter les dehors de la stupidité&nbsp;?\
+  Dieux&nbsp;! Le soin d'un héros, son étude éternelle\
+  Fut de cacher une âme et trop noble, et trop belle
+  <span style="float:right; text-align:right; margin-right:10%;">(I, 2, v. 99-102)</span><br/>
+
+# Brutus, personnage tragique
+
+## Brutus, personnage tragique
+<br/>
+<br/>
+
+> l'action de Brutus n'est point une action de vertu, si l'on peut soupçonner qu'il y entre de la férocité naturelle&nbsp;; il faut pour être héroïque qu'elle coûte infiniment.
+
+_Préface_
+
+## Brutus, personnage tragique
+<br/>
+<br/>
+
+Brutus et l'aveu de Titus
+
+> À tous mes sentiments je ne puis plus suffire.\
+  Je te vois criminel&nbsp;; cependant je t'admire.\
+  Ton crime fit ma haine, et je la sens mourir,\
+  Tu redeviens mon fils lorsque tu veux périr
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1185-1188)</span><br/>
+
+## Brutus, personnage tragique
+
+Le conflit de Brutus
+
+> Faut-il un tel secours à ma faible vertu&nbsp;?\
+  Ha&nbsp;! Titus, ton remords satisfaisait ton père,\
+  Rome ni le Sénat n'ont pu s'en satisfaire.\
+  Ils ont trop fait sentir à l'amour paternel,\
+  Qu'un criminel d'Etat, est toujours criminel.\
+  Et ne puis-je prévoir la fuite dangereuse\
+  Qu'aurait pour les forfaits ma clémence honteuse&nbsp;!\
+  Si je sauve mes fils, cent traîtres chaque jour\
+  Vont naître autorisés par mon timide amour.
+<span style="float:right; text-align:right; margin-right:10%;">(V, 4, v. 1388-1396)</span><br/>
+
+Tendresse pour son fils
+
+> C'est à toi d'effacer la honte de ton frère,\
+  De réparer l'affront que je vais recevoir.\
+  Embrasse-moi, mon fils&nbsp;; toi mon unique espoir.\
+  Toi seul auras ce nom et la force en redouble\
+  Mais encore une fois, parle. Quel est ce trouble&nbsp;?\
+  Réponds, mon fils, réponds à mes empressements.
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1123-1127)</span><br/>
+
+Tendresse pas comme faiblesse, mais preuve de morale naturelle
+
+> Titus, je te retrouve, et crois que sans faiblesse\
+  Je puis laisser pour toi renaître ma tendresse.\
+  Mon fils, car ton remords étouffant mon courroux,\
+  À la pitié d'un père arrache un nom si doux\
+  Tu fléchis de Brutus le courage inflexible,\
+  Tu frappes de mon coeur l'endroit le plus sensible,\
+  Lors que tu te repens, je ne puis te blâmer,\
+  Je ne puis que te plaindre, et peut-être t'aimer.\
+  Mais avec ces vertus, avec ce grand courage,\
+  Comment de ton devoir as-tu perdu l'image&nbsp;?\
+  Infortuné Titus, quel funeste moment\
+  A produit dans ton coeur un si grand changement?
+<span style="float:right; text-align:right; margin-right:10%;">(V, 7, v. 1209-1220)</span><br/>
+
+## Brutus, personnage tragique
+
+Titus comme renversement de Brutus
+
+> je suis équitable, et j'ai plus mérité\
+  Pour donner à ma mort encor plus de justice,\
+  Il y faut ajouter la honte du supplice.\
+  Il faut servir d'exemple à qui peut m'imiter\
+  Je dois ma tête à Rome et je viens l'apporter.
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 6, v. 1180-1184)</span><br/>
+
+«&nbsp;Consolez-vous, mon père, et songez que Titus, / S'il n'eût point eu d'amour eût eu quelques vertus&nbsp;» (v. 1499-1500)
+
+# Drames amoureux et personnages féminins
+
+## Drames amoureux et personnages féminins
+
+Résistance de Titus à l'hymen
+
+> Ha Seigneur&nbsp;! Apprenez ma faute et mon malheur,\
+  Je ne puis vous cacher le trouble de mon cœur,\
+  Je n'en disconviens point, Valérie est aimable,\
+  Mais envers ses appâts je m'avouerai coupable&nbsp;;\
+  Depuis qu'à cet hymen vous m'avez engagé,\
+  Mon cœur sous d'autres lois malgré moi s'est rangé
+<span style="float:right; text-align:right; margin-right:10%;">(I, 4, v. 203-208)</span><br/>
+
+## Drames amoureux et personnages féminins
+
+Aquilie
+
+> Il adore ma fille. Et peut-être par elle\
+  À Titus pour le roi j'inspirerai mon zèle.\
+  D'un cœur qu'elle possède elle sait le chemin.\
+  Je veux qu'elle lui parle en faveur de Tarquin
+<span style="float:right; text-align:right; margin-right:10%;">(II, 1, v. 349-352)</span><br/>
+
+> Il conduit ce qu'il aime au plus affreux trépas.\
+  Dans un même attentat avec moi je la lie,\
+  Et fais ma sûreté du péril d'Aquilie.
+<span style="float:right; text-align:right; margin-right:10%;">(II, 1, v. 372-374)</span><br/>
+
+> Ne me condamnez point avant que de savoir\
+  Ce qui fait mes refus, mes pleurs, mon désespoir.\
+  Non, je ne doute point de votre amour extrême,\
+  Je vous le marque assez, Seigneur, quand je vous aime&nbsp;;\
+  Mais malgré votre amour et malgré tout le mien,\
+  Renonçons l'un à l'autre, et n'espérons plus rien 
+<span style="float:right; text-align:right; margin-right:10%;">(II, 4, v. 539-544)</span><br/>
+
+## Drames amoureux et personnages féminins
+
+Valérie
+
+> Vindicius est propre à servir mes projets,\
+  Cet esclave est sensible à tous mes intérêts&nbsp;;\
+  Tu sais qu'Aquilius avant moi fut son maître,\
+  Sans se rendre suspect il peut chez lui paraître 
+<span style="float:right; text-align:right; margin-right:10%;">(I, 6, v. 307-310)</span><br/>
+
+> Par moi ce que j'adore est tout prêt d'expirer.\
+  Je prépare le fer qui doit trancher sa vie,\
+  J'excite ses bourreaux, détestable furie,\
+  J'allume le bûcher qui le doit consumer&nbsp;;\
+  Malheureuse, voilà comme je sais aimer
+<span style="float:right; text-align:right; margin-right:10%;">(IV, 7, v. 1271-1275)</span><br/>
+
+> Moi je l'épouserais, lorsqu'il sent d'autres feux&nbsp;!\
+  Non, non, mon coeur trop fier, quoiqu'il soit amoureux,\
+  Va se faire une juste et triste violence&nbsp;;\
+  Aux ordres des Consuls je ferai résistance
+  <span style="float:right; text-align:right; margin-right:10%;">(I, 6, v. 287-290)</span><br/>
+
+## Drames amoureux et personnages féminins
+<br/>
+<br/>
+Brutus - opposition amour et loi
+
+> Non, non, dispensons-nous d'un devoir plein d'horreur,\
+  Il ne m'est point honteux de manquer de courage,\
+  Quand il faut pour punir aller jusqu'à la rage
+<span style="float:right; text-align:right; margin-right:10%;">(V, 4, v. 1408-1410)</span><br/>
