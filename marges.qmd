@@ -1,0 +1,46 @@
+---
+title: "Marges"
+---
+
+# Les Marges: le hors Paris entre provinces et étranger
+
+<!--<iframe src="slides/pres_marge.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="slides/pres_marge.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>-->
+
+# Le Païzan astrologue
+
+## Personnages
+
+- Le Duc
+- La Princesse fille du Duc
+- Le Baron amoureux de la Princesse
+- Geolfae garde du Duc
+- L'Astrologue
+- Le Païzan
+
+## Résumé du premier acte
+
+### Scène 1: Le Duc et Le Baron
+
+Le Baron parle au Duc des astrologues, comme Nostradamus. Le Duc n'y croit pas vraiment, mais il se laisse convaincre et lui demande d'en trouver un de talent.
+
+### Scène 2: Le Duc, Le Baron et Geolafe
+
+La deuxième scène présente le long récit de Geolafe, qui a assisté aux prédictions d’une femme capable de prédire le passé et l’avenir (vv. 134-228). Face à l'étonnement du duc et malgré son désaccord avec les frasques de voleur de Geolafe, celui-ci lui pardonne. Geolafe s'explique à nouveau dans une deuxième tirade (vv. 260-298). Le duc lui dit de rechercher « ce devin », lui offre de l'argent et lui remet une lettre à l'intention de ses officiers (vv. 299-316).
+
+### Scène 3: Le Baron et Geolafe
+
+Le baron avoua à Geolafe son amour pour la princesse, mais il sait que son rang ne lui permet pas de conquérir son cœur. Il décide donc de s'entendre avec Geolafe pour trouver une nécromancienne capable de faire croire que le prince qui souhaite épouser la princesse n'est pas une personne respectable. Geolafe doute de pouvoir trouver quelqu'un de ce genre, mais il accepte tout de même de jouer le jeu, soucieux de tenir parole. 
+
+### Scène 4: Le Baron
+
+Il craint de ne pas trouver quelqu'un qui soit prêt à mettre ses connaissances à sa disposition en échange d'argent et à lui rendre service.
+
+## Acte 2
+
+<iframe src="jean_de_cabanes.pdf" title="description_of_embedded_content" style="width:100%; height:600px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="jean_de_cabanes.pdf" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>

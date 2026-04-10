@@ -25,12 +25,14 @@ Fondé sur le rapport historique entre le texte et la scène, ce cours vise à f
 | 26 mars | _Le Favori_ |
 | 2 avril | _Phèdre et Hippolyte_ |
 | 9 avril | Cours + conférence de Pierre Lyraud sur _Brutus_ |
-| 16 avril | Dernier cours |
+| 16 avril | Dernier cours, _Le Païzan astrologue_ (acte II) |
 | **23 avril** | **REMISE DU TRAVAIL FINAL** |
 
 # Lectures
 
 BERNARD, Catherine, [_Brutus_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/BERNARD_BRUTUS.xml), 1691. 
+
+CABANES, Jean de, [_Le Païzan astrologue_](https://studium.umontreal.ca/pluginfile.php/11472362/mod_resource/content/1/jean_de_cabanes.pdf), 16.
 
 CORNEILLE, Pierre, [_L’Illusion comique_](https://theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_ILLUSIONCOMIQUE.xml), 1639.
 

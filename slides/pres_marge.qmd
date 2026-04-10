@@ -1,0 +1,13 @@
+---
+title: "Les Marges: le hors Paris entre provinces et étranger"
+data: 16 - 04 - 2026
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    css: style_pres.css
+    scrollable: true
+    theme: serif
+---

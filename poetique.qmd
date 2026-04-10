@@ -151,6 +151,14 @@ Il conclut son troisième discours disant qu’il n’arrive pas à trouver le r
 
 **19 mars 2026**
 
+# Initiation à la Commedia dell'Arte, par M Matilde Innocenti
+
+<iframe src="commedia_arte.pdf" title="description_of_embedded_content" style="width:100%; height:400px;">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+<figcaption><a href="commedia_arte.pdf" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+
 # Des Italiens au geste théâtral
 
 <iframe src="slides/pres_jeu19.html" title="description_of_embedded_content" style="width:100%; height:400px;">
