@@ -2,45 +2,160 @@
 title: "Marges"
 ---
 
-# Les Marges: le hors Paris entre provinces et étranger
+# Les Marges&emsp;: le hors Paris entre provinces et étranger
 
-<!--<iframe src="slides/pres_marge.html" title="description_of_embedded_content" style="width:100%; height:400px;">
+<iframe src="slides/pres_marge.html" title="description_of_embedded_content" style="width:100%; height:400px;">
   <p>Your browser does not support iframes.</p>
 </iframe>
-<figcaption><a href="slides/pres_marge.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>-->
+<figcaption><a href="slides/pres_marge.html" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
 
-# Le Païzan astrologue
+Au XVII<sup>e</sup> siècle, les termes «&emsp;province&emsp;» et «&emsp;provincial&emsp;» ne sont pas neutres. Ils désignent tout ce qui se situe en dehors de Paris, c'est-à-dire loin du centre du pouvoir politique et, par extension, du «&emsp;bon goût&emsp;». Le théâtre des provinces serait ainsi marqué par un triple éloignement&emsp;: géographique, esthétique et linguistique. En effet, dans la vie quotidienne comme dans la pratique artistique de l'époque, les langues régionales — l'occitan, le basque, et d'autres encore — sont pleinement vivantes et présentes sur scène.
 
-## Personnages
+Pourtant, cet éloignement de la capitale ne signifie pas l'absence de vie théâtrale. Bien au contraire&emsp;: comme le rappelle Mongrédien, le besoin du jeu de théâtre est si profondément ancré dans le cœur humain qu'il naît spontanément, même dans les conditions les plus modestes, porté par des amateurs qui suppléent aux professionnels. Tout au long du XVII<sup>e</sup> siècle, on assiste à une véritable prolifération de troupes de campagne — les archives en dénombrent environ deux cents — qui s'inscrivent dans le tissu des fêtes locales traditionnelles, aux côtés des représentations religieuses organisées par les confréries pieuses. La plus célèbre de ces troupes ambulantes n'est autre que celle du jeune Molière, qui parcourut les provinces pendant plus d'une décennie avant de s'imposer à Paris.
+
+Ce théâtre itinérant se joue dans des conditions souvent précaires&emsp;: jeux de paume, hôtelleries, granges, ou en plein air à la belle saison. Le premier théâtre stable en province ne sera construit qu'en 1688, à Rouen. Les troupes se dirigent prioritairement vers les grandes villes dotées de gouvernements militaires, de parlements ou d'états provinciaux, là où se trouve un public suffisamment nombreux. Leur organisation interne nous est connue grâce à une centaine de contrats d'association conservés dans les archives notariales parisiennes&emsp;: si les troupes sont souvent constituées autour d'un noyau familial, les femmes en étaient néanmoins exclues des décisions financières.
+
+Cette réalité contraste fortement avec ce qui se passe à Paris, où la centralisation croissante attire auteurs et comédiens. Dès le XVI<sup>e</sup> siècle, de grands seigneurs jouaient le rôle de mécènes et des troupes ambulantes circulaient déjà librement&emsp;; mais au Grand Siècle, comme le note Mongrédien, tout auteur dramatique aspire désormais à être joué et imprimé à Paris. Les contrats des auteurs se signent dans la capitale, et la province ne voit plus passer que leurs renouvellements.
+
+Il s'agit donc, dès le départ, de se demander si cet éloignement est un manque ou bien une richesse, et de résister à la tentation de lire le théâtre des provinces uniquement comme un reflet appauvri de ce qui se fait à Paris. C'est précisément la question que pose l'anthologie Théâtre des provinces, et que nous allons explorer ensemble.
+
+## Une redécouverte progressive
+
+L'intérêt pour le théâtre provincial du XVII<sup>e</sup> siècle est relativement récent. C'est au début du XX<sup>e</sup> siècle que commence un premier mouvement de redécouverte du théâtre de cette période, qui s'étend ensuite aux pièces écrites en langues régionales et minoritaires. Ce regain d'attention s'est ensuite renouvelé à partir des années 2000, aboutissant à plusieurs publications importantes, dont le numéro de Littérature classique de 2018 et l'anthologie que nous utilisons dans ce cours.
+
+Ce retard historiographique nous invite à réfléchir&emsp;: pourquoi a-t-on si longtemps ignoré ce pan du théâtre français&emsp;? Parce que l'histoire littéraire a longtemps été écrite depuis Paris, et selon les critères esthétiques parisiens. Étudier le théâtre des provinces, c'est donc aussi remettre en question notre façon d'écrire l'histoire littéraire. 
+
+## Un corpus varié&emsp;: présentation de l'anthologie
+
+L'anthologie couvre une période allant de la fin du XVI<sup>e</sup> siècle à la première moitié du XVIII<sup>e</sup> siècle. Elle réunit des œuvres relevant de genres très divers : la pastorale, la comédie, la tragi-comédie et le mystère — la farce étant la seule grande forme absente du recueil.
+
+La diversité est également formelle&emsp;: certaines pièces sont en vers, d'autres en prose. Ce choix éditorial vise à offrir un échantillonnage représentatif du théâtre dans les provinces. Il faut cependant rester prudent&emsp;: nous n'avons souvent aucune certitude quant aux conditions réelles de représentation de ces pièces.
+
+Sur le plan éditorial, les éditeurs ont choisi de conserver la graphie et la ponctuation originales, contrairement à l'usage qui privilégie généralement la modernisation. Ce choix témoigne du respect accordé à la spécificité linguistique de ces textes.
+
+## Les caractéristiques du théâtre des provinces
+
+**Un théâtre de la mixité générique**&emsp;: le théâtre provincial reste largement tributaire des pratiques de la Renaissance et de l'humanisme. Les genres n'y sont pas encore fixés : on y observe des mélanges, des hybridations. L'influence du théâtre espagnol et du théâtre italien y est particulièrement forte.
+
+**La permanence du mystère**&emsp;: alors qu'à Paris le mystère disparaît progressivement de la scène, il reste un genre vivant dans les provinces. Dans des régions éloignées de la capitale, comme le Dauphiné et les zones francophones des Alpes (y compris côté italien), des représentations de mystères sont attestées jusqu'à la première moitié du XVIIIe siècle. Ce décalage chronologique est en lui-même très révélateur.
+
+**Un théâtre ancré dans l'actualité locale**&emsp;: le théâtre provincial est souvent un théâtre de proximité : il met en scène l'actualité politique contemporaine et les événements locaux. Que ce soit dans les tragédies ou dans les mystères, on trouve des références à la vie politique du moment ou à l'émergence de nouveaux cultes religieux. C'est une dimension que le théâtre parisien, plus tourné vers l'universel et l'antique, développe moins.
+
+**Une scénographie traditionnelle**&emsp;: la mise en scène provinciale maintient des conventions héritées de périodes antérieures. On y retrouve notamment la pluralité des lieux simultanés — aussi appelés mansions ou chambres — où plusieurs espaces coexistent sur scène en même temps. Les décors se composent de toiles représentant trois à cinq espaces différents. La comédie tend à s'en dissocier, mais finit souvent par se conformer à cette tradition.
+
+## Paris et les provinces&emsp;: une divergence croissante à partir de 1630
+
+À partir des années 1630, Paris et les provinces s'éloignent de façon décisive. Dans la capitale, le Cardinal Richelieu, sous le règne de Louis XIII, installe et protège deux troupes permanentes. Il fonde ensuite l'Académie française, chargée entre autres de veiller sur les normes esthétiques — l'une de ses premières missions étant de trancher la célèbre Querelle du Cid (1637). Il commande également à La Mesnardière et à l'abbé d'Aubignac l'élaboration d'un modèle dramatique théorique. Ce mouvement de régulation culminera avec la Déclaration royale du 16 avril 1641, qui impose des normes morales et sociales à la pratique théâtrale.
+
+Dans les provinces, rien de tel. L'activité dramatique reste isolée et différente&emsp;: le théâtre y demeure une pratique festive, non professionnalisée. Il n'existe pas de lieux dédiés au spectacle, et par conséquent les techniques de jeu et de décor n'évoluent guère. On peut aussi se demander dans quelle mesure ces pièces étaient commandées, et par qui.
+
+## Vers une autre histoire du théâtre&emsp;?
+
+Étudier le théâtre des provinces, c'est élargir notre vision du XVII<sup>e</sup> siècle théâtral au-delà de Corneille, Molière et Racine. Les provinces offrent le spectacle d'un théâtre de permanence — un théâtre qui continue des pratiques héritées du baroque, du mystère médiéval, de l'esthétique irrégulière. Ce que l'on a longtemps qualifié de «&emsp;théâtre irrégulier&emsp;» n'est en réalité irrégulier que par rapport à des règles imposées rétroactivement depuis Paris sous l'impulsion de Richelieu.
+
+Le théâtre des provinces nous oblige donc à repenser les catégories mêmes avec lesquelles nous écrivons l'histoire littéraire.
+
+## Jean de Cabanes
+
+Jean de Cabanes (Aix-en-Provence, 1654-1717) est un auteur qui nous a laissé de nombreuses informations biographiques dans son livre de raison de 1698. Il regroupe ses œuvres dans des recueils thématiques suivant le genre. Pour ce qui concerne la langue, il défend l'usage de l'occitan de Provence (provençal), adoptant une position d'opposition avec la majorité de ses contemporains. L'usage d'une telle langue serait justifié à travers deux raisons historiques, ou pseudo-historiques&emsp;:
+
+- la présence de cette langue dans la Méditerranée
+- l'invention des rimes de la part des troubadours.
+
+L'originalité de sa position se manifeste à travers une sorte de «&emsp;récréation littéraire et linguistique, joignant la pratique à la théorie&emsp;». En effet, il travaille à la fois à une création littéraire et à des essais de linguistique, notamment sur les proverbes.
+
+### Le théâtre de Jean de Cabanes
+
+Il est auteur de cinq pièces d'après le ms. _Theatre provençaiu_ (BnF, fr. 12508), la cinquième figurent seulement dans le ms. _Leus pouesies provençales de Moussu de Cabano, gentillome de la ville de Daix_.
+
+- _Le Païzan astrologue_
+- _Liseto amourouse coumedios_
+- _Lei bigos coumedié_
+- _Lou jugi avare coumedié_
+- _Marra ou lou fouil fach sagi_
+
+## _Le Païzan astrologue_
+
+### Introduction
+
+_Le Païzan astrologue_ est une comédie s'inscrivant dans son temps. L'astrologie devient un élément fondamental de l'époque, marquée par l'influence des astres sur la vie des hommes, notamment lors du passage de comètes en 1664-1665 et 1668. Le personnage de l'astrologue revient dans plusieurs œuvres françaises et espagnoles qui pourraient avoir influencé Jean de Cabanes. De même, la présence d'un paysan est symbole de comicité&emsp;, souvent mise en place à travers son décalage linguistique — ici, le personnage parle en provençal ou dans un mélange des deux langues produisant des effets comiques. Le paysan, content de son statut au début de la pièce, le remet en question et aspire à s'élever, d'où le mélange de provençal et de français pour se faire comprendre, sans y parvenir. Le tout dernier vers de la pièce, «&emsp;Palot eres, palot seras&emsp;» (v. 2604), souligne l'immobilité sociale.
+
+### Personnages
 
 - Le Duc
 - La Princesse fille du Duc
 - Le Baron amoureux de la Princesse
 - Geolfae garde du Duc
-- L'Astrologue
-- Le Païzan
+- L'Astrologue (Pancrace)
+- Le Païzan (Antoni Cigalo)
 
-## Résumé du premier acte
+### Résumé du premier acte
 
-### Scène 1: Le Duc et Le Baron
+#### Scène 1: Le Duc et Le Baron
 
 Le Baron parle au Duc des astrologues, comme Nostradamus. Le Duc n'y croit pas vraiment, mais il se laisse convaincre et lui demande d'en trouver un de talent.
 
-### Scène 2: Le Duc, Le Baron et Geolafe
+#### Scène 2: Le Duc, Le Baron et Geolafe
 
-La deuxième scène présente le long récit de Geolafe, qui a assisté aux prédictions d’une femme capable de prédire le passé et l’avenir (vv. 134-228). Face à l'étonnement du duc et malgré son désaccord avec les frasques de voleur de Geolafe, celui-ci lui pardonne. Geolafe s'explique à nouveau dans une deuxième tirade (vv. 260-298). Le duc lui dit de rechercher « ce devin », lui offre de l'argent et lui remet une lettre à l'intention de ses officiers (vv. 299-316).
+La deuxième scène présente le long récit de Geolafe, qui a assisté aux prédictions d’une femme capable de prédire le passé et l’avenir (vv. 134-228). Face à l'étonnement du duc et malgré son désaccord avec les frasques de voleur de Geolafe, celui-ci lui pardonne. Geolafe s'explique à nouveau dans une deuxième tirade (vv. 260-298). Le duc lui dit de rechercher «&emsp;ce devin&emsp;», lui offre de l'argent et lui remet une lettre à l'intention de ses officiers (vv. 299-316).
 
-### Scène 3: Le Baron et Geolafe
+#### Scène 3: Le Baron et Geolafe
 
 Le baron avoua à Geolafe son amour pour la princesse, mais il sait que son rang ne lui permet pas de conquérir son cœur. Il décide donc de s'entendre avec Geolafe pour trouver une nécromancienne capable de faire croire que le prince qui souhaite épouser la princesse n'est pas une personne respectable. Geolafe doute de pouvoir trouver quelqu'un de ce genre, mais il accepte tout de même de jouer le jeu, soucieux de tenir parole. 
 
-### Scène 4: Le Baron
+#### Scène 4: Le Baron
 
 Il craint de ne pas trouver quelqu'un qui soit prêt à mettre ses connaissances à sa disposition en échange d'argent et à lui rendre service.
 
-## Acte 2
+### Acte 2
 
 <iframe src="jean_de_cabanes.pdf" title="description_of_embedded_content" style="width:100%; height:600px;">
   <p>Your browser does not support iframes.</p>
 </iframe>
 <figcaption><a href="jean_de_cabanes.pdf" target="_blank">Ouvrir la présentation dans une autre fenêtre</a>.</figcaption>
+
+Ce deuxième acte fournit différents éléments d'analyse et de compréhension de la dramaturgie provençale.
+
+Le premier élément que nous pouvons y relever est la connaissance des antécédents classiques (latins)&emsp;; en effet, l'acte s'ouvre sur le bonheur du paysan, constituant une réécriture du deuxième livre des Géorgiques de Virgile&emsp;:
+
+> Que lou païzan es hurous&emsp;!&emsp; \(477)\
+Son sort n'â ren que non sié doux&emsp;;\
+Siégue en villo, siegue en campagno,\
+N'eissugo ny chagrin ny lagno :&emsp; \(480)\
+Dins son état, may que content,\
+À tout, debado n aura ren.\
+<span style="float:right; text-align:right; margin-right:10%;">(II, 1, v. 477-482)</span><br/>
+
+Pourtant, les références externes ne sont pas seulement savantes&emsp;: on a non seulement le renvoi à cette réécriture d'un auteur classique, mais, à travers la présence d'une chanson (v. 533-538, 541-549, 552-560, 563-571), on intègre la culture populaire locale, avec ses ambiguïtés et ses valeurs comiques.
+
+Dans la deuxième scène, Geolafe, personnage présenté dans le premier acte, prononce un monologue, tandis que se trouvent sur scène le paysan et probablement des musiciens et chanteur.se.s. Geolafe est inquiet dans sa recherche d'un astrologue, qui entre en scène à la scène suivante. L'astrologue, incarnant son métier, se promène sur la scène en contemplation, se parlant à lui-même. Après la reconnaissance, Geolafe essaie de le contacter et part chercher les autres membres de rang. L'astrologue, craignant de se faire duper, propose au paysan de lui apprendre à «&emsp;devenir grand seigneur&emsp;» (v. 859). Les deux personnages jouent sur le décalage de registre, non seulement entre français et provençal, mais également entre une langue plus élevée et une langue très basse. L'effet comique réside notamment dans la difficulté du paysan à saisir ce que dit l'astrologue&emsp;: si d'une part celui-ci renvoie aux planètes et se donne des airs savants, d'autre part le paysan ne pense qu'à manger (cf. Commedia dell'Arte).
+
+> <b>L'ASTROLOGUE</b>\
+Quelques paroles suffiront.\
+Il ne faut que vous mettre en tette\
+Le nom de certaine pianette,\
+Jupiter, & Mars, & Venus...&emsp; \(915)\
+<b>LE PAÏZAN</b>\
+Alto, moussu, n'en parlen plus.\
+Voûestrei mots sont de paure augura&emsp;?\
+N'ay ges d'enguen per la bruluro&emsp;?\
+& non siou pas tant mal-adrech\
+De me caufar senso aver frech.&emsp; \(920)\
+[Halte, monsieur, n'en parlons plus.\
+Vos mots son f de mauvais augure&emsp;!\
+Je n'ai aucun onguent pour les brûlures&emsp;!\
+Et je ne suis pas maladroit au point\
+De me chauffer sans avoir froide]\
+<b>L'ASTROLOGUE</b>\
+Vous ne dites que des sornettes.\
+Ce sont tous des noms des pianettes.\
+<b>LE PAÏZAN</b>\
+Planettos, tout ce que voudres&emsp;;\
+lou counouissi que lei plats nets,\
+Qu'iou même fau, quand la bourrido&emsp; \(925)\
+Es selon mon goust alestido.\
+[Planètes, tout ce que vous voudrez&emsp;;\
+Je ne connais que les plats nets,\
+Que je fais moi-même, quand la bourride\
+A été préparée selon mes goûts]
+<span style="float:right; text-align:right; margin-right:10%;">(II, 4, v. 912-926)</span><br/>

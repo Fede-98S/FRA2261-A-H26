@@ -1,5 +1,5 @@
 ---
-title: "Les Marges: le hors Paris entre provinces et étranger"
+title: "Les Marges&emsp;: le hors Paris entre provinces et étranger"
 data: 16 - 04 - 2026
 format:
   revealjs: 
@@ -11,3 +11,202 @@ format:
     scrollable: true
     theme: serif
 ---
+
+## Plan
+
+- Introduction
+- Une redécouverte progressive
+- Un corpus varié
+- Les caractéristiques du théâtre des provinces
+- Paris et les provinces
+- Vers une autre histoire du théâtre&emsp;?
+- _Le Païzan astrologue_
+  + Introduction
+  + Personnages
+  + Acte II
+
+# Introduction
+
+## Introduction
+
+«&emsp;Province&emsp;» et «&emsp;Provincial&emsp;»
+
+Triple éloignement&emsp;:
+
+- géographique
+- esthétique
+- linguistique
+
+## Introduction
+
+Quand&emsp;? 
+
+Ancrage dans la vie quotidienne, festive et religieuse.
+
+Qui&emsp;?
+
+Les troupes ambulantes, la majeure Molière - mais environ 200 troupes.
+
+Où&emsp;?
+
+Jeux de paume, hôtelleries, granges ou en plein air. I<sup>er</sup> théâtre à Rouen en 1688
+
+# Une redécouverte progressive
+
+## Une redécouverte progressive
+<br/>
+
+Au XX<sup>e</sup> mouvement de redécouverte du théâtre
+
+- Langues régionales et minoritaires
+- Auteurs «&emsp;mineurs&emsp;»
+<br/>
+
+Pourquoi&emsp;?
+
+- Centralisation du «&emsp;canon&emsp;»
+
+# Un corpus varié&emsp;: présentation de l'anthologie
+
+## Un corpus varié&emsp;: présentation de l'anthologie
+
+Le corpus est constitué de 7 pièce dont&emsp;:
+
+- pastorale
+- comédie
+- tragi-comédie
+- mystère
+
+Absence de la farce.
+
+Au niveau formel&emsp;: prose et vers
+
+# Les caractéristiques du théâtre des provinces
+
+## Les caractéristiques du théâtre des provinces
+<br/>
+<br/>
+
+- Un théâtre de la mixité générique
+
+- La permanence du mystère
+
+- Un théâtre ancré dans l'actualité locale
+
+- Une scénographie traditionnelle
+
+# Paris et les provinces&emsp;: une divergence croissante à partir de 1630
+
+## Paris et les provinces&emsp;: une divergence croissante à partir de 1630
+
+Années 1630, cardinal Richelieu&emsp;: 
+
+- protection deux troupes permanentes
+- Académie française, normes esthétiques (Querelle du Cid, 1637)
+- La Mesnardière et l'abbé d'Aubignac - élaboration d'un modèle dramatique théorique
+- 16 avril 1641, Déclaration royale
+
+En province&emsp;: 
+
+- demeure une pratique festive, non professionnalisée
+- pas de lieux dédiés
+- techniques et de décor sans évolution
+
+# Jean de Cabanes
+
+## Jean de Cabanes
+<br/>
+<br/>
+
+La défense du provençal
+<br/>
+<br/>
+
+- la présence dans la Méditerranée
+
+- l'invention des rimes, les troubadours.
+
+## Jean de Cabanes&emsp;: le théâtre
+<br/>
+<br/>
+
+- _Le Païzan astrologue_
+- _Liseto amourouse coumedios_
+- _Lei bigos coumedié_
+- _Lou jugi avare coumedié_
+- _Marra ou lou fouil fach sagi_
+
+# _Le Païzan astrologue_
+
+## _Le Païzan astrologue_&emsp;: introduction
+
+Contexte
+
+- Passage de comètes en 1664-1665 et 1668
+
+- décalage linguistique (comique)
+
+- paysan content de son status -> pas d'évolution: «&emsp;Palot eres, palot seras&emsp;» (v. 2604)
+
+## _Le Païzan astrologue_&emsp;: Personnages
+<br/>
+<br/>
+
+- Le Duc
+- La Princesse fille du Duc
+- Le Baron amoureux de la Princesse
+- Geolfae garde du Duc
+- L'Astrologue (Pancrace)
+- Le Païzan (Antoni Cigalo)
+
+## _Le Païzan astrologue_&emsp;: Acte II
+
+- Références externes (classiques)
+
+> Que lou païzan es hurous&emsp;!&emsp; \(477)\
+Son sort n'â ren que non sié doux&emsp;;\
+Siégue en villo, siegue en campagno,\
+N'eissugo ny chagrin ny lagno :&emsp; \(480)\
+Dins son état, may que content,\
+À tout, debado n aura ren.\
+<span style="float:right; text-align:right; margin-right:10%;">(II, 1, v. 477-482)</span><br/>
+
+- Références externes (culture contemporaine) -> chanson (v. 533-538, 541-549, 552-560, 563-571)
+
+## _Le Païzan astrologue_&emsp;: Acte II
+
+Comique de langue et de geste:
+
+- paysan en provençal
+- _qui pro quo_ provençal - français (paysan - astrologue)
+- paysan et la bouffe (cf. Commedia dell'Arte)
+
+> <b>L'ASTROLOGUE</b>\
+Quelques paroles suffiront.\
+Il ne faut que vous mettre en tette\
+Le nom de certaine pianette,\
+Jupiter, & Mars, & Venus...&emsp; \(915)\
+<b>LE PAÏZAN</b>\
+Alto, moussu, n'en parlen plus.\
+Voûestrei mots sont de paure augura&emsp;?\
+N'ay ges d'enguen per la bruluro&emsp;?\
+& non siou pas tant mal-adrech\
+De me caufar senso aver frech.&emsp; \(920)\
+[Halte, monsieur, n'en parlons plus.\
+Vos mots son f de mauvais augure&emsp;!\
+Je n'ai aucun onguent pour les brûlures&emsp;!\
+Et je ne suis pas maladroit au point\
+De me chauffer sans avoir froide]\
+<b>L'ASTROLOGUE</b>\
+Vous ne dites que des sornettes.\
+Ce sont tous des noms des pianettes.\
+<b>LE PAÏZAN</b>\
+Planettos, tout ce que voudres&emsp;;\
+lou counouissi que lei plats nets,\
+Qu'iou même fau, quand la bourrido&emsp; \(925)\
+Es selon mon goust alestido.\
+[Planètes, tout ce que vous voudrez&emsp;;\
+Je ne connais que les plats nets,\
+Que je fais moi-même, quand la bourride\
+A été préparée selon mes goûts]
+<span style="float:right; text-align:right; margin-right:10%;">(II, 4, v. 912-926)</span><br/>
